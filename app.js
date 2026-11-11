@@ -20,7 +20,10 @@ const enCategoria = (id) => EQUIPOS_ORDEN.filter((e) => e.categoria === id);
 const nombreEquipo = (e) => e.categoria === "senior" ? "Primer equipo"
   : `${categoria(e.categoria).nombre}${enCategoria(e.categoria).length > 1 ? ` ${e.letra}` : ""}`;
 const rutaEquipo = (e) => e.categoria === "senior" ? "#/primer-equipo" : `#/equipo/${e.id}`;
-const proximo = (e) => e.partidos.find((p) => !p.resultado);
+// Sin resultado y desde hoy: un partido pasado sin resultado está aplazado o sin publicar
+const HOY = new Date().toISOString().slice(0, 10);
+const pendiente = (p) => !p.resultado && (!p.fecha || p.fecha >= HOY);
+const proximo = (e) => e.partidos.find(pendiente);
 const ultimo = (e) => e.partidos.filter((p) => p.resultado).at(-1);
 const posicion = (e) => { const i = e.clasificacion.findIndex((f) => f.propio); return i < 0 ? null : { pos: i + 1, ...e.clasificacion[i] }; };
 
@@ -181,7 +184,7 @@ const filaPartido = (p) => `
 
 function listaPartidos(e) {
   const ps = e.partidos.map((p) => ({ ...p, e }));
-  const pend = ps.filter((p) => !p.resultado), jug = ps.filter((p) => p.resultado).reverse();
+  const pend = ps.filter(pendiente), jug = ps.filter((p) => p.resultado).reverse();
   return `
     <section class="bloque"><div class="bloque-cab"><h2>Próximos partidos</h2></div>
       ${pend.length ? `<ol class="lista-partidos">${pend.map(filaPartido).join("")}</ol>` : vacio("No hay partidos pendientes.")}</section>
