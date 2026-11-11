@@ -2731,5 +2731,1393 @@ const EQUIPOS = [
    "Osiris Sieira Lago": 15
   },
   "descargado": "2026-11-11T13:17"
+ },
+ {
+  "id": "femenino-a",
+  "codigo": "3613499",
+  "categoria": "femenino",
+  "letra": "A",
+  "liga": "Tercera Federacion De Futbol Femenino",
+  "urlFederacion": "https://www.futgal.es/pnfg/NPcd/NFG_VisEquipos?cod_primaria=1000119&Codigo_Equipo=3613499",
+  "plantilla": [
+   "Laura Alejo Rebolo",
+   "Beatriz Conde Jamardo",
+   "Andrea Dosil Barreiro",
+   "Carla García Campaña",
+   "Gabriela González González",
+   "Antía González Piñeiro",
+   "Iria Otero Fuertes",
+   "Margarita Pombo Vilas",
+   "Eva M Regueira Martínez",
+   "Carla Sanda Fernández",
+   "Antia Vázquez Piñeiro",
+   "Laura Vila Fariña"
+  ],
+  "entrenadores": [
+   "Miguel Ángel Ramos Añón"
+  ],
+  "delegados": [
+   "Milagros Fernández Laiño",
+   "Sergio Rial Rodríguez"
+  ],
+  "clasificacion": [
+   {
+    "equipo": "P.M. FRIOL",
+    "pts": 26,
+    "pj": 10,
+    "g": 8,
+    "e": 2,
+    "p": 0,
+    "gf": 18,
+    "gc": 8,
+    "propio": false
+   },
+   {
+    "equipo": "AT. VILLALONGA F.F.",
+    "pts": 28,
+    "pj": 11,
+    "g": 9,
+    "e": 1,
+    "p": 1,
+    "gf": 35,
+    "gc": 6,
+    "propio": false
+   },
+   {
+    "equipo": "R.C. CELTA AS CELTAS \"B\"",
+    "pts": 25,
+    "pj": 10,
+    "g": 8,
+    "e": 1,
+    "p": 1,
+    "gf": 23,
+    "gc": 5,
+    "propio": false
+   },
+   {
+    "equipo": "LÓSTREGO CLUB DE FÚTBOL",
+    "pts": 25,
+    "pj": 10,
+    "g": 8,
+    "e": 1,
+    "p": 1,
+    "gf": 20,
+    "gc": 7,
+    "propio": false
+   },
+   {
+    "equipo": "VICTORIA F.C.",
+    "pts": 23,
+    "pj": 11,
+    "g": 7,
+    "e": 2,
+    "p": 2,
+    "gf": 26,
+    "gc": 10,
+    "propio": false
+   },
+   {
+    "equipo": "ORZAN S.D.",
+    "pts": 19,
+    "pj": 10,
+    "g": 6,
+    "e": 1,
+    "p": 3,
+    "gf": 13,
+    "gc": 12,
+    "propio": false
+   },
+   {
+    "equipo": "VICTORIA C.F. \"B\"",
+    "pts": 18,
+    "pj": 10,
+    "g": 5,
+    "e": 3,
+    "p": 2,
+    "gf": 17,
+    "gc": 12,
+    "propio": false
+   },
+   {
+    "equipo": "E.F.F. ROSALIA",
+    "pts": 13,
+    "pj": 10,
+    "g": 4,
+    "e": 1,
+    "p": 5,
+    "gf": 8,
+    "gc": 16,
+    "propio": false
+   },
+   {
+    "equipo": "S.D. O VAL",
+    "pts": 13,
+    "pj": 10,
+    "g": 4,
+    "e": 1,
+    "p": 5,
+    "gf": 14,
+    "gc": 27,
+    "propio": false
+   },
+   {
+    "equipo": "BERGANTIÑOS C.F.",
+    "pts": 14,
+    "pj": 11,
+    "g": 4,
+    "e": 2,
+    "p": 5,
+    "gf": 12,
+    "gc": 23,
+    "propio": false
+   },
+   {
+    "equipo": "ATLETICO SAN PEDRO",
+    "pts": 11,
+    "pj": 10,
+    "g": 3,
+    "e": 2,
+    "p": 5,
+    "gf": 11,
+    "gc": 25,
+    "propio": false
+   },
+   {
+    "equipo": "E.F.M CONCELLO DE BOIRO",
+    "pts": 10,
+    "pj": 10,
+    "g": 3,
+    "e": 1,
+    "p": 6,
+    "gf": 7,
+    "gc": 21,
+    "propio": true
+   },
+   {
+    "equipo": "TOMIÑO F.C.",
+    "pts": 6,
+    "pj": 11,
+    "g": 2,
+    "e": 0,
+    "p": 9,
+    "gf": 6,
+    "gc": 38,
+    "propio": false
+   },
+   {
+    "equipo": "DOMAIO F.C.",
+    "pts": 0,
+    "pj": 0,
+    "g": 0,
+    "e": 0,
+    "p": 0,
+    "gf": 0,
+    "gc": 0,
+    "propio": false
+   }
+  ],
+  "partidos": [
+   {
+    "jornada": 1,
+    "fecha": "2026-09-12",
+    "hora": "18:00",
+    "local": false,
+    "rival": "P.M. FRIOL",
+    "resultado": "1-0",
+    "campo": ""
+   },
+   {
+    "jornada": 2,
+    "fecha": "2026-09-20",
+    "hora": "18:00",
+    "local": true,
+    "rival": "LÓSTREGO CLUB DE FÚTBOL",
+    "resultado": "1-2",
+    "campo": ""
+   },
+   {
+    "jornada": 3,
+    "fecha": "2026-09-27",
+    "hora": "17:00",
+    "local": true,
+    "rival": "E.F.F. ROSALIA",
+    "resultado": "2-1",
+    "campo": ""
+   },
+   {
+    "jornada": 4,
+    "fecha": "2026-10-04",
+    "hora": "",
+    "local": false,
+    "rival": "DOMAIO F.C.",
+    "resultado": "",
+    "campo": "Santa Isabel"
+   },
+   {
+    "jornada": 5,
+    "fecha": "2026-10-11",
+    "hora": "17:00",
+    "local": true,
+    "rival": "R.C. CELTA AS CELTAS \"B\"",
+    "resultado": "0-3",
+    "campo": ""
+   },
+   {
+    "jornada": 6,
+    "fecha": "2026-10-18",
+    "hora": "12:30",
+    "local": false,
+    "rival": "VICTORIA C.F. \"B\"",
+    "resultado": "7-1",
+    "campo": ""
+   },
+   {
+    "jornada": 7,
+    "fecha": "2026-10-25",
+    "hora": "17:00",
+    "local": true,
+    "rival": "ATLETICO SAN PEDRO",
+    "resultado": "2-2",
+    "campo": ""
+   },
+   {
+    "jornada": 8,
+    "fecha": "2026-11-01",
+    "hora": "12:00",
+    "local": false,
+    "rival": "VICTORIA F.C.",
+    "resultado": "2-1",
+    "campo": ""
+   },
+   {
+    "jornada": 9,
+    "fecha": "2026-11-08",
+    "hora": "16:30",
+    "local": true,
+    "rival": "AT. VILLALONGA F.F.",
+    "resultado": "0-3",
+    "campo": ""
+   },
+   {
+    "jornada": 10,
+    "fecha": "2026-11-15",
+    "hora": "16:30",
+    "local": false,
+    "rival": "BERGANTIÑOS C.F.",
+    "resultado": "",
+    "campo": ""
+   },
+   {
+    "jornada": 11,
+    "fecha": "2026-11-22",
+    "hora": "",
+    "local": true,
+    "rival": "TOMIÑO F.C.",
+    "resultado": "",
+    "campo": ""
+   },
+   {
+    "jornada": 12,
+    "fecha": "2026-12-06",
+    "hora": "",
+    "local": false,
+    "rival": "S.D. O VAL",
+    "resultado": "",
+    "campo": ""
+   },
+   {
+    "jornada": 13,
+    "fecha": "2026-12-20",
+    "hora": "",
+    "local": true,
+    "rival": "ORZAN S.D.",
+    "resultado": "",
+    "campo": ""
+   },
+   {
+    "jornada": 14,
+    "fecha": "2027-01-10",
+    "hora": "",
+    "local": true,
+    "rival": "P.M. FRIOL",
+    "resultado": "",
+    "campo": ""
+   },
+   {
+    "jornada": 15,
+    "fecha": "2027-01-17",
+    "hora": "",
+    "local": false,
+    "rival": "LÓSTREGO CLUB DE FÚTBOL",
+    "resultado": "",
+    "campo": ""
+   },
+   {
+    "jornada": 16,
+    "fecha": "2027-01-31",
+    "hora": "",
+    "local": false,
+    "rival": "E.F.F. ROSALIA",
+    "resultado": "",
+    "campo": ""
+   },
+   {
+    "jornada": 17,
+    "fecha": "2027-02-07",
+    "hora": "",
+    "local": true,
+    "rival": "DOMAIO F.C.",
+    "resultado": "",
+    "campo": ""
+   },
+   {
+    "jornada": 18,
+    "fecha": "2027-02-14",
+    "hora": "",
+    "local": false,
+    "rival": "R.C. CELTA AS CELTAS \"B\"",
+    "resultado": "",
+    "campo": ""
+   },
+   {
+    "jornada": 19,
+    "fecha": "2027-02-28",
+    "hora": "",
+    "local": true,
+    "rival": "VICTORIA C.F. \"B\"",
+    "resultado": "",
+    "campo": ""
+   },
+   {
+    "jornada": 20,
+    "fecha": "2027-03-07",
+    "hora": "",
+    "local": false,
+    "rival": "ATLETICO SAN PEDRO",
+    "resultado": "",
+    "campo": ""
+   },
+   {
+    "jornada": 21,
+    "fecha": "2027-03-14",
+    "hora": "",
+    "local": true,
+    "rival": "VICTORIA F.C.",
+    "resultado": "",
+    "campo": ""
+   },
+   {
+    "jornada": 22,
+    "fecha": "2027-04-04",
+    "hora": "",
+    "local": false,
+    "rival": "AT. VILLALONGA F.F.",
+    "resultado": "",
+    "campo": ""
+   },
+   {
+    "jornada": 23,
+    "fecha": "2027-04-18",
+    "hora": "",
+    "local": true,
+    "rival": "BERGANTIÑOS C.F.",
+    "resultado": "",
+    "campo": ""
+   },
+   {
+    "jornada": 24,
+    "fecha": "2027-04-25",
+    "hora": "",
+    "local": false,
+    "rival": "TOMIÑO F.C.",
+    "resultado": "",
+    "campo": ""
+   },
+   {
+    "jornada": 25,
+    "fecha": "2027-05-02",
+    "hora": "",
+    "local": true,
+    "rival": "S.D. O VAL",
+    "resultado": "",
+    "campo": ""
+   },
+   {
+    "jornada": 26,
+    "fecha": "2027-05-09",
+    "hora": "",
+    "local": false,
+    "rival": "ORZAN S.D.",
+    "resultado": "",
+    "campo": ""
+   }
+  ],
+  "competicion": "Tercera Federacion De Futbol Femenino · 3ª Federación Futfem",
+  "urlClasificacion": "https://www.futgal.es/pnfg/NPcd/NFG_VisClasificacion?cod_primaria=1000120&codgrupo=26992215&codcompeticion=26992214",
+  "escudos": {
+   "ATLETICO SAN PEDRO": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000808127_San_Pedro.jpg",
+   "S.D. O VAL": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0001560714_ESCUDO_SD_O_VAL.jpg",
+   "R.C. CELTA AS CELTAS \"B\"": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000628703_RC_Celta.jpg",
+   "P.M. FRIOL": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000790369_friol_-_copia.jpg",
+   "DOMAIO F.C.": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0001598616_escudo.png",
+   "E.F.M CONCELLO DE BOIRO": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000934497_escudo.jpg",
+   "VICTORIA F.C.": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000600738_Victoria_FC.jpg",
+   "TOMIÑO F.C.": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0001816304_escudo_Tomi__o.png",
+   "AT. VILLALONGA F.F.": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0001222916_LOGO_VILLALONGA.jpeg",
+   "BERGANTIÑOS C.F.": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0011658042_IMG_0489.png",
+   "E.F.F. ROSALIA": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000736134_D73E103A-E2EE-43DA-A4A1-D5C947BC7298..png",
+   "LÓSTREGO CLUB DE FÚTBOL": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000893228_escudo.JPG",
+   "VICTORIA C.F. \"B\"": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000004135_victoriacfblanco.jpg",
+   "ORZAN S.D.": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000881577_escudo_orzan.png"
+  },
+  "actas": {
+   "7": {
+    "t": [
+     "Andrea Dosil Barreiro",
+     "Beatriz Conde Jamardo",
+     "Iria Otero Fuertes",
+     "Antia Vázquez Piñeiro",
+     "Eva M Regueira Martínez",
+     "Gabriela González González",
+     "Laura Alejo Rebolo",
+     "Carla Sanda Fernández",
+     "Margarita Pombo Vilas",
+     "Laura Vila Fariña",
+     "Antía González Piñeiro"
+    ],
+    "s": [
+     "Marcia Casais Dosil",
+     "Carla García Campaña",
+     "Noa Brion Maceiras",
+     "Oumkaltoum Tiyib Siar"
+    ],
+    "e": [
+     "Carla García Campaña",
+     "Oumkaltoum Tiyib Siar",
+     "Marcia Casais Dosil"
+    ],
+    "g": {
+     "Iria Otero Fuertes": 1,
+     "Carla Sanda Fernández": 1
+    },
+    "a": [
+     "Margarita Pombo Vilas",
+     "Margarita Pombo Vilas",
+     "Antía González Piñeiro",
+     "Laura Alejo Rebolo"
+    ],
+    "r": [],
+    "d": {
+     "Andrea Dosil Barreiro": 1,
+     "Beatriz Conde Jamardo": 6,
+     "Iria Otero Fuertes": 7,
+     "Antia Vázquez Piñeiro": 8,
+     "Eva M Regueira Martínez": 9,
+     "Gabriela González González": 10,
+     "Laura Alejo Rebolo": 14,
+     "Carla Sanda Fernández": 17,
+     "Margarita Pombo Vilas": 19,
+     "Laura Vila Fariña": 20,
+     "Antía González Piñeiro": 24,
+     "Marcia Casais Dosil": 4,
+     "Carla García Campaña": 11,
+     "Noa Brion Maceiras": 16,
+     "Oumkaltoum Tiyib Siar": 23
+    },
+    "c": [
+     [
+      "Carla García Campaña",
+      "Iria Otero Fuertes",
+      66
+     ],
+     [
+      "Oumkaltoum Tiyib Siar",
+      "Beatriz Conde Jamardo",
+      80
+     ],
+     [
+      "Marcia Casais Dosil",
+      "Gabriela González González",
+      86
+     ]
+    ],
+    "rm": {},
+    "id": "1449545"
+   },
+   "8": {
+    "t": [
+     "Andrea Dosil Barreiro",
+     "Iria Otero Fuertes",
+     "Antia Vázquez Piñeiro",
+     "Eva M Regueira Martínez",
+     "Carla García Campaña",
+     "Paula Barreiro Rivas",
+     "Laura Alejo Rebolo",
+     "Carla Sanda Fernández",
+     "Laura Vila Fariña",
+     "Oumkaltoum Tiyib Siar",
+     "Antía González Piñeiro"
+    ],
+    "s": [
+     "Marcia Casais Dosil",
+     "Leire Conesa Hermo",
+     "Mariela González Morano"
+    ],
+    "e": [
+     "Marcia Casais Dosil",
+     "Mariela González Morano",
+     "Leire Conesa Hermo"
+    ],
+    "g": {
+     "Oumkaltoum Tiyib Siar": 1
+    },
+    "a": [],
+    "r": [],
+    "d": {
+     "Andrea Dosil Barreiro": 1,
+     "Iria Otero Fuertes": 7,
+     "Antia Vázquez Piñeiro": 8,
+     "Eva M Regueira Martínez": 9,
+     "Carla García Campaña": 11,
+     "Paula Barreiro Rivas": 12,
+     "Laura Alejo Rebolo": 14,
+     "Carla Sanda Fernández": 17,
+     "Laura Vila Fariña": 20,
+     "Oumkaltoum Tiyib Siar": 23,
+     "Antía González Piñeiro": 24,
+     "Marcia Casais Dosil": 4,
+     "Leire Conesa Hermo": 18,
+     "Mariela González Morano": 21
+    },
+    "c": [
+     [
+      "Marcia Casais Dosil",
+      "Iria Otero Fuertes",
+      76
+     ],
+     [
+      "Mariela González Morano",
+      "Antia Vázquez Piñeiro",
+      89
+     ],
+     [
+      "Leire Conesa Hermo",
+      "Carla García Campaña",
+      89
+     ]
+    ],
+    "rm": {},
+    "id": "1449553"
+   },
+   "9": {
+    "t": [
+     "Andrea Dosil Barreiro",
+     "Iria Otero Fuertes",
+     "Antia Vázquez Piñeiro",
+     "Eva M Regueira Martínez",
+     "Carla García Campaña",
+     "Paula Barreiro Rivas",
+     "Laura Alejo Rebolo",
+     "Carla Sanda Fernández",
+     "Margarita Pombo Vilas",
+     "Laura Vila Fariña",
+     "Antía González Piñeiro"
+    ],
+    "s": [
+     "Marcia Casais Dosil",
+     "Beatriz Conde Jamardo",
+     "Gabriela González González"
+    ],
+    "e": [
+     "Beatriz Conde Jamardo",
+     "Gabriela González González",
+     "Marcia Casais Dosil"
+    ],
+    "g": {},
+    "a": [
+     "Antía González Piñeiro",
+     "Paula Barreiro Rivas"
+    ],
+    "r": [],
+    "d": {
+     "Andrea Dosil Barreiro": 1,
+     "Iria Otero Fuertes": 7,
+     "Antia Vázquez Piñeiro": 8,
+     "Eva M Regueira Martínez": 9,
+     "Carla García Campaña": 11,
+     "Paula Barreiro Rivas": 12,
+     "Laura Alejo Rebolo": 14,
+     "Carla Sanda Fernández": 17,
+     "Margarita Pombo Vilas": 19,
+     "Laura Vila Fariña": 20,
+     "Antía González Piñeiro": 24,
+     "Marcia Casais Dosil": 4,
+     "Beatriz Conde Jamardo": 6,
+     "Gabriela González González": 10
+    },
+    "c": [
+     [
+      "Beatriz Conde Jamardo",
+      "Carla Sanda Fernández",
+      70
+     ],
+     [
+      "Gabriela González González",
+      "Antia Vázquez Piñeiro",
+      70
+     ],
+     [
+      "Marcia Casais Dosil",
+      "Antía González Piñeiro",
+      82
+     ]
+    ],
+    "rm": {},
+    "id": "1449560"
+   }
+  },
+  "dorsales": {
+   "Andrea Dosil Barreiro": 1,
+   "Beatriz Conde Jamardo": 6,
+   "Iria Otero Fuertes": 7,
+   "Antia Vázquez Piñeiro": 8,
+   "Eva M Regueira Martínez": 9,
+   "Gabriela González González": 10,
+   "Laura Alejo Rebolo": 14,
+   "Carla Sanda Fernández": 17,
+   "Margarita Pombo Vilas": 19,
+   "Laura Vila Fariña": 20,
+   "Antía González Piñeiro": 24,
+   "Marcia Casais Dosil": 4,
+   "Carla García Campaña": 11,
+   "Noa Brion Maceiras": 16,
+   "Oumkaltoum Tiyib Siar": 23,
+   "Paula Barreiro Rivas": 12,
+   "Leire Conesa Hermo": 18,
+   "Mariela González Morano": 21
+  },
+  "descargado": "2026-11-11T12:43"
+ },
+ {
+  "id": "femenino-b",
+  "codigo": "21815923",
+  "categoria": "femenino",
+  "letra": "B",
+  "liga": "L.G.F. 3ª Division Femenina",
+  "urlFederacion": "https://www.futgal.es/pnfg/NPcd/NFG_VisEquipos?cod_primaria=1000119&Codigo_Equipo=21815923",
+  "plantilla": [
+   "Fayna Agrelo Fernández",
+   "Paula Barreiro Rivas",
+   "Ana Bermúdez González",
+   "Noa Brion Maceiras",
+   "Valeria Camino Sukhorukova",
+   "Marcia Casais Dosil",
+   "Paula Cespon Blanco",
+   "Leire Conesa Hermo",
+   "Valeria Cornado González",
+   "Celtia Couce Filgueiras",
+   "Mela Fernández Hermo",
+   "Abigail Fernández Lorenzo",
+   "Mariela González Morano",
+   "Sheila González Torres",
+   "Katia Lojo Tubio",
+   "Alexia Miguez Romero",
+   "Lara Raño Jamardo",
+   "María Rebollido Lijo",
+   "Laura Sieira Pérez",
+   "Oumkaltoum Tiyib Siar",
+   "Aitana Ventoso Armental",
+   "Lua Vulcano Regueiro"
+  ],
+  "entrenadores": [
+   "Julian Vázquez Pérez"
+  ],
+  "delegados": [],
+  "clasificacion": [
+   {
+    "equipo": "S.D. XUVENTÚ AGUIÑO",
+    "pts": 13,
+    "pj": 5,
+    "g": 4,
+    "e": 1,
+    "p": 0,
+    "gf": 24,
+    "gc": 2,
+    "propio": false
+   },
+   {
+    "equipo": "RACING SAN LORENZO",
+    "pts": 12,
+    "pj": 4,
+    "g": 4,
+    "e": 0,
+    "p": 0,
+    "gf": 16,
+    "gc": 4,
+    "propio": false
+   },
+   {
+    "equipo": "MILLADOIRO S.D.",
+    "pts": 12,
+    "pj": 5,
+    "g": 4,
+    "e": 0,
+    "p": 1,
+    "gf": 19,
+    "gc": 8,
+    "propio": false
+   },
+   {
+    "equipo": "ARZUA FUTBOL CLUB FEMENINO",
+    "pts": 9,
+    "pj": 5,
+    "g": 3,
+    "e": 0,
+    "p": 2,
+    "gf": 20,
+    "gc": 12,
+    "propio": false
+   },
+   {
+    "equipo": "E.F.M CONCELLO DE BOIRO \"B\"",
+    "pts": 9,
+    "pj": 5,
+    "g": 3,
+    "e": 0,
+    "p": 2,
+    "gf": 10,
+    "gc": 10,
+    "propio": true
+   },
+   {
+    "equipo": "ESCOLA DE FUTBOL LALIN",
+    "pts": 9,
+    "pj": 5,
+    "g": 3,
+    "e": 0,
+    "p": 2,
+    "gf": 9,
+    "gc": 11,
+    "propio": false
+   },
+   {
+    "equipo": "A.D.C. MONTE FORTE",
+    "pts": 6,
+    "pj": 5,
+    "g": 2,
+    "e": 0,
+    "p": 3,
+    "gf": 18,
+    "gc": 16,
+    "propio": false
+   },
+   {
+    "equipo": "C.D. ROIS",
+    "pts": 6,
+    "pj": 5,
+    "g": 2,
+    "e": 0,
+    "p": 3,
+    "gf": 11,
+    "gc": 12,
+    "propio": false
+   },
+   {
+    "equipo": "S.G. COMERCIAL",
+    "pts": 6,
+    "pj": 5,
+    "g": 2,
+    "e": 0,
+    "p": 3,
+    "gf": 7,
+    "gc": 12,
+    "propio": false
+   },
+   {
+    "equipo": "ANTAS S.D. \"B\"",
+    "pts": 6,
+    "pj": 4,
+    "g": 2,
+    "e": 0,
+    "p": 2,
+    "gf": 6,
+    "gc": 12,
+    "propio": false
+   },
+   {
+    "equipo": "CARBALLEDO C.F.",
+    "pts": 4,
+    "pj": 5,
+    "g": 1,
+    "e": 1,
+    "p": 3,
+    "gf": 7,
+    "gc": 27,
+    "propio": false
+   },
+   {
+    "equipo": "C.D. DODRO",
+    "pts": 3,
+    "pj": 5,
+    "g": 1,
+    "e": 0,
+    "p": 4,
+    "gf": 2,
+    "gc": 8,
+    "propio": false
+   },
+   {
+    "equipo": "VICTORIA F.C. \"D\"",
+    "pts": 2,
+    "pj": 5,
+    "g": 0,
+    "e": 2,
+    "p": 3,
+    "gf": 3,
+    "gc": 7,
+    "propio": false
+   },
+   {
+    "equipo": "RESMON C.F.",
+    "pts": 2,
+    "pj": 5,
+    "g": 0,
+    "e": 2,
+    "p": 3,
+    "gf": 4,
+    "gc": 15,
+    "propio": false
+   }
+  ],
+  "partidos": [
+   {
+    "jornada": 1,
+    "fecha": "2026-10-04",
+    "hora": "17:00",
+    "local": true,
+    "rival": "S.D. XUVENTÚ AGUIÑO",
+    "resultado": "1-4",
+    "campo": ""
+   },
+   {
+    "jornada": 2,
+    "fecha": "2026-10-11",
+    "hora": "12:00",
+    "local": false,
+    "rival": "RESMON C.F.",
+    "resultado": "1-3",
+    "campo": ""
+   },
+   {
+    "jornada": 3,
+    "fecha": "2026-10-17",
+    "hora": "16:30",
+    "local": true,
+    "rival": "A.D.C. MONTE FORTE",
+    "resultado": "2-1",
+    "campo": ""
+   },
+   {
+    "jornada": 4,
+    "fecha": "2026-10-30",
+    "hora": "20:00",
+    "local": false,
+    "rival": "MILLADOIRO S.D.",
+    "resultado": "1-3",
+    "campo": ""
+   },
+   {
+    "jornada": 5,
+    "fecha": "2026-11-08",
+    "hora": "18:30",
+    "local": false,
+    "rival": "ARZUA FUTBOL CLUB FEMENINO",
+    "resultado": "3-1",
+    "campo": ""
+   },
+   {
+    "jornada": 6,
+    "fecha": "2026-11-15",
+    "hora": "16:30",
+    "local": true,
+    "rival": "CARBALLEDO C.F.",
+    "resultado": "",
+    "campo": "Vista Alegre - Boiro"
+   },
+   {
+    "jornada": 7,
+    "fecha": "2026-11-22",
+    "hora": "",
+    "local": false,
+    "rival": "VICTORIA F.C. \"D\"",
+    "resultado": "",
+    "campo": ""
+   },
+   {
+    "jornada": 8,
+    "fecha": "2026-12-06",
+    "hora": "",
+    "local": true,
+    "rival": "ESCOLA DE FUTBOL LALIN",
+    "resultado": "",
+    "campo": ""
+   },
+   {
+    "jornada": 9,
+    "fecha": "2026-12-20",
+    "hora": "",
+    "local": false,
+    "rival": "S.G. COMERCIAL",
+    "resultado": "",
+    "campo": ""
+   },
+   {
+    "jornada": 10,
+    "fecha": "2027-01-10",
+    "hora": "",
+    "local": true,
+    "rival": "C.D. ROIS",
+    "resultado": "",
+    "campo": ""
+   },
+   {
+    "jornada": 11,
+    "fecha": "2027-01-17",
+    "hora": "",
+    "local": false,
+    "rival": "RACING SAN LORENZO",
+    "resultado": "",
+    "campo": ""
+   },
+   {
+    "jornada": 12,
+    "fecha": "2027-01-24",
+    "hora": "",
+    "local": true,
+    "rival": "ANTAS S.D. \"B\"",
+    "resultado": "",
+    "campo": ""
+   },
+   {
+    "jornada": 13,
+    "fecha": "2027-01-31",
+    "hora": "",
+    "local": false,
+    "rival": "C.D. DODRO",
+    "resultado": "",
+    "campo": ""
+   },
+   {
+    "jornada": 14,
+    "fecha": "2027-02-14",
+    "hora": "",
+    "local": false,
+    "rival": "S.D. XUVENTÚ AGUIÑO",
+    "resultado": "",
+    "campo": ""
+   },
+   {
+    "jornada": 15,
+    "fecha": "2027-02-21",
+    "hora": "",
+    "local": true,
+    "rival": "RESMON C.F.",
+    "resultado": "",
+    "campo": ""
+   },
+   {
+    "jornada": 16,
+    "fecha": "2027-02-28",
+    "hora": "",
+    "local": false,
+    "rival": "A.D.C. MONTE FORTE",
+    "resultado": "",
+    "campo": ""
+   },
+   {
+    "jornada": 17,
+    "fecha": "2027-03-07",
+    "hora": "",
+    "local": true,
+    "rival": "MILLADOIRO S.D.",
+    "resultado": "",
+    "campo": ""
+   },
+   {
+    "jornada": 18,
+    "fecha": "2027-03-14",
+    "hora": "",
+    "local": true,
+    "rival": "ARZUA FUTBOL CLUB FEMENINO",
+    "resultado": "",
+    "campo": ""
+   },
+   {
+    "jornada": 19,
+    "fecha": "2027-03-21",
+    "hora": "",
+    "local": false,
+    "rival": "CARBALLEDO C.F.",
+    "resultado": "",
+    "campo": ""
+   },
+   {
+    "jornada": 20,
+    "fecha": "2027-04-04",
+    "hora": "",
+    "local": true,
+    "rival": "VICTORIA F.C. \"D\"",
+    "resultado": "",
+    "campo": ""
+   },
+   {
+    "jornada": 21,
+    "fecha": "2027-04-11",
+    "hora": "",
+    "local": false,
+    "rival": "ESCOLA DE FUTBOL LALIN",
+    "resultado": "",
+    "campo": ""
+   },
+   {
+    "jornada": 22,
+    "fecha": "2027-04-18",
+    "hora": "",
+    "local": true,
+    "rival": "S.G. COMERCIAL",
+    "resultado": "",
+    "campo": ""
+   },
+   {
+    "jornada": 23,
+    "fecha": "2027-05-02",
+    "hora": "",
+    "local": false,
+    "rival": "C.D. ROIS",
+    "resultado": "",
+    "campo": ""
+   },
+   {
+    "jornada": 24,
+    "fecha": "2027-05-09",
+    "hora": "",
+    "local": true,
+    "rival": "RACING SAN LORENZO",
+    "resultado": "",
+    "campo": ""
+   },
+   {
+    "jornada": 25,
+    "fecha": "2027-05-16",
+    "hora": "",
+    "local": false,
+    "rival": "ANTAS S.D. \"B\"",
+    "resultado": "",
+    "campo": ""
+   },
+   {
+    "jornada": 26,
+    "fecha": "2027-05-30",
+    "hora": "",
+    "local": true,
+    "rival": "C.D. DODRO",
+    "resultado": "",
+    "campo": ""
+   }
+  ],
+  "competicion": "Femenina - Tercera Division Galega · L.G.F. 3ª Division Femenina | Grupo 3",
+  "urlClasificacion": "https://www.futgal.es/pnfg/NPcd/NFG_VisClasificacion?cod_primaria=1000120&codgrupo=28875131&codcompeticion=26991168",
+  "escudos": {
+   "C.D. DODRO": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000888594_escudo_dodro.jpg",
+   "RACING SAN LORENZO": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000003293_Racing_San_Lorenzo.JPG",
+   "S.D. XUVENTÚ AGUIÑO": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0001697225_ESCUDO_SD_XUVENTU_AGUI__O.png",
+   "C.D. ROIS": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0001016821_Escudo_25ANIV.jpg",
+   "RESMON C.F.": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0001115552_Screenshot_20231002_110210_Drive.jpg",
+   "S.G. COMERCIAL": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000958919_COMERCIAL_ESCUDO.jpg",
+   "ANTAS S.D. \"B\"": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0011585762_SD_ANTAS.png",
+   "ARZUA FUTBOL CLUB FEMENINO": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000731166_ESCUDO.JPG",
+   "E.F.M CONCELLO DE BOIRO \"B\"": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000934497_escudo.jpg",
+   "CARBALLEDO C.F.": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0001099155_IMG_4110.jpeg",
+   "A.D.C. MONTE FORTE": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000943730_IMG_20210928_WA0047.jpg",
+   "ESCOLA DE FUTBOL LALIN": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000902743_88B6F7FE_29E4_4005_93D3_257302162D5C.jpeg",
+   "MILLADOIRO S.D.": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000914349_escudo_milladoiro.jpg",
+   "VICTORIA F.C. \"D\"": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000600738_Victoria_FC.jpg"
+  },
+  "actas": {
+   "3": {
+    "t": [
+     "Abigail Fernández Lorenzo",
+     "Ana Bermúdez González",
+     "Haymanot Sánchez García",
+     "Celtia Couce Filgueiras",
+     "Lara Raño Jamardo",
+     "Aitana Ventoso Armental",
+     "Noa Brion Maceiras",
+     "Mariela González Morano",
+     "Leire Conesa Hermo",
+     "Marcia Casais Dosil",
+     "Sheila González Torres"
+    ],
+    "s": [
+     "Valeria Camino Sukhorukova",
+     "Mela Fernández Hermo",
+     "Valeria Cornado González",
+     "Fayna Agrelo Fernández",
+     "Laura Sieira Pérez"
+    ],
+    "e": [
+     "Fayna Agrelo Fernández",
+     "Laura Sieira Pérez",
+     "Valeria Camino Sukhorukova",
+     "Valeria Cornado González",
+     "Mela Fernández Hermo"
+    ],
+    "g": {
+     "Mariela González Morano": 1,
+     "Leire Conesa Hermo": 1
+    },
+    "a": [
+     "Celtia Couce Filgueiras",
+     "Haymanot Sánchez García",
+     "Leire Conesa Hermo",
+     "Laura Sieira Pérez"
+    ],
+    "r": [],
+    "d": {
+     "Abigail Fernández Lorenzo": 13,
+     "Ana Bermúdez González": 2,
+     "Haymanot Sánchez García": 3,
+     "Celtia Couce Filgueiras": 4,
+     "Lara Raño Jamardo": 5,
+     "Aitana Ventoso Armental": 6,
+     "Noa Brion Maceiras": 7,
+     "Mariela González Morano": 8,
+     "Leire Conesa Hermo": 9,
+     "Marcia Casais Dosil": 10,
+     "Sheila González Torres": 28,
+     "Valeria Camino Sukhorukova": 15,
+     "Mela Fernández Hermo": 17,
+     "Valeria Cornado González": 18,
+     "Fayna Agrelo Fernández": 20,
+     "Laura Sieira Pérez": 25
+    },
+    "c": [
+     [
+      "Fayna Agrelo Fernández",
+      "Sheila González Torres",
+      60
+     ],
+     [
+      "Laura Sieira Pérez",
+      "Haymanot Sánchez García",
+      60
+     ],
+     [
+      "Valeria Camino Sukhorukova",
+      "Lara Raño Jamardo",
+      85
+     ],
+     [
+      "Valeria Cornado González",
+      "Leire Conesa Hermo",
+      88
+     ],
+     [
+      "Mela Fernández Hermo",
+      "Aitana Ventoso Armental",
+      88
+     ]
+    ],
+    "rm": {},
+    "id": "1503725"
+   },
+   "4": {
+    "t": [
+     "Abigail Fernández Lorenzo",
+     "Ana Bermúdez González",
+     "Haymanot Sánchez García",
+     "Celtia Couce Filgueiras",
+     "Lara Raño Jamardo",
+     "Aitana Ventoso Armental",
+     "Leire Conesa Hermo",
+     "Marcia Casais Dosil",
+     "María Rebollido Lijo",
+     "Laura Sieira Pérez",
+     "Sheila González Torres"
+    ],
+    "s": [
+     "Lua Vulcano Regueiro",
+     "Valeria Camino Sukhorukova",
+     "Mela Fernández Hermo",
+     "Alexia Miguez Romero",
+     "Fayna Agrelo Fernández"
+    ],
+    "e": [
+     "Fayna Agrelo Fernández",
+     "Mela Fernández Hermo",
+     "Alexia Miguez Romero",
+     "Lua Vulcano Regueiro",
+     "Valeria Camino Sukhorukova"
+    ],
+    "g": {
+     "Leire Conesa Hermo": 2,
+     "Aitana Ventoso Armental": 1
+    },
+    "a": [
+     "Lara Raño Jamardo"
+    ],
+    "r": [],
+    "d": {
+     "Abigail Fernández Lorenzo": 13,
+     "Ana Bermúdez González": 2,
+     "Haymanot Sánchez García": 3,
+     "Celtia Couce Filgueiras": 4,
+     "Lara Raño Jamardo": 5,
+     "Aitana Ventoso Armental": 6,
+     "Leire Conesa Hermo": 9,
+     "Marcia Casais Dosil": 10,
+     "María Rebollido Lijo": 16,
+     "Laura Sieira Pérez": 25,
+     "Sheila González Torres": 28,
+     "Lua Vulcano Regueiro": 1,
+     "Valeria Camino Sukhorukova": 15,
+     "Mela Fernández Hermo": 17,
+     "Alexia Miguez Romero": 19,
+     "Fayna Agrelo Fernández": 20
+    },
+    "c": [
+     [
+      "Fayna Agrelo Fernández",
+      "Laura Sieira Pérez",
+      57
+     ],
+     [
+      "Mela Fernández Hermo",
+      "Sheila González Torres",
+      57
+     ],
+     [
+      "Alexia Miguez Romero",
+      "Haymanot Sánchez García",
+      84
+     ],
+     [
+      "Lua Vulcano Regueiro",
+      "Abigail Fernández Lorenzo",
+      84
+     ],
+     [
+      "Valeria Camino Sukhorukova",
+      "Aitana Ventoso Armental",
+      84
+     ]
+    ],
+    "rm": {},
+    "id": "1503733"
+   },
+   "5": {
+    "t": [
+     "Abigail Fernández Lorenzo",
+     "Ana Bermúdez González",
+     "Haymanot Sánchez García",
+     "Celtia Couce Filgueiras",
+     "Lara Raño Jamardo",
+     "Aitana Ventoso Armental",
+     "Mariela González Morano",
+     "Leire Conesa Hermo",
+     "Fayna Agrelo Fernández",
+     "Laura Sieira Pérez",
+     "Sheila González Torres"
+    ],
+    "s": [
+     "Lua Vulcano Regueiro",
+     "Valeria Camino Sukhorukova",
+     "Valeria Cornado González",
+     "Mela Fernández Hermo",
+     "Alexia Miguez Romero"
+    ],
+    "e": [
+     "Mela Fernández Hermo",
+     "Valeria Camino Sukhorukova",
+     "Valeria Cornado González",
+     "Alexia Miguez Romero",
+     "Lua Vulcano Regueiro"
+    ],
+    "g": {
+     "Haymanot Sánchez García": 1
+    },
+    "a": [],
+    "r": [],
+    "d": {
+     "Abigail Fernández Lorenzo": 13,
+     "Ana Bermúdez González": 2,
+     "Haymanot Sánchez García": 3,
+     "Celtia Couce Filgueiras": 4,
+     "Lara Raño Jamardo": 5,
+     "Aitana Ventoso Armental": 6,
+     "Mariela González Morano": 8,
+     "Leire Conesa Hermo": 9,
+     "Fayna Agrelo Fernández": 20,
+     "Laura Sieira Pérez": 25,
+     "Sheila González Torres": 28,
+     "Lua Vulcano Regueiro": 1,
+     "Valeria Camino Sukhorukova": 15,
+     "Valeria Cornado González": 16,
+     "Mela Fernández Hermo": 17,
+     "Alexia Miguez Romero": 19
+    },
+    "c": [
+     [
+      "Mela Fernández Hermo",
+      "Aitana Ventoso Armental",
+      61
+     ],
+     [
+      "Valeria Camino Sukhorukova",
+      "Laura Sieira Pérez",
+      74
+     ],
+     [
+      "Valeria Cornado González",
+      "Fayna Agrelo Fernández",
+      85
+     ],
+     [
+      "Alexia Miguez Romero",
+      "Lara Raño Jamardo",
+      85
+     ],
+     [
+      "Lua Vulcano Regueiro",
+      "Abigail Fernández Lorenzo",
+      85
+     ]
+    ],
+    "rm": {},
+    "id": "1503740"
+   }
+  },
+  "dorsales": {
+   "Ana Bermúdez González": 2,
+   "Haymanot Sánchez García": 3,
+   "Celtia Couce Filgueiras": 4,
+   "Lara Raño Jamardo": 5,
+   "Aitana Ventoso Armental": 6,
+   "Leire Conesa Hermo": 9,
+   "Lua Vulcano Regueiro": 1,
+   "Mariela González Morano": 8,
+   "Marcia Casais Dosil": 10,
+   "Noa Brion Maceiras": 7,
+   "Abigail Fernández Lorenzo": 13,
+   "Valeria Camino Sukhorukova": 15,
+   "Mela Fernández Hermo": 17,
+   "Fayna Agrelo Fernández": 20,
+   "Laura Sieira Pérez": 25,
+   "Sheila González Torres": 28,
+   "Alexia Miguez Romero": 19,
+   "María Rebollido Lijo": 16,
+   "Valeria Cornado González": 18
+  },
+  "descargado": "2026-11-11T12:44"
  }
 ];
