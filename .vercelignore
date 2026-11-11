@@ -1,0 +1,7 @@
+# Archivos del proyecto que no forman parte de la web publicada
+actualizar.py
+escudos.py
+PRODUCT.md
+.github
+.cache
+__pycache__
