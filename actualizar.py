@@ -338,9 +338,11 @@ def descargar_equipo(cod, letra, cat, anterior=None):
         proximo = next((p for p in e["partidos"] if not p["resultado"]), None)
         if proximo:
             completar_proximo(proximo, cod, cc, grupo, e)
-        # actas de todas las categorías: estadísticas y dorsal de cada jugador
-        e["actas"] = actas(cod, cc, grupo, [p for p in e["partidos"] if p["resultado"]], (anterior or {}).get("actas"))
-        e["dorsales"] = dorsales(e["actas"])
+        # actas solo del primer equipo: la web enseña estadísticas de jugadores solo ahí,
+        # y así a futgal se le piden menos páginas (bloquea la IP si se le piden muchas)
+        if cod == PRIMER:
+            e["actas"] = actas(cod, cc, grupo, [p for p in e["partidos"] if p["resultado"]], (anterior or {}).get("actas"))
+            e["dorsales"] = dorsales(e["actas"])
     if cid == "senior":
         previo_p = (anterior or {}).get("perfiles", {})
         e["perfiles"] = previo_p
