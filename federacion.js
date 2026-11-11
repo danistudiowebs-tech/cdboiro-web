@@ -1,5 +1,5 @@
 // GENERADO por actualizar.py desde futgal.es. No editar a mano.
-const ACTUALIZADO = "2026-11-11T13:20";
+const ACTUALIZADO = "2026-11-11T20:14";
 const EQUIPOS = [
  {
   "id": "primer-equipo",
@@ -6585,5 +6585,2258 @@ const EQUIPOS = [
    "CIDADE DE RIBEIRA C.F. \"B\"": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000932504_Escudo_Cidade_de_Ribeira_bis.jpg"
   },
   "descargado": "2026-11-11T13:20"
+ },
+ {
+  "id": "infantil-a",
+  "codigo": "3550183",
+  "categoria": "infantil",
+  "letra": "A",
+  "liga": "Preferente Futgal Infantil",
+  "urlFederacion": "https://www.futgal.es/pnfg/NPcd/NFG_VisEquipos?cod_primaria=1000119&Codigo_Equipo=3550183",
+  "plantilla": [
+   "Aarón Abuin González",
+   "Iván Alonso García",
+   "José Buiturón Suárez",
+   "David Gómez Domínguez",
+   "David Hermo Piñeiro",
+   "Marcos Iglesias Gómez",
+   "Hugo Mediavilla Fernández",
+   "Mateo Oliveira Sobradelo",
+   "Gabriel Otero Silva",
+   "Leo Queiruga Vila",
+   "Mateo Rodríguez Facal",
+   "Luis Rodríguez Rodríguez",
+   "Arturo Ignacio Sánchez Vera",
+   "Mateo Sieira Kowalczyk",
+   "Pablo Torrado Blanco"
+  ],
+  "entrenadores": [
+   "Elhadji Mamadou Sene",
+   "Francisco Eusebio Gómez Peneireiro"
+  ],
+  "delegados": [
+   "Adrián Sieira Viturro"
+  ],
+  "clasificacion": [
+   {
+    "equipo": "AROSA S.C.",
+    "pts": 27,
+    "pj": 9,
+    "g": 9,
+    "e": 0,
+    "p": 0,
+    "gf": 59,
+    "gc": 1,
+    "propio": false
+   },
+   {
+    "equipo": "A.C.D. A SECA",
+    "pts": 27,
+    "pj": 9,
+    "g": 9,
+    "e": 0,
+    "p": 0,
+    "gf": 55,
+    "gc": 5,
+    "propio": false
+   },
+   {
+    "equipo": "BERTAMIRANS F.C.",
+    "pts": 21,
+    "pj": 9,
+    "g": 7,
+    "e": 0,
+    "p": 2,
+    "gf": 53,
+    "gc": 14,
+    "propio": false
+   },
+   {
+    "equipo": "VICTORIA F.C.",
+    "pts": 21,
+    "pj": 9,
+    "g": 7,
+    "e": 0,
+    "p": 2,
+    "gf": 49,
+    "gc": 11,
+    "propio": false
+   },
+   {
+    "equipo": "ESCOLA ESTRADA FUTBOL BASE",
+    "pts": 19,
+    "pj": 9,
+    "g": 6,
+    "e": 1,
+    "p": 2,
+    "gf": 35,
+    "gc": 12,
+    "propio": false
+   },
+   {
+    "equipo": "C.D. CONXO SANTIAGO \"B\"",
+    "pts": 18,
+    "pj": 9,
+    "g": 6,
+    "e": 0,
+    "p": 3,
+    "gf": 29,
+    "gc": 12,
+    "propio": false
+   },
+   {
+    "equipo": "E.F. PORTERO 2000",
+    "pts": 16,
+    "pj": 9,
+    "g": 5,
+    "e": 1,
+    "p": 3,
+    "gf": 34,
+    "gc": 14,
+    "propio": false
+   },
+   {
+    "equipo": "A.X. SARAIBA DO MAR",
+    "pts": 16,
+    "pj": 9,
+    "g": 5,
+    "e": 1,
+    "p": 3,
+    "gf": 26,
+    "gc": 14,
+    "propio": false
+   },
+   {
+    "equipo": "S.D. COMPOSTELA",
+    "pts": 11,
+    "pj": 9,
+    "g": 3,
+    "e": 2,
+    "p": 4,
+    "gf": 25,
+    "gc": 14,
+    "propio": false
+   },
+   {
+    "equipo": "C.D. MOAÑA",
+    "pts": 10,
+    "pj": 9,
+    "g": 3,
+    "e": 1,
+    "p": 5,
+    "gf": 28,
+    "gc": 20,
+    "propio": false
+   },
+   {
+    "equipo": "E.F. LALIN",
+    "pts": 8,
+    "pj": 9,
+    "g": 2,
+    "e": 2,
+    "p": 5,
+    "gf": 12,
+    "gc": 14,
+    "propio": false
+   },
+   {
+    "equipo": "C.F. NOIA",
+    "pts": 5,
+    "pj": 9,
+    "g": 1,
+    "e": 2,
+    "p": 6,
+    "gf": 15,
+    "gc": 68,
+    "propio": false
+   },
+   {
+    "equipo": "U.C. CEE",
+    "pts": 4,
+    "pj": 9,
+    "g": 1,
+    "e": 1,
+    "p": 7,
+    "gf": 11,
+    "gc": 62,
+    "propio": false
+   },
+   {
+    "equipo": "E.F.M CONCELLO DE BOIRO",
+    "pts": 3,
+    "pj": 9,
+    "g": 1,
+    "e": 0,
+    "p": 8,
+    "gf": 13,
+    "gc": 34,
+    "propio": true
+   },
+   {
+    "equipo": "E. F. C. CARNOTA",
+    "pts": 3,
+    "pj": 9,
+    "g": 0,
+    "e": 3,
+    "p": 6,
+    "gf": 13,
+    "gc": 77,
+    "propio": false
+   },
+   {
+    "equipo": "JUV. CAMBADOS",
+    "pts": 0,
+    "pj": 9,
+    "g": 0,
+    "e": 0,
+    "p": 9,
+    "gf": 2,
+    "gc": 87,
+    "propio": false
+   }
+  ],
+  "partidos": [
+   {
+    "jornada": 1,
+    "fecha": "2026-09-12",
+    "hora": "16:30",
+    "local": false,
+    "rival": "C.D. MOAÑA",
+    "resultado": "4-1",
+    "campo": ""
+   },
+   {
+    "jornada": 2,
+    "fecha": "2026-09-19",
+    "hora": "12:15",
+    "local": true,
+    "rival": "VICTORIA F.C.",
+    "resultado": "0-2",
+    "campo": ""
+   },
+   {
+    "jornada": 3,
+    "fecha": "2026-09-27",
+    "hora": "11:00",
+    "local": false,
+    "rival": "AROSA S.C.",
+    "resultado": "2-0",
+    "campo": ""
+   },
+   {
+    "jornada": 4,
+    "fecha": "2026-10-04",
+    "hora": "12:15",
+    "local": true,
+    "rival": "C.F. NOIA",
+    "resultado": "8-1",
+    "campo": ""
+   },
+   {
+    "jornada": 5,
+    "fecha": "2026-10-10",
+    "hora": "10:30",
+    "local": false,
+    "rival": "ESCOLA ESTRADA FUTBOL BASE",
+    "resultado": "5-1",
+    "campo": ""
+   },
+   {
+    "jornada": 6,
+    "fecha": "2026-10-18",
+    "hora": "12:00",
+    "local": true,
+    "rival": "C.D. CONXO SANTIAGO \"B\"",
+    "resultado": "1-2",
+    "campo": ""
+   },
+   {
+    "jornada": 7,
+    "fecha": "2026-10-24",
+    "hora": "12:00",
+    "local": false,
+    "rival": "A.C.D. A SECA",
+    "resultado": "11-1",
+    "campo": ""
+   },
+   {
+    "jornada": 8,
+    "fecha": "2026-10-31",
+    "hora": "12:00",
+    "local": true,
+    "rival": "A.X. SARAIBA DO MAR",
+    "resultado": "1-3",
+    "campo": ""
+   },
+   {
+    "jornada": 9,
+    "fecha": "2026-11-07",
+    "hora": "16:00",
+    "local": false,
+    "rival": "BERTAMIRANS F.C.",
+    "resultado": "4-0",
+    "campo": ""
+   },
+   {
+    "jornada": 10,
+    "fecha": "2026-11-15",
+    "hora": "12:15",
+    "local": true,
+    "rival": "E. F. C. CARNOTA",
+    "resultado": "",
+    "campo": "Vista Alegre - Boiro"
+   },
+   {
+    "jornada": 11,
+    "fecha": "2026-11-21",
+    "hora": "",
+    "local": false,
+    "rival": "E.F. LALIN",
+    "resultado": "",
+    "campo": ""
+   },
+   {
+    "jornada": 12,
+    "fecha": "2026-11-28",
+    "hora": "",
+    "local": true,
+    "rival": "U.C. CEE",
+    "resultado": "",
+    "campo": ""
+   },
+   {
+    "jornada": 13,
+    "fecha": "2026-12-12",
+    "hora": "",
+    "local": true,
+    "rival": "JUV. CAMBADOS",
+    "resultado": "",
+    "campo": ""
+   },
+   {
+    "jornada": 14,
+    "fecha": "2026-12-19",
+    "hora": "",
+    "local": false,
+    "rival": "S.D. COMPOSTELA",
+    "resultado": "",
+    "campo": ""
+   },
+   {
+    "jornada": 15,
+    "fecha": "2027-01-09",
+    "hora": "",
+    "local": true,
+    "rival": "E.F. PORTERO 2000",
+    "resultado": "",
+    "campo": ""
+   },
+   {
+    "jornada": 16,
+    "fecha": "2027-01-16",
+    "hora": "",
+    "local": true,
+    "rival": "C.D. MOAÑA",
+    "resultado": "",
+    "campo": ""
+   },
+   {
+    "jornada": 17,
+    "fecha": "2027-01-23",
+    "hora": "",
+    "local": false,
+    "rival": "VICTORIA F.C.",
+    "resultado": "",
+    "campo": ""
+   },
+   {
+    "jornada": 18,
+    "fecha": "2027-02-06",
+    "hora": "",
+    "local": true,
+    "rival": "AROSA S.C.",
+    "resultado": "",
+    "campo": ""
+   },
+   {
+    "jornada": 19,
+    "fecha": "2027-02-13",
+    "hora": "",
+    "local": false,
+    "rival": "C.F. NOIA",
+    "resultado": "",
+    "campo": ""
+   },
+   {
+    "jornada": 20,
+    "fecha": "2027-02-20",
+    "hora": "",
+    "local": true,
+    "rival": "ESCOLA ESTRADA FUTBOL BASE",
+    "resultado": "",
+    "campo": ""
+   },
+   {
+    "jornada": 21,
+    "fecha": "2027-02-27",
+    "hora": "",
+    "local": false,
+    "rival": "C.D. CONXO SANTIAGO \"B\"",
+    "resultado": "",
+    "campo": ""
+   },
+   {
+    "jornada": 22,
+    "fecha": "2027-03-13",
+    "hora": "",
+    "local": true,
+    "rival": "A.C.D. A SECA",
+    "resultado": "",
+    "campo": ""
+   },
+   {
+    "jornada": 23,
+    "fecha": "2027-03-20",
+    "hora": "",
+    "local": false,
+    "rival": "A.X. SARAIBA DO MAR",
+    "resultado": "",
+    "campo": ""
+   },
+   {
+    "jornada": 24,
+    "fecha": "2027-04-03",
+    "hora": "",
+    "local": true,
+    "rival": "BERTAMIRANS F.C.",
+    "resultado": "",
+    "campo": ""
+   },
+   {
+    "jornada": 25,
+    "fecha": "2027-04-10",
+    "hora": "",
+    "local": false,
+    "rival": "E. F. C. CARNOTA",
+    "resultado": "",
+    "campo": ""
+   },
+   {
+    "jornada": 26,
+    "fecha": "2027-04-17",
+    "hora": "",
+    "local": true,
+    "rival": "E.F. LALIN",
+    "resultado": "",
+    "campo": ""
+   },
+   {
+    "jornada": 27,
+    "fecha": "2027-04-24",
+    "hora": "",
+    "local": false,
+    "rival": "U.C. CEE",
+    "resultado": "",
+    "campo": ""
+   },
+   {
+    "jornada": 28,
+    "fecha": "2027-05-01",
+    "hora": "",
+    "local": false,
+    "rival": "JUV. CAMBADOS",
+    "resultado": "",
+    "campo": ""
+   },
+   {
+    "jornada": 29,
+    "fecha": "2027-05-08",
+    "hora": "",
+    "local": true,
+    "rival": "S.D. COMPOSTELA",
+    "resultado": "",
+    "campo": ""
+   },
+   {
+    "jornada": 30,
+    "fecha": "2027-05-15",
+    "hora": "18:00",
+    "local": false,
+    "rival": "E.F. PORTERO 2000",
+    "resultado": "",
+    "campo": ""
+   }
+  ],
+  "competicion": "Infantil - Preferente Futgal · Grupo 2",
+  "urlClasificacion": "https://www.futgal.es/pnfg/NPcd/NFG_VisClasificacion?cod_primaria=1000120&codgrupo=26991098&codcompeticion=26991096",
+  "escudos": {
+   "E.F. PORTERO 2000": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0001637194_EF_Portero_2000_LOGO_OFICIAL_Vectorizado__2_.png",
+   "A.C.D. A SECA": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000786422_New_Escudo_poco_peso.jpg",
+   "JUV. CAMBADOS": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0001505452_cj_cambados_logo.png",
+   "BERTAMIRANS F.C.": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0001606570_escudo_bertamirans__1_.png",
+   "AROSA S.C.": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0011661351_ESCUDO_AROSA_SC.png",
+   "C.F. NOIA": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0001349346_escudo_noia1.png",
+   "S.D. COMPOSTELA": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0001010839_logo___copia.jpg",
+   "A.X. SARAIBA DO MAR": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0001563699_WhatsApp_Image_2025_02_22_at_20.42.19.jpeg",
+   "C.D. MOAÑA": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000932908_escudo.jpg",
+   "C.D. CONXO SANTIAGO \"B\"": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000727207_ESCUDO_CD_CONXO_SANTIAGO.jpg",
+   "VICTORIA F.C.": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000600738_Victoria_FC.jpg",
+   "ESCOLA ESTRADA FUTBOL BASE": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000639247_ESCU_ESCO.jpg",
+   "E.F. LALIN": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000902743_88B6F7FE_29E4_4005_93D3_257302162D5C.jpeg",
+   "U.C. CEE": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000002453_UCCEE.jpg",
+   "E.F.M CONCELLO DE BOIRO": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000934497_escudo.jpg",
+   "E. F. C. CARNOTA": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0001019951_efc_carnota.png"
+  },
+  "descargado": "2026-11-11T20:12"
+ },
+ {
+  "id": "infantil-b",
+  "codigo": "5187414",
+  "categoria": "infantil",
+  "letra": "B",
+  "liga": "1ª Futgal Infantil",
+  "urlFederacion": "https://www.futgal.es/pnfg/NPcd/NFG_VisEquipos?cod_primaria=1000119&Codigo_Equipo=5187414",
+  "plantilla": [
+   "Hugo Alcalde De Paula",
+   "Leo Alonso Viturro",
+   "Victor Brea Lorenzo",
+   "Leo Casal Lijo",
+   "Xavier Deira Domínguez",
+   "Jairo Ferreiros Vidal",
+   "Nicolás Figueira Bermo",
+   "Raul Otero Lorenzo",
+   "Carmen Ouviña Segade",
+   "Anxo Piñeiro Fernández",
+   "Pablo Sánchez Collazo",
+   "Aran Jeremías Sarmiento Paez",
+   "Óscar Suárez Pérez",
+   "Antón Toucedo Rodríguez",
+   "Alejandro Vilasoa Miron"
+  ],
+  "entrenadores": [
+   "Óscar Rebollido Bermúdez"
+  ],
+  "delegados": [],
+  "clasificacion": [
+   {
+    "equipo": "ULLA PONTECESURES C.F.",
+    "pts": 24,
+    "pj": 8,
+    "g": 8,
+    "e": 0,
+    "p": 0,
+    "gf": 38,
+    "gc": 7,
+    "propio": false
+   },
+   {
+    "equipo": "A.D. NICRARIENSE",
+    "pts": 21,
+    "pj": 8,
+    "g": 7,
+    "e": 0,
+    "p": 1,
+    "gf": 36,
+    "gc": 8,
+    "propio": false
+   },
+   {
+    "equipo": "S.D. COMPOSTELA \"B\"",
+    "pts": 19,
+    "pj": 8,
+    "g": 6,
+    "e": 1,
+    "p": 1,
+    "gf": 31,
+    "gc": 11,
+    "propio": false
+   },
+   {
+    "equipo": "S.R. CALO",
+    "pts": 18,
+    "pj": 8,
+    "g": 5,
+    "e": 3,
+    "p": 0,
+    "gf": 38,
+    "gc": 10,
+    "propio": false
+   },
+   {
+    "equipo": "S.D. VILLESTRO",
+    "pts": 15,
+    "pj": 8,
+    "g": 5,
+    "e": 0,
+    "p": 3,
+    "gf": 26,
+    "gc": 16,
+    "propio": false
+   },
+   {
+    "equipo": "VEDRA-BOQUEIXÓN ESCOLA DEPORTIVA",
+    "pts": 14,
+    "pj": 8,
+    "g": 4,
+    "e": 2,
+    "p": 2,
+    "gf": 32,
+    "gc": 13,
+    "propio": false
+   },
+   {
+    "equipo": "BERTAMIRANS F.C. \"B\"",
+    "pts": 13,
+    "pj": 8,
+    "g": 4,
+    "e": 1,
+    "p": 3,
+    "gf": 21,
+    "gc": 7,
+    "propio": false
+   },
+   {
+    "equipo": "A.D. MANUEL PELETEIRO",
+    "pts": 12,
+    "pj": 8,
+    "g": 4,
+    "e": 0,
+    "p": 4,
+    "gf": 27,
+    "gc": 26,
+    "propio": false
+   },
+   {
+    "equipo": "E.F. LALIN \"B\"",
+    "pts": 11,
+    "pj": 8,
+    "g": 3,
+    "e": 2,
+    "p": 3,
+    "gf": 20,
+    "gc": 15,
+    "propio": false
+   },
+   {
+    "equipo": "AMIO S.D.",
+    "pts": 9,
+    "pj": 8,
+    "g": 3,
+    "e": 0,
+    "p": 5,
+    "gf": 23,
+    "gc": 22,
+    "propio": false
+   },
+   {
+    "equipo": "ESCOLA DEPORTIVA O DOLMEN DE TORDOIA",
+    "pts": 9,
+    "pj": 8,
+    "g": 3,
+    "e": 0,
+    "p": 5,
+    "gf": 28,
+    "gc": 28,
+    "propio": false
+   },
+   {
+    "equipo": "E.D.S. SANTA MARTA",
+    "pts": 7,
+    "pj": 8,
+    "g": 2,
+    "e": 1,
+    "p": 5,
+    "gf": 10,
+    "gc": 28,
+    "propio": false
+   },
+   {
+    "equipo": "ATLETICO FATIMA",
+    "pts": 7,
+    "pj": 8,
+    "g": 2,
+    "e": 1,
+    "p": 5,
+    "gf": 19,
+    "gc": 38,
+    "propio": false
+   },
+   {
+    "equipo": "VICTORIA F.C. \"B\"",
+    "pts": 5,
+    "pj": 8,
+    "g": 1,
+    "e": 2,
+    "p": 5,
+    "gf": 8,
+    "gc": 30,
+    "propio": false
+   },
+   {
+    "equipo": "E.F.M CONCELLO DE BOIRO \"B\"",
+    "pts": 1,
+    "pj": 8,
+    "g": 0,
+    "e": 1,
+    "p": 7,
+    "gf": 7,
+    "gc": 48,
+    "propio": true
+   },
+   {
+    "equipo": "CIDADE DE RIBEIRA C.F. \"B\"",
+    "pts": 0,
+    "pj": 8,
+    "g": 0,
+    "e": 0,
+    "p": 8,
+    "gf": 4,
+    "gc": 61,
+    "propio": false
+   }
+  ],
+  "partidos": [
+   {
+    "jornada": 1,
+    "fecha": "2026-09-12",
+    "hora": "12:00",
+    "local": true,
+    "rival": "A.D. MANUEL PELETEIRO",
+    "resultado": "2-3",
+    "campo": ""
+   },
+   {
+    "jornada": 2,
+    "fecha": "2026-09-20",
+    "hora": "10:00",
+    "local": false,
+    "rival": "S.R. CALO",
+    "resultado": "10-0",
+    "campo": ""
+   },
+   {
+    "jornada": 3,
+    "fecha": "2026-09-26",
+    "hora": "12:15",
+    "local": true,
+    "rival": "VICTORIA F.C. \"B\"",
+    "resultado": "2-2",
+    "campo": ""
+   },
+   {
+    "jornada": 4,
+    "fecha": "2026-10-03",
+    "hora": "13:00",
+    "local": false,
+    "rival": "BERTAMIRANS F.C. \"B\"",
+    "resultado": "8-0",
+    "campo": ""
+   },
+   {
+    "jornada": 5,
+    "fecha": "2026-10-17",
+    "hora": "10:00",
+    "local": false,
+    "rival": "ULLA PONTECESURES C.F.",
+    "resultado": "6-0",
+    "campo": ""
+   },
+   {
+    "jornada": 6,
+    "fecha": "2026-10-25",
+    "hora": "10:30",
+    "local": true,
+    "rival": "S.D. COMPOSTELA \"B\"",
+    "resultado": "1-7",
+    "campo": ""
+   },
+   {
+    "jornada": 7,
+    "fecha": "2026-10-31",
+    "hora": "11:30",
+    "local": false,
+    "rival": "VEDRA-BOQUEIXÓN ESCOLA DEPORTIVA",
+    "resultado": "9-1",
+    "campo": ""
+   },
+   {
+    "jornada": 8,
+    "fecha": "2026-11-07",
+    "hora": "12:00",
+    "local": true,
+    "rival": "E.D.S. SANTA MARTA",
+    "resultado": "1-3",
+    "campo": ""
+   },
+   {
+    "jornada": 9,
+    "fecha": "2026-11-14",
+    "hora": "11:15",
+    "local": false,
+    "rival": "S.D. VILLESTRO",
+    "resultado": "",
+    "campo": "Suso Conde"
+   },
+   {
+    "jornada": 10,
+    "fecha": "2026-11-21",
+    "hora": "",
+    "local": true,
+    "rival": "AMIO S.D.",
+    "resultado": "",
+    "campo": ""
+   },
+   {
+    "jornada": 11,
+    "fecha": "2026-11-28",
+    "hora": "",
+    "local": false,
+    "rival": "ATLETICO FATIMA",
+    "resultado": "",
+    "campo": ""
+   },
+   {
+    "jornada": 12,
+    "fecha": "2026-12-12",
+    "hora": "",
+    "local": true,
+    "rival": "CIDADE DE RIBEIRA C.F. \"B\"",
+    "resultado": "",
+    "campo": ""
+   },
+   {
+    "jornada": 13,
+    "fecha": "2026-12-19",
+    "hora": "",
+    "local": false,
+    "rival": "A.D. NICRARIENSE",
+    "resultado": "",
+    "campo": ""
+   },
+   {
+    "jornada": 14,
+    "fecha": "2027-01-09",
+    "hora": "",
+    "local": true,
+    "rival": "E.F. LALIN \"B\"",
+    "resultado": "",
+    "campo": ""
+   },
+   {
+    "jornada": 15,
+    "fecha": "2027-01-16",
+    "hora": "",
+    "local": false,
+    "rival": "ESCOLA DEPORTIVA O DOLMEN DE TORDOIA",
+    "resultado": "",
+    "campo": ""
+   },
+   {
+    "jornada": 16,
+    "fecha": "2027-01-23",
+    "hora": "",
+    "local": false,
+    "rival": "A.D. MANUEL PELETEIRO",
+    "resultado": "",
+    "campo": ""
+   },
+   {
+    "jornada": 17,
+    "fecha": "2027-01-30",
+    "hora": "",
+    "local": true,
+    "rival": "S.R. CALO",
+    "resultado": "",
+    "campo": ""
+   },
+   {
+    "jornada": 18,
+    "fecha": "2027-02-13",
+    "hora": "",
+    "local": false,
+    "rival": "VICTORIA F.C. \"B\"",
+    "resultado": "",
+    "campo": ""
+   },
+   {
+    "jornada": 19,
+    "fecha": "2027-02-20",
+    "hora": "",
+    "local": true,
+    "rival": "BERTAMIRANS F.C. \"B\"",
+    "resultado": "",
+    "campo": ""
+   },
+   {
+    "jornada": 20,
+    "fecha": "2027-02-27",
+    "hora": "",
+    "local": true,
+    "rival": "ULLA PONTECESURES C.F.",
+    "resultado": "",
+    "campo": ""
+   },
+   {
+    "jornada": 21,
+    "fecha": "2027-03-06",
+    "hora": "",
+    "local": false,
+    "rival": "S.D. COMPOSTELA \"B\"",
+    "resultado": "",
+    "campo": ""
+   },
+   {
+    "jornada": 22,
+    "fecha": "2027-03-13",
+    "hora": "",
+    "local": true,
+    "rival": "VEDRA-BOQUEIXÓN ESCOLA DEPORTIVA",
+    "resultado": "",
+    "campo": ""
+   },
+   {
+    "jornada": 23,
+    "fecha": "2027-03-20",
+    "hora": "",
+    "local": false,
+    "rival": "E.D.S. SANTA MARTA",
+    "resultado": "",
+    "campo": ""
+   },
+   {
+    "jornada": 24,
+    "fecha": "2027-04-03",
+    "hora": "",
+    "local": true,
+    "rival": "S.D. VILLESTRO",
+    "resultado": "",
+    "campo": ""
+   },
+   {
+    "jornada": 25,
+    "fecha": "2027-04-10",
+    "hora": "",
+    "local": false,
+    "rival": "AMIO S.D.",
+    "resultado": "",
+    "campo": ""
+   },
+   {
+    "jornada": 26,
+    "fecha": "2027-04-17",
+    "hora": "",
+    "local": true,
+    "rival": "ATLETICO FATIMA",
+    "resultado": "",
+    "campo": ""
+   },
+   {
+    "jornada": 27,
+    "fecha": "2027-04-24",
+    "hora": "",
+    "local": false,
+    "rival": "CIDADE DE RIBEIRA C.F. \"B\"",
+    "resultado": "",
+    "campo": ""
+   },
+   {
+    "jornada": 28,
+    "fecha": "2027-05-01",
+    "hora": "",
+    "local": true,
+    "rival": "A.D. NICRARIENSE",
+    "resultado": "",
+    "campo": ""
+   },
+   {
+    "jornada": 29,
+    "fecha": "2027-05-08",
+    "hora": "",
+    "local": false,
+    "rival": "E.F. LALIN \"B\"",
+    "resultado": "",
+    "campo": ""
+   },
+   {
+    "jornada": 30,
+    "fecha": "2027-05-15",
+    "hora": "",
+    "local": true,
+    "rival": "ESCOLA DEPORTIVA O DOLMEN DE TORDOIA",
+    "resultado": "",
+    "campo": ""
+   }
+  ],
+  "competicion": "Infantil - 1ª Futgal · Santiago",
+  "urlClasificacion": "https://www.futgal.es/pnfg/NPcd/NFG_VisClasificacion?cod_primaria=1000120&codgrupo=26991288&codcompeticion=26991286",
+  "escudos": {
+   "E.D.S. SANTA MARTA": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000932995_Escudo_JPEG.jpg",
+   "S.D. COMPOSTELA \"B\"": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0001010839_logo___copia.jpg",
+   "E.F. LALIN \"B\"": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000902743_88B6F7FE_29E4_4005_93D3_257302162D5C.jpeg",
+   "ESCOLA DEPORTIVA O DOLMEN DE TORDOIA": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0001008000_Escudo_O_Dolmen.jpg",
+   "AMIO S.D.": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0001073035_ESCUDO_RENOVADO_2021.PNG",
+   "BERTAMIRANS F.C. \"B\"": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0001606570_escudo_bertamirans__1_.png",
+   "S.D. VILLESTRO": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0001041063_CEE6374B_41AB_4193_9B06_BF6B0D94B4B1.jpeg",
+   "E.F.M CONCELLO DE BOIRO \"B\"": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000934497_escudo.jpg",
+   "CIDADE DE RIBEIRA C.F. \"B\"": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000932504_Escudo_Cidade_de_Ribeira_bis.jpg",
+   "S.R. CALO": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0001666392_escudo_cl__sico.png",
+   "ATLETICO FATIMA": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0011656472_Escudo_Fatima_bo_2026_fondo_transparente.png",
+   "VICTORIA F.C. \"B\"": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000600738_Victoria_FC.jpg",
+   "ULLA PONTECESURES C.F.": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000000276_ULLA_CF.jpg",
+   "VEDRA-BOQUEIXÓN ESCOLA DEPORTIVA": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0001218635_Vedra_Boqueixon_ED.png",
+   "A.D. NICRARIENSE": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000668205_logo_JPEG.jpg",
+   "A.D. MANUEL PELETEIRO": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000659357_LOGO_ADM.png"
+  },
+  "descargado": "2026-11-11T20:13"
+ },
+ {
+  "id": "infantil-c",
+  "codigo": "5487466",
+  "categoria": "infantil",
+  "letra": "C",
+  "liga": "2ª Futgal Infantil",
+  "urlFederacion": "https://www.futgal.es/pnfg/NPcd/NFG_VisEquipos?cod_primaria=1000119&Codigo_Equipo=5487466",
+  "plantilla": [
+   "Iker Collazo Lojo",
+   "Manuel Eiras Triñanes",
+   "Luis Fernández Blanco",
+   "Martín Fragoso Lamas",
+   "Manuel García Sánchez",
+   "David González Hermo",
+   "Pedro Méndez Pérez",
+   "Pablo Ozores Rodríguez",
+   "Fabio Pena Fernández",
+   "Liam Rabadi Muñiz",
+   "Miguel Rodríguez Saborido",
+   "Maximo Rodríguez Tubio",
+   "Iván Romero Blanco",
+   "Victor Manuel Romero Blanco",
+   "Mateo Suárez Piñeiro"
+  ],
+  "entrenadores": [
+   "Juan Manuel Conesa Tubio"
+  ],
+  "delegados": [],
+  "clasificacion": [
+   {
+    "equipo": "PUEBLA F.C.",
+    "pts": 15,
+    "pj": 5,
+    "g": 5,
+    "e": 0,
+    "p": 0,
+    "gf": 52,
+    "gc": 2,
+    "propio": false
+   },
+   {
+    "equipo": "BASTAVALES U.D.",
+    "pts": 13,
+    "pj": 5,
+    "g": 4,
+    "e": 1,
+    "p": 0,
+    "gf": 26,
+    "gc": 9,
+    "propio": false
+   },
+   {
+    "equipo": "BERTAMIRANS F.C. \"C\"",
+    "pts": 13,
+    "pj": 5,
+    "g": 4,
+    "e": 1,
+    "p": 0,
+    "gf": 21,
+    "gc": 6,
+    "propio": false
+   },
+   {
+    "equipo": "MILLADOIRO S.D.",
+    "pts": 12,
+    "pj": 5,
+    "g": 4,
+    "e": 0,
+    "p": 1,
+    "gf": 19,
+    "gc": 7,
+    "propio": false
+   },
+   {
+    "equipo": "AMIO S.D. \"B\"",
+    "pts": 9,
+    "pj": 5,
+    "g": 3,
+    "e": 0,
+    "p": 2,
+    "gf": 20,
+    "gc": 8,
+    "propio": false
+   },
+   {
+    "equipo": "C.D. UNION",
+    "pts": 9,
+    "pj": 5,
+    "g": 3,
+    "e": 0,
+    "p": 2,
+    "gf": 17,
+    "gc": 9,
+    "propio": false
+   },
+   {
+    "equipo": "RACING SAN LORENZO",
+    "pts": 9,
+    "pj": 5,
+    "g": 3,
+    "e": 0,
+    "p": 2,
+    "gf": 18,
+    "gc": 14,
+    "propio": false
+   },
+   {
+    "equipo": "S.D. XUVENTÚ AGUIÑO",
+    "pts": 9,
+    "pj": 5,
+    "g": 3,
+    "e": 0,
+    "p": 2,
+    "gf": 18,
+    "gc": 17,
+    "propio": false
+   },
+   {
+    "equipo": "A.D. MANUEL PELETEIRO \"B\"",
+    "pts": 6,
+    "pj": 5,
+    "g": 2,
+    "e": 0,
+    "p": 3,
+    "gf": 10,
+    "gc": 26,
+    "propio": false
+   },
+   {
+    "equipo": "C.F. NOIA \"B\"",
+    "pts": 3,
+    "pj": 5,
+    "g": 1,
+    "e": 0,
+    "p": 4,
+    "gf": 7,
+    "gc": 17,
+    "propio": false
+   },
+   {
+    "equipo": "S.D. VILLESTRO \"B\"",
+    "pts": 3,
+    "pj": 5,
+    "g": 1,
+    "e": 0,
+    "p": 4,
+    "gf": 7,
+    "gc": 20,
+    "propio": false
+   },
+   {
+    "equipo": "E.F.M CONCELLO DE BOIRO \"C\"",
+    "pts": 3,
+    "pj": 5,
+    "g": 1,
+    "e": 0,
+    "p": 4,
+    "gf": 3,
+    "gc": 25,
+    "propio": true
+   },
+   {
+    "equipo": "C.D. ROIS",
+    "pts": 0,
+    "pj": 5,
+    "g": 0,
+    "e": 0,
+    "p": 5,
+    "gf": 10,
+    "gc": 35,
+    "propio": false
+   },
+   {
+    "equipo": "ATLETICO OLEIROS",
+    "pts": 0,
+    "pj": 5,
+    "g": 0,
+    "e": 0,
+    "p": 5,
+    "gf": 7,
+    "gc": 40,
+    "propio": false
+   }
+  ],
+  "partidos": [
+   {
+    "jornada": 1,
+    "fecha": "2026-09-26",
+    "hora": "12:50",
+    "local": false,
+    "rival": "C.F. NOIA \"B\"",
+    "resultado": "0-1",
+    "campo": ""
+   },
+   {
+    "jornada": 2,
+    "fecha": "2026-10-03",
+    "hora": "12:15",
+    "local": true,
+    "rival": "AMIO S.D. \"B\"",
+    "resultado": "0-8",
+    "campo": ""
+   },
+   {
+    "jornada": 3,
+    "fecha": "2026-10-17",
+    "hora": "11:30",
+    "local": false,
+    "rival": "BASTAVALES U.D.",
+    "resultado": "7-1",
+    "campo": ""
+   },
+   {
+    "jornada": 4,
+    "fecha": "2026-10-24",
+    "hora": "10:30",
+    "local": true,
+    "rival": "MILLADOIRO S.D.",
+    "resultado": "0-5",
+    "campo": ""
+   },
+   {
+    "jornada": 5,
+    "fecha": "2026-11-07",
+    "hora": "10:30",
+    "local": true,
+    "rival": "BERTAMIRANS F.C. \"C\"",
+    "resultado": "1-5",
+    "campo": ""
+   },
+   {
+    "jornada": 6,
+    "fecha": "2026-11-14",
+    "hora": "10:30",
+    "local": false,
+    "rival": "ATLETICO OLEIROS",
+    "resultado": "",
+    "campo": "Campo de Fútbol A Trinidade-Riveira"
+   },
+   {
+    "jornada": 7,
+    "fecha": "2026-11-21",
+    "hora": "",
+    "local": true,
+    "rival": "S.D. VILLESTRO \"B\"",
+    "resultado": "",
+    "campo": ""
+   },
+   {
+    "jornada": 8,
+    "fecha": "2026-11-28",
+    "hora": "",
+    "local": false,
+    "rival": "A.D. MANUEL PELETEIRO \"B\"",
+    "resultado": "",
+    "campo": ""
+   },
+   {
+    "jornada": 9,
+    "fecha": "2026-12-12",
+    "hora": "",
+    "local": true,
+    "rival": "C.D. UNION",
+    "resultado": "",
+    "campo": ""
+   },
+   {
+    "jornada": 10,
+    "fecha": "2026-12-19",
+    "hora": "",
+    "local": false,
+    "rival": "C.D. ROIS",
+    "resultado": "",
+    "campo": ""
+   },
+   {
+    "jornada": 11,
+    "fecha": "2027-01-09",
+    "hora": "",
+    "local": true,
+    "rival": "RACING SAN LORENZO",
+    "resultado": "",
+    "campo": ""
+   },
+   {
+    "jornada": 12,
+    "fecha": "2027-01-16",
+    "hora": "11:00",
+    "local": false,
+    "rival": "PUEBLA F.C.",
+    "resultado": "",
+    "campo": ""
+   },
+   {
+    "jornada": 13,
+    "fecha": "2027-01-23",
+    "hora": "",
+    "local": true,
+    "rival": "S.D. XUVENTÚ AGUIÑO",
+    "resultado": "",
+    "campo": ""
+   },
+   {
+    "jornada": 14,
+    "fecha": "2027-01-30",
+    "hora": "",
+    "local": true,
+    "rival": "C.F. NOIA \"B\"",
+    "resultado": "",
+    "campo": ""
+   },
+   {
+    "jornada": 15,
+    "fecha": "2027-02-13",
+    "hora": "",
+    "local": false,
+    "rival": "AMIO S.D. \"B\"",
+    "resultado": "",
+    "campo": ""
+   },
+   {
+    "jornada": 16,
+    "fecha": "2027-02-20",
+    "hora": "",
+    "local": true,
+    "rival": "BASTAVALES U.D.",
+    "resultado": "",
+    "campo": ""
+   },
+   {
+    "jornada": 17,
+    "fecha": "2027-02-27",
+    "hora": "",
+    "local": false,
+    "rival": "MILLADOIRO S.D.",
+    "resultado": "",
+    "campo": ""
+   },
+   {
+    "jornada": 18,
+    "fecha": "2027-03-06",
+    "hora": "",
+    "local": false,
+    "rival": "BERTAMIRANS F.C. \"C\"",
+    "resultado": "",
+    "campo": ""
+   },
+   {
+    "jornada": 19,
+    "fecha": "2027-03-13",
+    "hora": "",
+    "local": true,
+    "rival": "ATLETICO OLEIROS",
+    "resultado": "",
+    "campo": ""
+   },
+   {
+    "jornada": 20,
+    "fecha": "2027-03-20",
+    "hora": "",
+    "local": false,
+    "rival": "S.D. VILLESTRO \"B\"",
+    "resultado": "",
+    "campo": ""
+   },
+   {
+    "jornada": 21,
+    "fecha": "2027-04-03",
+    "hora": "",
+    "local": true,
+    "rival": "A.D. MANUEL PELETEIRO \"B\"",
+    "resultado": "",
+    "campo": ""
+   },
+   {
+    "jornada": 22,
+    "fecha": "2027-04-10",
+    "hora": "",
+    "local": false,
+    "rival": "C.D. UNION",
+    "resultado": "",
+    "campo": ""
+   },
+   {
+    "jornada": 23,
+    "fecha": "2027-04-17",
+    "hora": "",
+    "local": true,
+    "rival": "C.D. ROIS",
+    "resultado": "",
+    "campo": ""
+   },
+   {
+    "jornada": 24,
+    "fecha": "2027-04-24",
+    "hora": "",
+    "local": false,
+    "rival": "RACING SAN LORENZO",
+    "resultado": "",
+    "campo": ""
+   },
+   {
+    "jornada": 25,
+    "fecha": "2027-05-01",
+    "hora": "",
+    "local": true,
+    "rival": "PUEBLA F.C.",
+    "resultado": "",
+    "campo": ""
+   },
+   {
+    "jornada": 26,
+    "fecha": "2027-05-08",
+    "hora": "",
+    "local": false,
+    "rival": "S.D. XUVENTÚ AGUIÑO",
+    "resultado": "",
+    "campo": ""
+   }
+  ],
+  "competicion": "Infantil - 2ª Futgal · Santiago| Grupo 1",
+  "urlClasificacion": "https://www.futgal.es/pnfg/NPcd/NFG_VisClasificacion?cod_primaria=1000120&codgrupo=26991113&codcompeticion=26991111",
+  "escudos": {
+   "ATLETICO OLEIROS": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0001119543_ESC_ATL_TICO_OLEIROS.png",
+   "E.F.M CONCELLO DE BOIRO \"C\"": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000934497_escudo.jpg",
+   "C.D. UNION": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000932451_escudo_color.png",
+   "C.F. NOIA \"B\"": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0001349346_escudo_noia1.png",
+   "C.D. ROIS": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0001016821_Escudo_25ANIV.jpg",
+   "S.D. XUVENTÚ AGUIÑO": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0001697225_ESCUDO_SD_XUVENTU_AGUI__O.png",
+   "RACING SAN LORENZO": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000003293_Racing_San_Lorenzo.JPG",
+   "PUEBLA F.C.": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000808184_FB_IMG_1437832053515.jpg",
+   "A.D. MANUEL PELETEIRO \"B\"": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000659357_LOGO_ADM.png",
+   "AMIO S.D. \"B\"": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0001073035_ESCUDO_RENOVADO_2021.PNG",
+   "BERTAMIRANS F.C. \"C\"": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0001606570_escudo_bertamirans__1_.png",
+   "MILLADOIRO S.D.": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000914349_escudo_milladoiro.jpg",
+   "S.D. VILLESTRO \"B\"": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0001041063_CEE6374B_41AB_4193_9B06_BF6B0D94B4B1.jpeg",
+   "BASTAVALES U.D.": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000001294_Bastavales.jpg"
+  },
+  "descargado": "2026-11-11T20:13"
+ },
+ {
+  "id": "infantil-d",
+  "codigo": "24418554",
+  "categoria": "infantil",
+  "letra": "D",
+  "liga": "3ª Futgal Infantil",
+  "urlFederacion": "https://www.futgal.es/pnfg/NPcd/NFG_VisEquipos?cod_primaria=1000119&Codigo_Equipo=24418554",
+  "plantilla": [
+   "Sergio Agrasar González",
+   "Carmen Alcalde Sieira",
+   "Joao Miguel Alvarenga Santos",
+   "Erik Bermúdez Cespon",
+   "Manuel Blanco Pazos",
+   "Samuel Carballo Camba",
+   "Tomás González Figueira",
+   "Álvaro Lorenzo Caamaño",
+   "Breixo Maneiro Abuin",
+   "Francisco Maneiro Riveiro",
+   "Diego Olveira Comojo",
+   "Noel Rodríguez Antelo",
+   "Leonardo Rodríguez Tubio",
+   "Tiago Suárez Rosario",
+   "Pablo Torrado Piñeiro",
+   "Dante Cortés Torres Andrews",
+   "Beatriz Vázquez Porteiro",
+   "Adrián Vázquez Rey"
+  ],
+  "entrenadores": [
+   "José Luis Portas Gómez"
+  ],
+  "delegados": [
+   "Francisco Manuel González Redondo"
+  ],
+  "clasificacion": [
+   {
+    "equipo": "CARREIRA C.F.",
+    "pts": 12,
+    "pj": 4,
+    "g": 4,
+    "e": 0,
+    "p": 0,
+    "gf": 32,
+    "gc": 3,
+    "propio": false
+   },
+   {
+    "equipo": "C.C.D. TARAGOÑA",
+    "pts": 9,
+    "pj": 3,
+    "g": 3,
+    "e": 0,
+    "p": 0,
+    "gf": 27,
+    "gc": 1,
+    "propio": false
+   },
+   {
+    "equipo": "S.D. ESCLAVITUD",
+    "pts": 9,
+    "pj": 4,
+    "g": 3,
+    "e": 0,
+    "p": 1,
+    "gf": 20,
+    "gc": 8,
+    "propio": false
+   },
+   {
+    "equipo": "C.D. SAR EXTRAMUNDI",
+    "pts": 6,
+    "pj": 3,
+    "g": 2,
+    "e": 0,
+    "p": 1,
+    "gf": 19,
+    "gc": 5,
+    "propio": false
+   },
+   {
+    "equipo": "PORTO DO SON C.F.",
+    "pts": 6,
+    "pj": 4,
+    "g": 2,
+    "e": 0,
+    "p": 2,
+    "gf": 14,
+    "gc": 8,
+    "propio": false
+   },
+   {
+    "equipo": "C.D. DODRO",
+    "pts": 6,
+    "pj": 3,
+    "g": 2,
+    "e": 0,
+    "p": 1,
+    "gf": 8,
+    "gc": 6,
+    "propio": false
+   },
+   {
+    "equipo": "ULLA PONTECESURES C.F. \"B\"",
+    "pts": 6,
+    "pj": 4,
+    "g": 2,
+    "e": 0,
+    "p": 2,
+    "gf": 5,
+    "gc": 10,
+    "propio": false
+   },
+   {
+    "equipo": "BERTAMIRANS F.C. \"D\"",
+    "pts": 3,
+    "pj": 3,
+    "g": 1,
+    "e": 0,
+    "p": 2,
+    "gf": 19,
+    "gc": 8,
+    "propio": false
+   },
+   {
+    "equipo": "MILLADOIRO S.D. \"B\"",
+    "pts": 3,
+    "pj": 4,
+    "g": 1,
+    "e": 0,
+    "p": 3,
+    "gf": 11,
+    "gc": 24,
+    "propio": false
+   },
+   {
+    "equipo": "C.F. NOIA \"C\"",
+    "pts": 0,
+    "pj": 4,
+    "g": 0,
+    "e": 0,
+    "p": 4,
+    "gf": 2,
+    "gc": 37,
+    "propio": false
+   },
+   {
+    "equipo": "E.F.M CONCELLO DE BOIRO \"D\"",
+    "pts": 0,
+    "pj": 4,
+    "g": 0,
+    "e": 0,
+    "p": 4,
+    "gf": 3,
+    "gc": 50,
+    "propio": true
+   }
+  ],
+  "partidos": [
+   {
+    "jornada": 1,
+    "fecha": "2026-10-04",
+    "hora": "11:30",
+    "local": true,
+    "rival": "S.D. ESCLAVITUD",
+    "resultado": "1-7",
+    "campo": ""
+   },
+   {
+    "jornada": 2,
+    "fecha": "2026-10-17",
+    "hora": "12:00",
+    "local": false,
+    "rival": "CARREIRA C.F.",
+    "resultado": "15-1",
+    "campo": ""
+   },
+   {
+    "jornada": 3,
+    "fecha": "2026-10-24",
+    "hora": "12:15",
+    "local": true,
+    "rival": "C.C.D. TARAGOÑA",
+    "resultado": "0-11",
+    "campo": ""
+   },
+   {
+    "jornada": 4,
+    "fecha": "2026-11-07",
+    "hora": "11:15",
+    "local": false,
+    "rival": "BERTAMIRANS F.C. \"D\"",
+    "resultado": "17-1",
+    "campo": ""
+   },
+   {
+    "jornada": 5,
+    "fecha": "",
+    "hora": "",
+    "local": true,
+    "rival": "21-11-2026",
+    "resultado": "",
+    "campo": ""
+   },
+   {
+    "jornada": 6,
+    "fecha": "2026-11-28",
+    "hora": "",
+    "local": true,
+    "rival": "C.F. NOIA \"C\"",
+    "resultado": "",
+    "campo": ""
+   },
+   {
+    "jornada": 7,
+    "fecha": "2026-12-12",
+    "hora": "",
+    "local": false,
+    "rival": "ULLA PONTECESURES C.F. \"B\"",
+    "resultado": "",
+    "campo": ""
+   },
+   {
+    "jornada": 8,
+    "fecha": "2026-12-19",
+    "hora": "",
+    "local": true,
+    "rival": "MILLADOIRO S.D. \"B\"",
+    "resultado": "",
+    "campo": ""
+   },
+   {
+    "jornada": 9,
+    "fecha": "2027-01-09",
+    "hora": "",
+    "local": false,
+    "rival": "C.D. DODRO",
+    "resultado": "",
+    "campo": ""
+   },
+   {
+    "jornada": 10,
+    "fecha": "2027-01-16",
+    "hora": "",
+    "local": true,
+    "rival": "C.D. SAR EXTRAMUNDI",
+    "resultado": "",
+    "campo": ""
+   },
+   {
+    "jornada": 11,
+    "fecha": "2027-01-30",
+    "hora": "",
+    "local": false,
+    "rival": "PORTO DO SON C.F.",
+    "resultado": "",
+    "campo": ""
+   },
+   {
+    "jornada": 12,
+    "fecha": "2027-02-13",
+    "hora": "",
+    "local": false,
+    "rival": "S.D. ESCLAVITUD",
+    "resultado": "",
+    "campo": ""
+   },
+   {
+    "jornada": 13,
+    "fecha": "2027-02-20",
+    "hora": "",
+    "local": true,
+    "rival": "CARREIRA C.F.",
+    "resultado": "",
+    "campo": ""
+   },
+   {
+    "jornada": 14,
+    "fecha": "2027-02-27",
+    "hora": "",
+    "local": false,
+    "rival": "C.C.D. TARAGOÑA",
+    "resultado": "",
+    "campo": ""
+   },
+   {
+    "jornada": 15,
+    "fecha": "2027-03-06",
+    "hora": "",
+    "local": true,
+    "rival": "BERTAMIRANS F.C. \"D\"",
+    "resultado": "",
+    "campo": ""
+   },
+   {
+    "jornada": 16,
+    "fecha": "",
+    "hora": "",
+    "local": true,
+    "rival": "13-03-2027",
+    "resultado": "",
+    "campo": ""
+   },
+   {
+    "jornada": 17,
+    "fecha": "2027-04-03",
+    "hora": "",
+    "local": false,
+    "rival": "C.F. NOIA \"C\"",
+    "resultado": "",
+    "campo": ""
+   },
+   {
+    "jornada": 18,
+    "fecha": "2027-04-10",
+    "hora": "",
+    "local": true,
+    "rival": "ULLA PONTECESURES C.F. \"B\"",
+    "resultado": "",
+    "campo": ""
+   },
+   {
+    "jornada": 19,
+    "fecha": "2027-04-17",
+    "hora": "",
+    "local": false,
+    "rival": "MILLADOIRO S.D. \"B\"",
+    "resultado": "",
+    "campo": ""
+   },
+   {
+    "jornada": 20,
+    "fecha": "2027-04-24",
+    "hora": "",
+    "local": true,
+    "rival": "C.D. DODRO",
+    "resultado": "",
+    "campo": ""
+   },
+   {
+    "jornada": 21,
+    "fecha": "2027-05-01",
+    "hora": "",
+    "local": false,
+    "rival": "C.D. SAR EXTRAMUNDI",
+    "resultado": "",
+    "campo": ""
+   },
+   {
+    "jornada": 22,
+    "fecha": "2027-05-08",
+    "hora": "",
+    "local": true,
+    "rival": "PORTO DO SON C.F.",
+    "resultado": "",
+    "campo": ""
+   }
+  ],
+  "competicion": "Infantil - 3ª Futgal · Santiago| Grupo 1",
+  "urlClasificacion": "https://www.futgal.es/pnfg/NPcd/NFG_VisClasificacion?cod_primaria=1000120&codgrupo=26991305&codcompeticion=26991304",
+  "escudos": {
+   "C.D. SAR EXTRAMUNDI": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0001222302_Screenshot_20230519_110613_Gallery.jpg",
+   "PORTO DO SON C.F.": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0001701458_porto_do_son.jpg",
+   "C.D. DODRO": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000888594_escudo_dodro.jpg",
+   "S.D. ESCLAVITUD": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000001303_Esclavitud.jpg",
+   "MILLADOIRO S.D. \"B\"": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000914349_escudo_milladoiro.jpg",
+   "CARREIRA C.F.": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000806424_IMG_20190717_160949.jpg",
+   "ULLA PONTECESURES C.F. \"B\"": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000000276_ULLA_CF.jpg",
+   "C.C.D. TARAGOÑA": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0001211323_CCD_Logo.jpg",
+   "C.F. NOIA \"C\"": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0001349346_escudo_noia1.png",
+   "BERTAMIRANS F.C. \"D\"": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0001606570_escudo_bertamirans__1_.png",
+   "E.F.M CONCELLO DE BOIRO \"D\"": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000934497_escudo.jpg"
+  },
+  "descargado": "2026-11-11T20:13"
+ },
+ {
+  "id": "alevin-a",
+  "codigo": "3549790",
+  "categoria": "alevin",
+  "letra": "A",
+  "liga": "Primera Alevin F-7",
+  "urlFederacion": "https://www.futgal.es/pnfg/NPcd/NFG_VisEquipos?cod_primaria=1000119&Codigo_Equipo=3549790",
+  "plantilla": [
+   "Aleix Astray Vicente",
+   "Victor Carou García",
+   "Martín Garaboa Castro",
+   "Juan Carlos García Franco",
+   "Thiago Iglesias Paz",
+   "Diego Maneiro Tubio",
+   "Álvaro Mariño González",
+   "Rubén Romero Lojo",
+   "Leo Seco Suárez",
+   "Alex Viturro Sieira"
+  ],
+  "entrenadores": [
+   "Jorge Latorre Vidal"
+  ],
+  "delegados": [
+   "Pablo Astray López"
+  ],
+  "clasificacion": [
+   {
+    "equipo": "BERTAMIRANS F.C.",
+    "pts": 18,
+    "pj": 6,
+    "g": 6,
+    "e": 0,
+    "p": 0,
+    "gf": 47,
+    "gc": 3,
+    "propio": false
+   },
+   {
+    "equipo": "S.D. COMPOSTELA",
+    "pts": 18,
+    "pj": 6,
+    "g": 6,
+    "e": 0,
+    "p": 0,
+    "gf": 44,
+    "gc": 2,
+    "propio": false
+   },
+   {
+    "equipo": "E.F. LALIN",
+    "pts": 15,
+    "pj": 6,
+    "g": 5,
+    "e": 0,
+    "p": 1,
+    "gf": 32,
+    "gc": 6,
+    "propio": false
+   },
+   {
+    "equipo": "E.F.M CONCELLO DE BOIRO",
+    "pts": 15,
+    "pj": 6,
+    "g": 5,
+    "e": 0,
+    "p": 1,
+    "gf": 18,
+    "gc": 8,
+    "propio": true
+   },
+   {
+    "equipo": "C.D. CONXO SANTIAGO",
+    "pts": 9,
+    "pj": 6,
+    "g": 3,
+    "e": 0,
+    "p": 3,
+    "gf": 16,
+    "gc": 14,
+    "propio": false
+   },
+   {
+    "equipo": "ESCOLA ESTRADA FUTBOL BASE",
+    "pts": 9,
+    "pj": 6,
+    "g": 3,
+    "e": 0,
+    "p": 3,
+    "gf": 20,
+    "gc": 21,
+    "propio": false
+   },
+   {
+    "equipo": "S.D. VILLESTRO",
+    "pts": 9,
+    "pj": 6,
+    "g": 3,
+    "e": 0,
+    "p": 3,
+    "gf": 16,
+    "gc": 27,
+    "propio": false
+   },
+   {
+    "equipo": "S.D. XUVENTÚ AGUIÑO",
+    "pts": 9,
+    "pj": 6,
+    "g": 3,
+    "e": 0,
+    "p": 3,
+    "gf": 18,
+    "gc": 33,
+    "propio": false
+   },
+   {
+    "equipo": "ULLA PONTECESURES C.F.",
+    "pts": 5,
+    "pj": 6,
+    "g": 1,
+    "e": 2,
+    "p": 3,
+    "gf": 15,
+    "gc": 21,
+    "propio": false
+   },
+   {
+    "equipo": "C.F. NOIA",
+    "pts": 4,
+    "pj": 6,
+    "g": 1,
+    "e": 1,
+    "p": 4,
+    "gf": 12,
+    "gc": 18,
+    "propio": false
+   },
+   {
+    "equipo": "CIDADE DE RIBEIRA C.F.",
+    "pts": 4,
+    "pj": 6,
+    "g": 1,
+    "e": 1,
+    "p": 4,
+    "gf": 13,
+    "gc": 21,
+    "propio": false
+   },
+   {
+    "equipo": "E.D. XUVENTUDE OROSO",
+    "pts": 4,
+    "pj": 6,
+    "g": 1,
+    "e": 1,
+    "p": 4,
+    "gf": 6,
+    "gc": 22,
+    "propio": false
+   },
+   {
+    "equipo": "VICTORIA F.C.",
+    "pts": 4,
+    "pj": 6,
+    "g": 1,
+    "e": 1,
+    "p": 4,
+    "gf": 11,
+    "gc": 30,
+    "propio": false
+   },
+   {
+    "equipo": "VEDRA-BOQUEIXÓN ESCOLA DEPORTIVA",
+    "pts": 0,
+    "pj": 6,
+    "g": 0,
+    "e": 0,
+    "p": 6,
+    "gf": 2,
+    "gc": 44,
+    "propio": false
+   }
+  ],
+  "partidos": [
+   {
+    "jornada": 1,
+    "fecha": "2026-09-26",
+    "hora": "11:00",
+    "local": false,
+    "rival": "ESCOLA ESTRADA FUTBOL BASE",
+    "resultado": "2-3",
+    "campo": ""
+   },
+   {
+    "jornada": 2,
+    "fecha": "2026-10-03",
+    "hora": "11:00",
+    "local": true,
+    "rival": "S.D. VILLESTRO",
+    "resultado": "6-0",
+    "campo": ""
+   },
+   {
+    "jornada": 3,
+    "fecha": "2026-10-10",
+    "hora": "11:20",
+    "local": false,
+    "rival": "CIDADE DE RIBEIRA C.F.",
+    "resultado": "1-3",
+    "campo": ""
+   },
+   {
+    "jornada": 4,
+    "fecha": "2026-10-17",
+    "hora": "10:30",
+    "local": true,
+    "rival": "E.D. XUVENTUDE OROSO",
+    "resultado": "2-1",
+    "campo": ""
+   },
+   {
+    "jornada": 5,
+    "fecha": "2026-10-25",
+    "hora": "12:00",
+    "local": false,
+    "rival": "E.F. LALIN",
+    "resultado": "3-1",
+    "campo": ""
+   },
+   {
+    "jornada": 6,
+    "fecha": "2026-11-08",
+    "hora": "11:00",
+    "local": true,
+    "rival": "C.D. CONXO SANTIAGO",
+    "resultado": "3-1",
+    "campo": ""
+   },
+   {
+    "jornada": 7,
+    "fecha": "2026-11-14",
+    "hora": "12:00",
+    "local": false,
+    "rival": "BERTAMIRANS F.C.",
+    "resultado": "",
+    "campo": "Municipal De Bertamiráns"
+   },
+   {
+    "jornada": 8,
+    "fecha": "2026-11-22",
+    "hora": "",
+    "local": true,
+    "rival": "VICTORIA F.C.",
+    "resultado": "",
+    "campo": ""
+   },
+   {
+    "jornada": 9,
+    "fecha": "2026-11-29",
+    "hora": "",
+    "local": false,
+    "rival": "C.F. NOIA",
+    "resultado": "",
+    "campo": ""
+   },
+   {
+    "jornada": 10,
+    "fecha": "2026-12-13",
+    "hora": "",
+    "local": true,
+    "rival": "S.D. XUVENTÚ AGUIÑO",
+    "resultado": "",
+    "campo": ""
+   },
+   {
+    "jornada": 11,
+    "fecha": "2026-12-20",
+    "hora": "",
+    "local": false,
+    "rival": "ULLA PONTECESURES C.F.",
+    "resultado": "",
+    "campo": ""
+   },
+   {
+    "jornada": 12,
+    "fecha": "2027-01-10",
+    "hora": "",
+    "local": false,
+    "rival": "VEDRA-BOQUEIXÓN ESCOLA DEPORTIVA",
+    "resultado": "",
+    "campo": ""
+   },
+   {
+    "jornada": 13,
+    "fecha": "2027-01-17",
+    "hora": "",
+    "local": true,
+    "rival": "S.D. COMPOSTELA",
+    "resultado": "",
+    "campo": ""
+   },
+   {
+    "jornada": 14,
+    "fecha": "2027-01-24",
+    "hora": "",
+    "local": true,
+    "rival": "ESCOLA ESTRADA FUTBOL BASE",
+    "resultado": "",
+    "campo": ""
+   },
+   {
+    "jornada": 15,
+    "fecha": "2027-01-31",
+    "hora": "",
+    "local": false,
+    "rival": "S.D. VILLESTRO",
+    "resultado": "",
+    "campo": ""
+   },
+   {
+    "jornada": 16,
+    "fecha": "2027-02-14",
+    "hora": "",
+    "local": true,
+    "rival": "CIDADE DE RIBEIRA C.F.",
+    "resultado": "",
+    "campo": ""
+   },
+   {
+    "jornada": 17,
+    "fecha": "2027-02-21",
+    "hora": "",
+    "local": false,
+    "rival": "E.D. XUVENTUDE OROSO",
+    "resultado": "",
+    "campo": ""
+   },
+   {
+    "jornada": 18,
+    "fecha": "2027-02-28",
+    "hora": "",
+    "local": true,
+    "rival": "E.F. LALIN",
+    "resultado": "",
+    "campo": ""
+   },
+   {
+    "jornada": 19,
+    "fecha": "2027-03-07",
+    "hora": "",
+    "local": false,
+    "rival": "C.D. CONXO SANTIAGO",
+    "resultado": "",
+    "campo": ""
+   },
+   {
+    "jornada": 20,
+    "fecha": "2027-03-14",
+    "hora": "",
+    "local": true,
+    "rival": "BERTAMIRANS F.C.",
+    "resultado": "",
+    "campo": ""
+   },
+   {
+    "jornada": 21,
+    "fecha": "2027-03-21",
+    "hora": "",
+    "local": false,
+    "rival": "VICTORIA F.C.",
+    "resultado": "",
+    "campo": ""
+   },
+   {
+    "jornada": 22,
+    "fecha": "2027-04-04",
+    "hora": "",
+    "local": true,
+    "rival": "C.F. NOIA",
+    "resultado": "",
+    "campo": ""
+   },
+   {
+    "jornada": 23,
+    "fecha": "2027-04-11",
+    "hora": "",
+    "local": false,
+    "rival": "S.D. XUVENTÚ AGUIÑO",
+    "resultado": "",
+    "campo": ""
+   },
+   {
+    "jornada": 24,
+    "fecha": "2027-04-18",
+    "hora": "",
+    "local": true,
+    "rival": "ULLA PONTECESURES C.F.",
+    "resultado": "",
+    "campo": ""
+   },
+   {
+    "jornada": 25,
+    "fecha": "2027-04-25",
+    "hora": "",
+    "local": true,
+    "rival": "VEDRA-BOQUEIXÓN ESCOLA DEPORTIVA",
+    "resultado": "",
+    "campo": ""
+   },
+   {
+    "jornada": 26,
+    "fecha": "2027-05-02",
+    "hora": "",
+    "local": false,
+    "rival": "S.D. COMPOSTELA",
+    "resultado": "",
+    "campo": ""
+   }
+  ],
+  "competicion": "Alevin F-7 - Primera Futgal · Santiago | 1ª Futgal",
+  "urlClasificacion": "https://www.futgal.es/pnfg/NPcd/NFG_VisClasificacion?cod_primaria=1000120&codgrupo=26991567&codcompeticion=26991566",
+  "escudos": {
+   "E.D. XUVENTUDE OROSO": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0012023275_ESCUDOS_EDXO_2.png",
+   "S.D. VILLESTRO": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0001041063_CEE6374B_41AB_4193_9B06_BF6B0D94B4B1.jpeg",
+   "VICTORIA F.C.": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000600738_Victoria_FC.jpg",
+   "ULLA PONTECESURES C.F.": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000000276_ULLA_CF.jpg",
+   "E.F. LALIN": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000902743_88B6F7FE_29E4_4005_93D3_257302162D5C.jpeg",
+   "ESCOLA ESTRADA FUTBOL BASE": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000639247_ESCU_ESCO.jpg",
+   "VEDRA-BOQUEIXÓN ESCOLA DEPORTIVA": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0001218635_Vedra_Boqueixon_ED.png",
+   "CIDADE DE RIBEIRA C.F.": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000932504_Escudo_Cidade_de_Ribeira_bis.jpg",
+   "C.D. CONXO SANTIAGO": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000727207_ESCUDO_CD_CONXO_SANTIAGO.jpg",
+   "S.D. COMPOSTELA": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0001010839_logo___copia.jpg",
+   "BERTAMIRANS F.C.": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0001606570_escudo_bertamirans__1_.png",
+   "E.F.M CONCELLO DE BOIRO": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000934497_escudo.jpg",
+   "C.F. NOIA": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0001349346_escudo_noia1.png",
+   "S.D. XUVENTÚ AGUIÑO": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0001697225_ESCUDO_SD_XUVENTU_AGUI__O.png"
+  },
+  "descargado": "2026-11-11T20:14"
  }
 ];
