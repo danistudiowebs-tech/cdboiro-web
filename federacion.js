@@ -1,5 +1,5 @@
 // GENERADO por actualizar.py desde futgal.es. No editar a mano.
-const ACTUALIZADO = "2026-11-12T01:56";
+const ACTUALIZADO = "2026-11-12T09:51";
 const EQUIPOS = [
  {
   "id": "primer-equipo",
@@ -1610,7 +1610,7 @@ const EQUIPOS = [
     }
    }
   },
-  "descargado": "2026-11-11T13:05"
+  "descargado": "2026-11-12T09:51"
  },
  {
   "id": "juvenil-a",
@@ -3170,233 +3170,7 @@ const EQUIPOS = [
    "VICTORIA C.F. \"B\"": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000004135_victoriacfblanco.jpg",
    "ORZAN S.D.": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000881577_escudo_orzan.png"
   },
-  "actas": {
-   "7": {
-    "t": [
-     "Andrea Dosil Barreiro",
-     "Beatriz Conde Jamardo",
-     "Iria Otero Fuertes",
-     "Antia Vázquez Piñeiro",
-     "Eva M Regueira Martínez",
-     "Gabriela González González",
-     "Laura Alejo Rebolo",
-     "Carla Sanda Fernández",
-     "Margarita Pombo Vilas",
-     "Laura Vila Fariña",
-     "Antía González Piñeiro"
-    ],
-    "s": [
-     "Marcia Casais Dosil",
-     "Carla García Campaña",
-     "Noa Brion Maceiras",
-     "Oumkaltoum Tiyib Siar"
-    ],
-    "e": [
-     "Carla García Campaña",
-     "Oumkaltoum Tiyib Siar",
-     "Marcia Casais Dosil"
-    ],
-    "g": {
-     "Iria Otero Fuertes": 1,
-     "Carla Sanda Fernández": 1
-    },
-    "a": [
-     "Margarita Pombo Vilas",
-     "Margarita Pombo Vilas",
-     "Antía González Piñeiro",
-     "Laura Alejo Rebolo"
-    ],
-    "r": [],
-    "d": {
-     "Andrea Dosil Barreiro": 1,
-     "Beatriz Conde Jamardo": 6,
-     "Iria Otero Fuertes": 7,
-     "Antia Vázquez Piñeiro": 8,
-     "Eva M Regueira Martínez": 9,
-     "Gabriela González González": 10,
-     "Laura Alejo Rebolo": 14,
-     "Carla Sanda Fernández": 17,
-     "Margarita Pombo Vilas": 19,
-     "Laura Vila Fariña": 20,
-     "Antía González Piñeiro": 24,
-     "Marcia Casais Dosil": 4,
-     "Carla García Campaña": 11,
-     "Noa Brion Maceiras": 16,
-     "Oumkaltoum Tiyib Siar": 23
-    },
-    "c": [
-     [
-      "Carla García Campaña",
-      "Iria Otero Fuertes",
-      66
-     ],
-     [
-      "Oumkaltoum Tiyib Siar",
-      "Beatriz Conde Jamardo",
-      80
-     ],
-     [
-      "Marcia Casais Dosil",
-      "Gabriela González González",
-      86
-     ]
-    ],
-    "rm": {},
-    "id": "1449545"
-   },
-   "8": {
-    "t": [
-     "Andrea Dosil Barreiro",
-     "Iria Otero Fuertes",
-     "Antia Vázquez Piñeiro",
-     "Eva M Regueira Martínez",
-     "Carla García Campaña",
-     "Paula Barreiro Rivas",
-     "Laura Alejo Rebolo",
-     "Carla Sanda Fernández",
-     "Laura Vila Fariña",
-     "Oumkaltoum Tiyib Siar",
-     "Antía González Piñeiro"
-    ],
-    "s": [
-     "Marcia Casais Dosil",
-     "Leire Conesa Hermo",
-     "Mariela González Morano"
-    ],
-    "e": [
-     "Marcia Casais Dosil",
-     "Mariela González Morano",
-     "Leire Conesa Hermo"
-    ],
-    "g": {
-     "Oumkaltoum Tiyib Siar": 1
-    },
-    "a": [],
-    "r": [],
-    "d": {
-     "Andrea Dosil Barreiro": 1,
-     "Iria Otero Fuertes": 7,
-     "Antia Vázquez Piñeiro": 8,
-     "Eva M Regueira Martínez": 9,
-     "Carla García Campaña": 11,
-     "Paula Barreiro Rivas": 12,
-     "Laura Alejo Rebolo": 14,
-     "Carla Sanda Fernández": 17,
-     "Laura Vila Fariña": 20,
-     "Oumkaltoum Tiyib Siar": 23,
-     "Antía González Piñeiro": 24,
-     "Marcia Casais Dosil": 4,
-     "Leire Conesa Hermo": 18,
-     "Mariela González Morano": 21
-    },
-    "c": [
-     [
-      "Marcia Casais Dosil",
-      "Iria Otero Fuertes",
-      76
-     ],
-     [
-      "Mariela González Morano",
-      "Antia Vázquez Piñeiro",
-      89
-     ],
-     [
-      "Leire Conesa Hermo",
-      "Carla García Campaña",
-      89
-     ]
-    ],
-    "rm": {},
-    "id": "1449553"
-   },
-   "9": {
-    "t": [
-     "Andrea Dosil Barreiro",
-     "Iria Otero Fuertes",
-     "Antia Vázquez Piñeiro",
-     "Eva M Regueira Martínez",
-     "Carla García Campaña",
-     "Paula Barreiro Rivas",
-     "Laura Alejo Rebolo",
-     "Carla Sanda Fernández",
-     "Margarita Pombo Vilas",
-     "Laura Vila Fariña",
-     "Antía González Piñeiro"
-    ],
-    "s": [
-     "Marcia Casais Dosil",
-     "Beatriz Conde Jamardo",
-     "Gabriela González González"
-    ],
-    "e": [
-     "Beatriz Conde Jamardo",
-     "Gabriela González González",
-     "Marcia Casais Dosil"
-    ],
-    "g": {},
-    "a": [
-     "Antía González Piñeiro",
-     "Paula Barreiro Rivas"
-    ],
-    "r": [],
-    "d": {
-     "Andrea Dosil Barreiro": 1,
-     "Iria Otero Fuertes": 7,
-     "Antia Vázquez Piñeiro": 8,
-     "Eva M Regueira Martínez": 9,
-     "Carla García Campaña": 11,
-     "Paula Barreiro Rivas": 12,
-     "Laura Alejo Rebolo": 14,
-     "Carla Sanda Fernández": 17,
-     "Margarita Pombo Vilas": 19,
-     "Laura Vila Fariña": 20,
-     "Antía González Piñeiro": 24,
-     "Marcia Casais Dosil": 4,
-     "Beatriz Conde Jamardo": 6,
-     "Gabriela González González": 10
-    },
-    "c": [
-     [
-      "Beatriz Conde Jamardo",
-      "Carla Sanda Fernández",
-      70
-     ],
-     [
-      "Gabriela González González",
-      "Antia Vázquez Piñeiro",
-      70
-     ],
-     [
-      "Marcia Casais Dosil",
-      "Antía González Piñeiro",
-      82
-     ]
-    ],
-    "rm": {},
-    "id": "1449560"
-   }
-  },
-  "dorsales": {
-   "Andrea Dosil Barreiro": 1,
-   "Beatriz Conde Jamardo": 6,
-   "Iria Otero Fuertes": 7,
-   "Antia Vázquez Piñeiro": 8,
-   "Eva M Regueira Martínez": 9,
-   "Gabriela González González": 10,
-   "Laura Alejo Rebolo": 14,
-   "Carla Sanda Fernández": 17,
-   "Margarita Pombo Vilas": 19,
-   "Laura Vila Fariña": 20,
-   "Antía González Piñeiro": 24,
-   "Marcia Casais Dosil": 4,
-   "Carla García Campaña": 11,
-   "Noa Brion Maceiras": 16,
-   "Oumkaltoum Tiyib Siar": 23,
-   "Paula Barreiro Rivas": 12,
-   "Leire Conesa Hermo": 18,
-   "Mariela González Morano": 21
-  },
-  "descargado": "2026-11-11T12:43"
+  "descargado": "2026-11-12T09:51"
  },
  {
   "id": "femenino-b",
@@ -3843,282 +3617,7 @@ const EQUIPOS = [
    "MILLADOIRO S.D.": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000914349_escudo_milladoiro.jpg",
    "VICTORIA F.C. \"D\"": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000600738_Victoria_FC.jpg"
   },
-  "actas": {
-   "3": {
-    "t": [
-     "Abigail Fernández Lorenzo",
-     "Ana Bermúdez González",
-     "Haymanot Sánchez García",
-     "Celtia Couce Filgueiras",
-     "Lara Raño Jamardo",
-     "Aitana Ventoso Armental",
-     "Noa Brion Maceiras",
-     "Mariela González Morano",
-     "Leire Conesa Hermo",
-     "Marcia Casais Dosil",
-     "Sheila González Torres"
-    ],
-    "s": [
-     "Valeria Camino Sukhorukova",
-     "Mela Fernández Hermo",
-     "Valeria Cornado González",
-     "Fayna Agrelo Fernández",
-     "Laura Sieira Pérez"
-    ],
-    "e": [
-     "Fayna Agrelo Fernández",
-     "Laura Sieira Pérez",
-     "Valeria Camino Sukhorukova",
-     "Valeria Cornado González",
-     "Mela Fernández Hermo"
-    ],
-    "g": {
-     "Mariela González Morano": 1,
-     "Leire Conesa Hermo": 1
-    },
-    "a": [
-     "Celtia Couce Filgueiras",
-     "Haymanot Sánchez García",
-     "Leire Conesa Hermo",
-     "Laura Sieira Pérez"
-    ],
-    "r": [],
-    "d": {
-     "Abigail Fernández Lorenzo": 13,
-     "Ana Bermúdez González": 2,
-     "Haymanot Sánchez García": 3,
-     "Celtia Couce Filgueiras": 4,
-     "Lara Raño Jamardo": 5,
-     "Aitana Ventoso Armental": 6,
-     "Noa Brion Maceiras": 7,
-     "Mariela González Morano": 8,
-     "Leire Conesa Hermo": 9,
-     "Marcia Casais Dosil": 10,
-     "Sheila González Torres": 28,
-     "Valeria Camino Sukhorukova": 15,
-     "Mela Fernández Hermo": 17,
-     "Valeria Cornado González": 18,
-     "Fayna Agrelo Fernández": 20,
-     "Laura Sieira Pérez": 25
-    },
-    "c": [
-     [
-      "Fayna Agrelo Fernández",
-      "Sheila González Torres",
-      60
-     ],
-     [
-      "Laura Sieira Pérez",
-      "Haymanot Sánchez García",
-      60
-     ],
-     [
-      "Valeria Camino Sukhorukova",
-      "Lara Raño Jamardo",
-      85
-     ],
-     [
-      "Valeria Cornado González",
-      "Leire Conesa Hermo",
-      88
-     ],
-     [
-      "Mela Fernández Hermo",
-      "Aitana Ventoso Armental",
-      88
-     ]
-    ],
-    "rm": {},
-    "id": "1503725"
-   },
-   "4": {
-    "t": [
-     "Abigail Fernández Lorenzo",
-     "Ana Bermúdez González",
-     "Haymanot Sánchez García",
-     "Celtia Couce Filgueiras",
-     "Lara Raño Jamardo",
-     "Aitana Ventoso Armental",
-     "Leire Conesa Hermo",
-     "Marcia Casais Dosil",
-     "María Rebollido Lijo",
-     "Laura Sieira Pérez",
-     "Sheila González Torres"
-    ],
-    "s": [
-     "Lua Vulcano Regueiro",
-     "Valeria Camino Sukhorukova",
-     "Mela Fernández Hermo",
-     "Alexia Miguez Romero",
-     "Fayna Agrelo Fernández"
-    ],
-    "e": [
-     "Fayna Agrelo Fernández",
-     "Mela Fernández Hermo",
-     "Alexia Miguez Romero",
-     "Lua Vulcano Regueiro",
-     "Valeria Camino Sukhorukova"
-    ],
-    "g": {
-     "Leire Conesa Hermo": 2,
-     "Aitana Ventoso Armental": 1
-    },
-    "a": [
-     "Lara Raño Jamardo"
-    ],
-    "r": [],
-    "d": {
-     "Abigail Fernández Lorenzo": 13,
-     "Ana Bermúdez González": 2,
-     "Haymanot Sánchez García": 3,
-     "Celtia Couce Filgueiras": 4,
-     "Lara Raño Jamardo": 5,
-     "Aitana Ventoso Armental": 6,
-     "Leire Conesa Hermo": 9,
-     "Marcia Casais Dosil": 10,
-     "María Rebollido Lijo": 16,
-     "Laura Sieira Pérez": 25,
-     "Sheila González Torres": 28,
-     "Lua Vulcano Regueiro": 1,
-     "Valeria Camino Sukhorukova": 15,
-     "Mela Fernández Hermo": 17,
-     "Alexia Miguez Romero": 19,
-     "Fayna Agrelo Fernández": 20
-    },
-    "c": [
-     [
-      "Fayna Agrelo Fernández",
-      "Laura Sieira Pérez",
-      57
-     ],
-     [
-      "Mela Fernández Hermo",
-      "Sheila González Torres",
-      57
-     ],
-     [
-      "Alexia Miguez Romero",
-      "Haymanot Sánchez García",
-      84
-     ],
-     [
-      "Lua Vulcano Regueiro",
-      "Abigail Fernández Lorenzo",
-      84
-     ],
-     [
-      "Valeria Camino Sukhorukova",
-      "Aitana Ventoso Armental",
-      84
-     ]
-    ],
-    "rm": {},
-    "id": "1503733"
-   },
-   "5": {
-    "t": [
-     "Abigail Fernández Lorenzo",
-     "Ana Bermúdez González",
-     "Haymanot Sánchez García",
-     "Celtia Couce Filgueiras",
-     "Lara Raño Jamardo",
-     "Aitana Ventoso Armental",
-     "Mariela González Morano",
-     "Leire Conesa Hermo",
-     "Fayna Agrelo Fernández",
-     "Laura Sieira Pérez",
-     "Sheila González Torres"
-    ],
-    "s": [
-     "Lua Vulcano Regueiro",
-     "Valeria Camino Sukhorukova",
-     "Valeria Cornado González",
-     "Mela Fernández Hermo",
-     "Alexia Miguez Romero"
-    ],
-    "e": [
-     "Mela Fernández Hermo",
-     "Valeria Camino Sukhorukova",
-     "Valeria Cornado González",
-     "Alexia Miguez Romero",
-     "Lua Vulcano Regueiro"
-    ],
-    "g": {
-     "Haymanot Sánchez García": 1
-    },
-    "a": [],
-    "r": [],
-    "d": {
-     "Abigail Fernández Lorenzo": 13,
-     "Ana Bermúdez González": 2,
-     "Haymanot Sánchez García": 3,
-     "Celtia Couce Filgueiras": 4,
-     "Lara Raño Jamardo": 5,
-     "Aitana Ventoso Armental": 6,
-     "Mariela González Morano": 8,
-     "Leire Conesa Hermo": 9,
-     "Fayna Agrelo Fernández": 20,
-     "Laura Sieira Pérez": 25,
-     "Sheila González Torres": 28,
-     "Lua Vulcano Regueiro": 1,
-     "Valeria Camino Sukhorukova": 15,
-     "Valeria Cornado González": 16,
-     "Mela Fernández Hermo": 17,
-     "Alexia Miguez Romero": 19
-    },
-    "c": [
-     [
-      "Mela Fernández Hermo",
-      "Aitana Ventoso Armental",
-      61
-     ],
-     [
-      "Valeria Camino Sukhorukova",
-      "Laura Sieira Pérez",
-      74
-     ],
-     [
-      "Valeria Cornado González",
-      "Fayna Agrelo Fernández",
-      85
-     ],
-     [
-      "Alexia Miguez Romero",
-      "Lara Raño Jamardo",
-      85
-     ],
-     [
-      "Lua Vulcano Regueiro",
-      "Abigail Fernández Lorenzo",
-      85
-     ]
-    ],
-    "rm": {},
-    "id": "1503740"
-   }
-  },
-  "dorsales": {
-   "Ana Bermúdez González": 2,
-   "Haymanot Sánchez García": 3,
-   "Celtia Couce Filgueiras": 4,
-   "Lara Raño Jamardo": 5,
-   "Aitana Ventoso Armental": 6,
-   "Leire Conesa Hermo": 9,
-   "Lua Vulcano Regueiro": 1,
-   "Mariela González Morano": 8,
-   "Marcia Casais Dosil": 10,
-   "Noa Brion Maceiras": 7,
-   "Abigail Fernández Lorenzo": 13,
-   "Valeria Camino Sukhorukova": 15,
-   "Mela Fernández Hermo": 17,
-   "Fayna Agrelo Fernández": 20,
-   "Laura Sieira Pérez": 25,
-   "Sheila González Torres": 28,
-   "Alexia Miguez Romero": 19,
-   "María Rebollido Lijo": 16,
-   "Valeria Cornado González": 18
-  },
-  "descargado": "2026-11-11T12:44"
+  "descargado": "2026-11-12T09:51"
  },
  {
   "id": "juvenil-b",
@@ -10580,5 +10079,454 @@ const EQUIPOS = [
    "PUEBLA F.C.": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000808184_FB_IMG_1437832053515.jpg"
   },
   "descargado": "2026-11-12T01:56"
+ },
+ {
+  "id": "prebenjamin-a",
+  "codigo": "3549792",
+  "categoria": "prebenjamin",
+  "letra": "A",
+  "liga": "Primera Prebenjamin F-8",
+  "urlFederacion": "https://www.futgal.es/pnfg/NPcd/NFG_VisEquipos?cod_primaria=1000119&Codigo_Equipo=3549792",
+  "plantilla": [
+   "Anxo Blanco Lamas",
+   "Luka Dieste Souto",
+   "Alejandro Fajardo Lois",
+   "Alex Fernández Mato",
+   "Mateo Fernández Pose",
+   "Gael González Vidal",
+   "Cheikh Tidiane Ndoye Ndiaye",
+   "Roque Pérez Díaz",
+   "Yadel Pérez Muñiz",
+   "Hugo Raposo Hermo",
+   "Hugo Rodríguez Rivas"
+  ],
+  "entrenadores": [
+   "Jorge Ramos García"
+  ],
+  "delegados": [
+   "Juan Bautista Ramos Saiñas"
+  ],
+  "clasificacion": [
+   {
+    "equipo": "C.D. CONXO SANTIAGO",
+    "pts": 12,
+    "pj": 4,
+    "g": 4,
+    "e": 0,
+    "p": 0,
+    "gf": 10,
+    "gc": 1,
+    "propio": false
+   },
+   {
+    "equipo": "BERTAMIRANS F.C.",
+    "pts": 9,
+    "pj": 4,
+    "g": 3,
+    "e": 0,
+    "p": 1,
+    "gf": 11,
+    "gc": 3,
+    "propio": false
+   },
+   {
+    "equipo": "S.D. VILLESTRO",
+    "pts": 7,
+    "pj": 4,
+    "g": 2,
+    "e": 1,
+    "p": 1,
+    "gf": 4,
+    "gc": 6,
+    "propio": false
+   },
+   {
+    "equipo": "S.R. CALO",
+    "pts": 6,
+    "pj": 5,
+    "g": 2,
+    "e": 0,
+    "p": 3,
+    "gf": 7,
+    "gc": 11,
+    "propio": false
+   },
+   {
+    "equipo": "ATLETICO FATIMA",
+    "pts": 4,
+    "pj": 5,
+    "g": 1,
+    "e": 1,
+    "p": 3,
+    "gf": 3,
+    "gc": 5,
+    "propio": false
+   },
+   {
+    "equipo": "C.F. NOIA",
+    "pts": 2,
+    "pj": 4,
+    "g": 0,
+    "e": 2,
+    "p": 2,
+    "gf": 2,
+    "gc": 4,
+    "propio": false
+   },
+   {
+    "equipo": "E.F.M CONCELLO DE BOIRO",
+    "pts": 2,
+    "pj": 4,
+    "g": 0,
+    "e": 2,
+    "p": 2,
+    "gf": 1,
+    "gc": 8,
+    "propio": true
+   }
+  ],
+  "partidos": [
+   {
+    "jornada": 1,
+    "fecha": "2026-10-03",
+    "hora": "12:00",
+    "local": true,
+    "rival": "C.D. CONXO SANTIAGO",
+    "resultado": "0-3",
+    "campo": ""
+   },
+   {
+    "jornada": 2,
+    "fecha": "2026-10-17",
+    "hora": "16:00",
+    "local": false,
+    "rival": "S.R. CALO",
+    "resultado": "4-0",
+    "campo": ""
+   },
+   {
+    "jornada": 3,
+    "fecha": "2026-10-24",
+    "hora": "13:00",
+    "local": true,
+    "rival": "S.D. VILLESTRO",
+    "resultado": "1-1",
+    "campo": ""
+   },
+   {
+    "jornada": 4,
+    "fecha": "2026-10-31",
+    "hora": "16:15",
+    "local": false,
+    "rival": "C.F. NOIA",
+    "resultado": "0-0",
+    "campo": ""
+   },
+   {
+    "jornada": 5,
+    "fecha": "",
+    "hora": "",
+    "local": true,
+    "rival": "07-11-2026",
+    "resultado": "",
+    "campo": "Campo de Fútbol Municipal de Belvís"
+   },
+   {
+    "jornada": 6,
+    "fecha": "2026-11-14",
+    "hora": "11:00",
+    "local": true,
+    "rival": "ATLETICO FATIMA",
+    "resultado": "",
+    "campo": ""
+   },
+   {
+    "jornada": 7,
+    "fecha": "2026-11-21",
+    "hora": "",
+    "local": false,
+    "rival": "BERTAMIRANS F.C.",
+    "resultado": "",
+    "campo": ""
+   },
+   {
+    "jornada": 8,
+    "fecha": "2026-11-28",
+    "hora": "",
+    "local": false,
+    "rival": "C.D. CONXO SANTIAGO",
+    "resultado": "",
+    "campo": ""
+   },
+   {
+    "jornada": 9,
+    "fecha": "2026-12-12",
+    "hora": "",
+    "local": true,
+    "rival": "S.R. CALO",
+    "resultado": "",
+    "campo": ""
+   },
+   {
+    "jornada": 10,
+    "fecha": "2026-12-19",
+    "hora": "",
+    "local": false,
+    "rival": "S.D. VILLESTRO",
+    "resultado": "",
+    "campo": ""
+   },
+   {
+    "jornada": 11,
+    "fecha": "2027-01-09",
+    "hora": "",
+    "local": true,
+    "rival": "C.F. NOIA",
+    "resultado": "",
+    "campo": ""
+   },
+   {
+    "jornada": 12,
+    "fecha": "",
+    "hora": "",
+    "local": true,
+    "rival": "16-01-2027",
+    "resultado": "",
+    "campo": ""
+   },
+   {
+    "jornada": 13,
+    "fecha": "2027-01-23",
+    "hora": "",
+    "local": false,
+    "rival": "ATLETICO FATIMA",
+    "resultado": "",
+    "campo": ""
+   },
+   {
+    "jornada": 14,
+    "fecha": "2027-01-30",
+    "hora": "",
+    "local": true,
+    "rival": "BERTAMIRANS F.C.",
+    "resultado": "",
+    "campo": ""
+   }
+  ],
+  "competicion": "Prebenjamin - Primera Futgal · Santiago| Grupo 1",
+  "urlClasificacion": "https://www.futgal.es/pnfg/NPcd/NFG_VisClasificacion?cod_primaria=1000120&codgrupo=26991251&codcompeticion=26991233",
+  "escudos": {
+   "E.F.M CONCELLO DE BOIRO": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000934497_escudo.jpg",
+   "ATLETICO FATIMA": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0011656472_Escudo_Fatima_bo_2026_fondo_transparente.png",
+   "C.F. NOIA": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0001349346_escudo_noia1.png",
+   "BERTAMIRANS F.C.": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0001606570_escudo_bertamirans__1_.png",
+   "S.D. VILLESTRO": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0001041063_CEE6374B_41AB_4193_9B06_BF6B0D94B4B1.jpeg",
+   "C.D. CONXO SANTIAGO": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000727207_ESCUDO_CD_CONXO_SANTIAGO.jpg",
+   "S.R. CALO": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0001666392_escudo_cl__sico.png"
+  },
+  "descargado": "2026-11-12T09:50"
+ },
+ {
+  "id": "prebenjamin-b",
+  "codigo": "3702350",
+  "categoria": "prebenjamin",
+  "letra": "B",
+  "liga": "Segunda Prebenjamin F-8",
+  "urlFederacion": "https://www.futgal.es/pnfg/NPcd/NFG_VisEquipos?cod_primaria=1000119&Codigo_Equipo=3702350",
+  "plantilla": [
+   "Mateo Alonso Redondo",
+   "Ivo Mateo Bermo Silva",
+   "Carlos Carou Campaña",
+   "Mauro Carou Costas",
+   "Hugo Conde Saa",
+   "Telmo Conde Torrado",
+   "Marco Garrido López",
+   "Miguel Lampon García",
+   "Romeo Mariño Agrafojo",
+   "Leonel Elian Mielke Bueno",
+   "Alex Miranda Muñiz",
+   "Marco Ozores Fajardo",
+   "Xoel Paz Lijo",
+   "Luca Pena Fajardo",
+   "Liam Pérez Cespon",
+   "Neyzan Dominic Polanco Castro",
+   "Alex Sieira Tubio",
+   "Manuel Vázquez Ventoso",
+   "Álvaro Vila Gómez"
+  ],
+  "entrenadores": [
+   "Francisco Manuel Alonso Outeiral"
+  ],
+  "delegados": [
+   "Diana Tubío Romero"
+  ],
+  "clasificacion": [
+   {
+    "equipo": "C.D. UNION",
+    "pts": 9,
+    "pj": 3,
+    "g": 3,
+    "e": 0,
+    "p": 0,
+    "gf": 11,
+    "gc": 0,
+    "propio": false
+   },
+   {
+    "equipo": "CIDADE DE RIBEIRA C.F.",
+    "pts": 9,
+    "pj": 3,
+    "g": 3,
+    "e": 0,
+    "p": 0,
+    "gf": 11,
+    "gc": 0,
+    "propio": false
+   },
+   {
+    "equipo": "PUEBLA F.C.",
+    "pts": 9,
+    "pj": 3,
+    "g": 3,
+    "e": 0,
+    "p": 0,
+    "gf": 8,
+    "gc": 1,
+    "propio": false
+   },
+   {
+    "equipo": "ATLETICO OLEIROS",
+    "pts": 6,
+    "pj": 3,
+    "g": 2,
+    "e": 0,
+    "p": 1,
+    "gf": 5,
+    "gc": 3,
+    "propio": false
+   },
+   {
+    "equipo": "CARREIRA C.F.",
+    "pts": 3,
+    "pj": 3,
+    "g": 1,
+    "e": 0,
+    "p": 2,
+    "gf": 2,
+    "gc": 5,
+    "propio": false
+   },
+   {
+    "equipo": "S.D. XUVENTÚ AGUIÑO",
+    "pts": 0,
+    "pj": 3,
+    "g": 0,
+    "e": 0,
+    "p": 3,
+    "gf": 1,
+    "gc": 7,
+    "propio": false
+   },
+   {
+    "equipo": "C.C.D. TARAGOÑA",
+    "pts": 0,
+    "pj": 3,
+    "g": 0,
+    "e": 0,
+    "p": 3,
+    "gf": 1,
+    "gc": 11,
+    "propio": false
+   },
+   {
+    "equipo": "E.F.M CONCELLO DE BOIRO \"B\"",
+    "pts": 0,
+    "pj": 3,
+    "g": 0,
+    "e": 0,
+    "p": 3,
+    "gf": 0,
+    "gc": 12,
+    "propio": true
+   }
+  ],
+  "partidos": [
+   {
+    "jornada": 1,
+    "fecha": "2026-10-17",
+    "hora": "13:00",
+    "local": true,
+    "rival": "CIDADE DE RIBEIRA C.F.",
+    "resultado": "0-4",
+    "campo": ""
+   },
+   {
+    "jornada": 2,
+    "fecha": "2026-10-24",
+    "hora": "11:00",
+    "local": false,
+    "rival": "PUEBLA F.C.",
+    "resultado": "4-0",
+    "campo": ""
+   },
+   {
+    "jornada": 3,
+    "fecha": "2026-11-07",
+    "hora": "11:00",
+    "local": true,
+    "rival": "C.D. UNION",
+    "resultado": "0-4",
+    "campo": ""
+   },
+   {
+    "jornada": 4,
+    "fecha": "2026-11-14",
+    "hora": "11:15",
+    "local": false,
+    "rival": "CARREIRA C.F.",
+    "resultado": "",
+    "campo": "A Guia (Carreira)"
+   },
+   {
+    "jornada": 5,
+    "fecha": "2026-11-28",
+    "hora": "",
+    "local": false,
+    "rival": "S.D. XUVENTÚ AGUIÑO",
+    "resultado": "",
+    "campo": ""
+   },
+   {
+    "jornada": 6,
+    "fecha": "2026-12-12",
+    "hora": "",
+    "local": true,
+    "rival": "C.C.D. TARAGOÑA",
+    "resultado": "",
+    "campo": ""
+   },
+   {
+    "jornada": 7,
+    "fecha": "2026-12-19",
+    "hora": "",
+    "local": false,
+    "rival": "ATLETICO OLEIROS",
+    "resultado": "",
+    "campo": ""
+   }
+  ],
+  "competicion": "Prebenjamin - Segunda Futgal · Santiago| 1ª Fase - Grupo 1",
+  "urlClasificacion": "https://www.futgal.es/pnfg/NPcd/NFG_VisClasificacion?cod_primaria=1000120&codgrupo=26991936&codcompeticion=26991921",
+  "escudos": {
+   "C.D. UNION": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000932451_escudo_color.png",
+   "C.C.D. TARAGOÑA": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0001211323_CCD_Logo.jpg",
+   "CARREIRA C.F.": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000806424_IMG_20190717_160949.jpg",
+   "E.F.M CONCELLO DE BOIRO \"B\"": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000934497_escudo.jpg",
+   "PUEBLA F.C.": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000808184_FB_IMG_1437832053515.jpg",
+   "ATLETICO OLEIROS": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0001119543_ESC_ATL_TICO_OLEIROS.png",
+   "CIDADE DE RIBEIRA C.F.": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000932504_Escudo_Cidade_de_Ribeira_bis.jpg",
+   "S.D. XUVENTÚ AGUIÑO": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0001697225_ESCUDO_SD_XUVENTU_AGUI__O.png"
+  },
+  "descargado": "2026-11-12T09:51"
  }
 ];
