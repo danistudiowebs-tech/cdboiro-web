@@ -1,5 +1,5 @@
 // GENERADO por actualizar.py desde futgal.es. No editar a mano.
-const ACTUALIZADO = "2026-11-13T07:59";
+const ACTUALIZADO = "2026-11-13T16:25";
 const EQUIPOS = [
  {
   "id": "primer-equipo",
@@ -1610,7 +1610,7 @@ const EQUIPOS = [
     }
    }
   },
-  "descargado": "2026-11-12T09:51"
+  "descargado": "2026-11-13T16:25"
  },
  {
   "id": "juvenil-a",
@@ -2613,7 +2613,7 @@ const EQUIPOS = [
    "VICTORIA C.F. \"B\"": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000004135_victoriacfblanco.jpg",
    "ORZAN S.D.": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000881577_escudo_orzan.png"
   },
-  "descargado": "2026-11-12T09:51"
+  "descargado": "2026-11-13T16:25"
  },
  {
   "id": "femenino-b",
@@ -2641,6 +2641,7 @@ const EQUIPOS = [
    "Alexia Miguez Romero",
    "Lara Raño Jamardo",
    "María Rebollido Lijo",
+   "Raquel Rivas Fernández",
    "Laura Sieira Pérez",
    "Oumkaltoum Tiyib Siar",
    "Aitana Ventoso Armental",
@@ -3060,7 +3061,7 @@ const EQUIPOS = [
    "MILLADOIRO S.D.": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000914349_escudo_milladoiro.jpg",
    "VICTORIA F.C. \"D\"": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000600738_Victoria_FC.jpg"
   },
-  "descargado": "2026-11-12T09:51"
+  "descargado": "2026-11-13T16:25"
  },
  {
   "id": "juvenil-b",
@@ -9521,7 +9522,7 @@ const EQUIPOS = [
    "PORTO DO SON C.F. \"B\"": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0001701458_porto_do_son.jpg",
    "PUEBLA F.C.": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000808184_FB_IMG_1437832053515.jpg"
   },
-  "descargado": "2026-11-12T01:56"
+  "descargado": "2026-11-13T16:24"
  },
  {
   "id": "prebenjamin-a",
@@ -9767,7 +9768,7 @@ const EQUIPOS = [
    "C.D. CONXO SANTIAGO": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000727207_ESCUDO_CD_CONXO_SANTIAGO.jpg",
    "S.R. CALO": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0001666392_escudo_cl__sico.png"
   },
-  "descargado": "2026-11-12T09:50"
+  "descargado": "2026-11-13T16:24"
  },
  {
   "id": "prebenjamin-b",
