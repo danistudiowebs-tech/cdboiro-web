@@ -1,5 +1,5 @@
 // GENERADO por actualizar.py desde futgal.es. No editar a mano.
-const ACTUALIZADO = "2026-11-12T18:21";
+const ACTUALIZADO = "2026-11-13T00:25";
 const EQUIPOS = [
  {
   "id": "primer-equipo",
@@ -5526,7 +5526,7 @@ const EQUIPOS = [
    "C.F. NOIA \"B\"": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0001349346_escudo_noia1.png",
    "CIDADE DE RIBEIRA C.F. \"B\"": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000932504_Escudo_Cidade_de_Ribeira_bis.jpg"
   },
-  "descargado": "2026-11-11T13:20"
+  "descargado": "2026-11-13T00:24"
  },
  {
   "id": "infantil-a",
@@ -6029,7 +6029,7 @@ const EQUIPOS = [
    "E.F.M CONCELLO DE BOIRO": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000934497_escudo.jpg",
    "E. F. C. CARNOTA": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0001019951_efc_carnota.png"
   },
-  "descargado": "2026-11-11T20:12"
+  "descargado": "2026-11-13T00:24"
  },
  {
   "id": "infantil-b",
@@ -6529,7 +6529,7 @@ const EQUIPOS = [
    "A.D. NICRARIENSE": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000668205_logo_JPEG.jpg",
    "A.D. MANUEL PELETEIRO": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000659357_LOGO_ADM.png"
   },
-  "descargado": "2026-11-11T20:13"
+  "descargado": "2026-11-13T00:24"
  },
  {
   "id": "infantil-c",
@@ -6969,7 +6969,7 @@ const EQUIPOS = [
    "S.D. VILLESTRO \"B\"": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0001041063_CEE6374B_41AB_4193_9B06_BF6B0D94B4B1.jpeg",
    "BASTAVALES U.D.": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000001294_Bastavales.jpg"
   },
-  "descargado": "2026-11-11T20:13"
+  "descargado": "2026-11-13T00:25"
  },
  {
   "id": "infantil-d",
@@ -7342,7 +7342,7 @@ const EQUIPOS = [
    "BERTAMIRANS F.C. \"D\"": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0001606570_escudo_bertamirans__1_.png",
    "E.F.M CONCELLO DE BOIRO \"D\"": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000934497_escudo.jpg"
   },
-  "descargado": "2026-11-11T20:13"
+  "descargado": "2026-11-13T00:25"
  },
  {
   "id": "alevin-a",
