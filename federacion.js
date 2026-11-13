@@ -1,5 +1,5 @@
 // GENERADO por actualizar.py desde futgal.es. No editar a mano.
-const ACTUALIZADO = "2026-11-13T00:25";
+const ACTUALIZADO = "2026-11-13T07:59";
 const EQUIPOS = [
  {
   "id": "primer-equipo",
@@ -7779,7 +7779,7 @@ const EQUIPOS = [
    "C.F. NOIA": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0001349346_escudo_noia1.png",
    "S.D. XUVENTÚ AGUIÑO": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0001697225_ESCUDO_SD_XUVENTU_AGUI__O.png"
   },
-  "descargado": "2026-11-11T20:14"
+  "descargado": "2026-11-13T07:58"
  },
  {
   "id": "alevin-b",
@@ -7812,17 +7812,6 @@ const EQUIPOS = [
   ],
   "clasificacion": [
    {
-    "equipo": "C.D. UNION",
-    "pts": 12,
-    "pj": 4,
-    "g": 4,
-    "e": 0,
-    "p": 0,
-    "gf": 36,
-    "gc": 11,
-    "propio": false
-   },
-   {
     "equipo": "CARREIRA C.F.",
     "pts": 12,
     "pj": 4,
@@ -7834,14 +7823,25 @@ const EQUIPOS = [
     "propio": false
    },
    {
-    "equipo": "E.F.M CONCELLO DE BOIRO \"B\"",
-    "pts": 12,
-    "pj": 4,
+    "equipo": "C.D. UNION",
+    "pts": 13,
+    "pj": 5,
     "g": 4,
-    "e": 0,
+    "e": 1,
     "p": 0,
-    "gf": 28,
-    "gc": 7,
+    "gf": 41,
+    "gc": 16,
+    "propio": false
+   },
+   {
+    "equipo": "E.F.M CONCELLO DE BOIRO \"B\"",
+    "pts": 13,
+    "pj": 5,
+    "g": 4,
+    "e": 1,
+    "p": 0,
+    "gf": 33,
+    "gc": 12,
     "propio": true
    },
    {
@@ -8009,8 +8009,8 @@ const EQUIPOS = [
     "hora": "18:00",
     "local": false,
     "rival": "C.D. UNION",
-    "resultado": "",
-    "campo": "C.M. De Vilas (Rianxo)"
+    "resultado": "5-5",
+    "campo": ""
    },
    {
     "jornada": 6,
@@ -8019,7 +8019,7 @@ const EQUIPOS = [
     "local": true,
     "rival": "CARREIRA C.F.",
     "resultado": "",
-    "campo": ""
+    "campo": "Vista Alegre - Boiro"
    },
    {
     "jornada": 7,
@@ -8205,22 +8205,22 @@ const EQUIPOS = [
   "competicion": "Alevin F-7 - Segunda Futgal · Santiago| Grupo 1",
   "urlClasificacion": "https://www.futgal.es/pnfg/NPcd/NFG_VisClasificacion?cod_primaria=1000120&codgrupo=26991616&codcompeticion=26991597",
   "escudos": {
-   "C.D. UNION": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000932451_escudo_color.png",
-   "E.F.M CONCELLO DE BOIRO \"B\"": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000934497_escudo.jpg",
-   "CARREIRA C.F.": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000806424_IMG_20190717_160949.jpg",
-   "S.D. NEGREIRA": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000001574_negreira.jpg",
+   "C.C.D. TARAGOÑA": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0001211323_CCD_Logo.jpg",
    "BASTAVALES U.D.": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000001294_Bastavales.jpg",
-   "C.F. NOIA \"B\"": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0001349346_escudo_noia1.png",
-   "ULLA PONTECESURES C.F. \"B\"": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000000276_ULLA_CF.jpg",
-   "PORTO DO SON C.F.": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0001701458_porto_do_son.jpg",
-   "A.D. NICRARIENSE": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000668205_logo_JPEG.jpg",
-   "C.D. DODRO": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000888594_escudo_dodro.jpg",
-   "S.D. ABANQUEIRO": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0001004288_Screenshot_20220621_222918.jpg",
    "ATLETICO OLEIROS": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0001119543_ESC_ATL_TICO_OLEIROS.png",
    "CIDADE DE RIBEIRA C.F. \"B\"": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000932504_Escudo_Cidade_de_Ribeira_bis.jpg",
-   "C.C.D. TARAGOÑA": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0001211323_CCD_Logo.jpg"
+   "C.D. DODRO": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000888594_escudo_dodro.jpg",
+   "S.D. ABANQUEIRO": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0001004288_Screenshot_20220621_222918.jpg",
+   "PORTO DO SON C.F.": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0001701458_porto_do_son.jpg",
+   "A.D. NICRARIENSE": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000668205_logo_JPEG.jpg",
+   "S.D. NEGREIRA": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000001574_negreira.jpg",
+   "ULLA PONTECESURES C.F. \"B\"": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000000276_ULLA_CF.jpg",
+   "E.F.M CONCELLO DE BOIRO \"B\"": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000934497_escudo.jpg",
+   "CARREIRA C.F.": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000806424_IMG_20190717_160949.jpg",
+   "C.F. NOIA \"B\"": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0001349346_escudo_noia1.png",
+   "C.D. UNION": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000932451_escudo_color.png"
   },
-  "descargado": "2026-11-12T01:55"
+  "descargado": "2026-11-13T07:58"
  },
  {
   "id": "alevin-c",
@@ -8462,7 +8462,7 @@ const EQUIPOS = [
    "ATLETICO OLEIROS \"B\"": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0001119543_ESC_ATL_TICO_OLEIROS.png",
    "CROCHA BALOMPE C.F.": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000028681_ESCUDO_CROCHA.jpg"
   },
-  "descargado": "2026-11-12T01:55"
+  "descargado": "2026-11-13T07:59"
  },
  {
   "id": "benjamin-a",
@@ -8886,12 +8886,12 @@ const EQUIPOS = [
   "escudos": {
    "MILLADOIRO S.D.": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000914349_escudo_milladoiro.jpg",
    "C.F. CIRE DE MELIDE": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000001634_Escudo_Cire.jpg",
+   "S.R. CALO": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0001666392_escudo_cl__sico.png",
+   "E.D. XUVENTUDE OROSO": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0012023275_ESCUDOS_EDXO_2.png",
    "CIDADE DE RIBEIRA C.F.": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000932504_Escudo_Cidade_de_Ribeira_bis.jpg",
    "E.F. LALIN": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000902743_88B6F7FE_29E4_4005_93D3_257302162D5C.jpeg",
    "BERTAMIRANS F.C.": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0001606570_escudo_bertamirans__1_.png",
    "S.D. CACHEIRAS": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000806642_ESCUDO_BUENO.png",
-   "S.R. CALO": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0001666392_escudo_cl__sico.png",
-   "E.D. XUVENTUDE OROSO": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0012023275_ESCUDOS_EDXO_2.png",
    "E.F.M CONCELLO DE BOIRO": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000934497_escudo.jpg",
    "CARREIRA C.F.": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000806424_IMG_20190717_160949.jpg",
    "C.F. NOIA": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0001349346_escudo_noia1.png",
@@ -8899,7 +8899,7 @@ const EQUIPOS = [
    "ATLETICO FATIMA": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0011656472_Escudo_Fatima_bo_2026_fondo_transparente.png",
    "S.D. COMPOSTELA": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0001010839_logo___copia.jpg"
   },
-  "descargado": "2026-11-12T01:56"
+  "descargado": "2026-11-13T07:59"
  },
  {
   "id": "benjamin-b",
@@ -9281,7 +9281,7 @@ const EQUIPOS = [
    "BERTAMIRANS F.C. \"B\"": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0001606570_escudo_bertamirans__1_.png",
    "C.D. ROIS": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0001016821_Escudo_25ANIV.jpg"
   },
-  "descargado": "2026-11-12T01:56"
+  "descargado": "2026-11-13T07:59"
  },
  {
   "id": "benjamin-c",
