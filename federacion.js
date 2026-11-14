@@ -1,5 +1,5 @@
 // GENERADO por actualizar.py desde futgal.es. No editar a mano.
-const ACTUALIZADO = "2026-11-14T03:17";
+const ACTUALIZADO = "2026-11-14T10:36";
 const EQUIPOS = [
  {
   "id": "primer-equipo",
@@ -7343,7 +7343,7 @@ const EQUIPOS = [
    "BERTAMIRANS F.C. \"D\"": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0001606570_escudo_bertamirans__1_.png",
    "E.F.M CONCELLO DE BOIRO \"D\"": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000934497_escudo.jpg"
   },
-  "descargado": "2026-11-13T00:25"
+  "descargado": "2026-11-14T10:35"
  },
  {
   "id": "alevin-a",
@@ -7394,17 +7394,6 @@ const EQUIPOS = [
     "propio": false
    },
    {
-    "equipo": "E.F. LALIN",
-    "pts": 15,
-    "pj": 6,
-    "g": 5,
-    "e": 0,
-    "p": 1,
-    "gf": 32,
-    "gc": 6,
-    "propio": false
-   },
-   {
     "equipo": "E.F.M CONCELLO DE BOIRO",
     "pts": 15,
     "pj": 6,
@@ -7416,6 +7405,17 @@ const EQUIPOS = [
     "propio": true
    },
    {
+    "equipo": "E.F. LALIN",
+    "pts": 16,
+    "pj": 7,
+    "g": 5,
+    "e": 1,
+    "p": 1,
+    "gf": 32,
+    "gc": 6,
+    "propio": false
+   },
+   {
     "equipo": "C.D. CONXO SANTIAGO",
     "pts": 9,
     "pj": 6,
@@ -7424,28 +7424,6 @@ const EQUIPOS = [
     "p": 3,
     "gf": 16,
     "gc": 14,
-    "propio": false
-   },
-   {
-    "equipo": "ESCOLA ESTRADA FUTBOL BASE",
-    "pts": 9,
-    "pj": 6,
-    "g": 3,
-    "e": 0,
-    "p": 3,
-    "gf": 20,
-    "gc": 21,
-    "propio": false
-   },
-   {
-    "equipo": "S.D. VILLESTRO",
-    "pts": 9,
-    "pj": 6,
-    "g": 3,
-    "e": 0,
-    "p": 3,
-    "gf": 16,
-    "gc": 27,
     "propio": false
    },
    {
@@ -7460,14 +7438,58 @@ const EQUIPOS = [
     "propio": false
    },
    {
+    "equipo": "ESCOLA ESTRADA FUTBOL BASE",
+    "pts": 10,
+    "pj": 7,
+    "g": 3,
+    "e": 1,
+    "p": 3,
+    "gf": 20,
+    "gc": 21,
+    "propio": false
+   },
+   {
+    "equipo": "S.D. VILLESTRO",
+    "pts": 9,
+    "pj": 7,
+    "g": 3,
+    "e": 0,
+    "p": 4,
+    "gf": 19,
+    "gc": 34,
+    "propio": false
+   },
+   {
+    "equipo": "E.D. XUVENTUDE OROSO",
+    "pts": 7,
+    "pj": 7,
+    "g": 2,
+    "e": 1,
+    "p": 4,
+    "gf": 13,
+    "gc": 25,
+    "propio": false
+   },
+   {
     "equipo": "ULLA PONTECESURES C.F.",
+    "pts": 6,
+    "pj": 7,
+    "g": 1,
+    "e": 3,
+    "p": 3,
+    "gf": 16,
+    "gc": 22,
+    "propio": false
+   },
+   {
+    "equipo": "VICTORIA F.C.",
     "pts": 5,
-    "pj": 6,
+    "pj": 7,
     "g": 1,
     "e": 2,
-    "p": 3,
-    "gf": 15,
-    "gc": 21,
+    "p": 4,
+    "gf": 12,
+    "gc": 31,
     "propio": false
    },
    {
@@ -7490,28 +7512,6 @@ const EQUIPOS = [
     "p": 4,
     "gf": 13,
     "gc": 21,
-    "propio": false
-   },
-   {
-    "equipo": "E.D. XUVENTUDE OROSO",
-    "pts": 4,
-    "pj": 6,
-    "g": 1,
-    "e": 1,
-    "p": 4,
-    "gf": 6,
-    "gc": 22,
-    "propio": false
-   },
-   {
-    "equipo": "VICTORIA F.C.",
-    "pts": 4,
-    "pj": 6,
-    "g": 1,
-    "e": 1,
-    "p": 4,
-    "gf": 11,
-    "gc": 30,
     "propio": false
    },
    {
@@ -7780,7 +7780,7 @@ const EQUIPOS = [
    "C.F. NOIA": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0001349346_escudo_noia1.png",
    "S.D. XUVENTÚ AGUIÑO": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0001697225_ESCUDO_SD_XUVENTU_AGUI__O.png"
   },
-  "descargado": "2026-11-13T07:58"
+  "descargado": "2026-11-14T10:35"
  },
  {
   "id": "alevin-b",
@@ -7814,13 +7814,13 @@ const EQUIPOS = [
   "clasificacion": [
    {
     "equipo": "CARREIRA C.F.",
-    "pts": 12,
-    "pj": 4,
-    "g": 4,
+    "pts": 15,
+    "pj": 5,
+    "g": 5,
     "e": 0,
     "p": 0,
-    "gf": 30,
-    "gc": 6,
+    "gf": 39,
+    "gc": 8,
     "propio": false
    },
    {
@@ -7880,13 +7880,13 @@ const EQUIPOS = [
    },
    {
     "equipo": "C.F. NOIA \"B\"",
-    "pts": 6,
-    "pj": 4,
+    "pts": 7,
+    "pj": 5,
     "g": 2,
-    "e": 0,
+    "e": 1,
     "p": 2,
-    "gf": 22,
-    "gc": 17,
+    "gf": 24,
+    "gc": 19,
     "propio": false
    },
    {
@@ -7912,17 +7912,6 @@ const EQUIPOS = [
     "propio": false
    },
    {
-    "equipo": "S.D. NEGREIRA",
-    "pts": 3,
-    "pj": 4,
-    "g": 1,
-    "e": 0,
-    "p": 3,
-    "gf": 11,
-    "gc": 16,
-    "propio": false
-   },
-   {
     "equipo": "S.D. ABANQUEIRO",
     "pts": 3,
     "pj": 4,
@@ -7945,14 +7934,25 @@ const EQUIPOS = [
     "propio": false
    },
    {
-    "equipo": "BASTAVALES U.D.",
-    "pts": 0,
-    "pj": 4,
-    "g": 0,
+    "equipo": "S.D. NEGREIRA",
+    "pts": 3,
+    "pj": 5,
+    "g": 1,
     "e": 0,
     "p": 4,
-    "gf": 5,
-    "gc": 18,
+    "gf": 13,
+    "gc": 25,
+    "propio": false
+   },
+   {
+    "equipo": "BASTAVALES U.D.",
+    "pts": 1,
+    "pj": 5,
+    "g": 0,
+    "e": 1,
+    "p": 4,
+    "gf": 7,
+    "gc": 20,
     "propio": false
    },
    {
@@ -8221,7 +8221,7 @@ const EQUIPOS = [
    "C.F. NOIA \"B\"": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0001349346_escudo_noia1.png",
    "C.D. UNION": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000932451_escudo_color.png"
   },
-  "descargado": "2026-11-13T07:58"
+  "descargado": "2026-11-14T10:35"
  },
  {
   "id": "alevin-c",
@@ -8323,24 +8323,24 @@ const EQUIPOS = [
    },
    {
     "equipo": "C.D. UNION \"B\"",
-    "pts": 3,
-    "pj": 4,
-    "g": 1,
+    "pts": 6,
+    "pj": 5,
+    "g": 2,
     "e": 0,
     "p": 3,
-    "gf": 8,
-    "gc": 19,
+    "gf": 11,
+    "gc": 20,
     "propio": false
    },
    {
     "equipo": "S.D. ABANQUEIRO \"B\"",
     "pts": 3,
-    "pj": 4,
+    "pj": 5,
     "g": 1,
     "e": 0,
-    "p": 3,
-    "gf": 5,
-    "gc": 23,
+    "p": 4,
+    "gf": 6,
+    "gc": 26,
     "propio": false
    },
    {
@@ -8463,7 +8463,7 @@ const EQUIPOS = [
    "ATLETICO OLEIROS \"B\"": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0001119543_ESC_ATL_TICO_OLEIROS.png",
    "CROCHA BALOMPE C.F.": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000028681_ESCUDO_CROCHA.jpg"
   },
-  "descargado": "2026-11-13T07:59"
+  "descargado": "2026-11-14T10:36"
  },
  {
   "id": "benjamin-a",
@@ -8493,13 +8493,13 @@ const EQUIPOS = [
   "clasificacion": [
    {
     "equipo": "E.D. XUVENTUDE OROSO",
-    "pts": 15,
-    "pj": 5,
-    "g": 5,
+    "pts": 18,
+    "pj": 6,
+    "g": 6,
     "e": 0,
     "p": 0,
-    "gf": 21,
-    "gc": 2,
+    "gf": 29,
+    "gc": 3,
     "propio": false
    },
    {
@@ -8549,12 +8549,12 @@ const EQUIPOS = [
    {
     "equipo": "S.R. CALO",
     "pts": 7,
-    "pj": 5,
+    "pj": 6,
     "g": 2,
     "e": 1,
-    "p": 2,
-    "gf": 17,
-    "gc": 12,
+    "p": 3,
+    "gf": 18,
+    "gc": 20,
     "propio": false
    },
    {
@@ -8900,7 +8900,7 @@ const EQUIPOS = [
    "ATLETICO FATIMA": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0011656472_Escudo_Fatima_bo_2026_fondo_transparente.png",
    "S.D. COMPOSTELA": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0001010839_logo___copia.jpg"
   },
-  "descargado": "2026-11-13T07:59"
+  "descargado": "2026-11-14T10:36"
  },
  {
   "id": "benjamin-b",
