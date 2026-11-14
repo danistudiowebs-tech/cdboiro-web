@@ -1,5 +1,5 @@
 // GENERADO por actualizar.py desde futgal.es. No editar a mano.
-const ACTUALIZADO = "2026-11-13T22:39";
+const ACTUALIZADO = "2026-11-14T03:17";
 const EQUIPOS = [
  {
   "id": "primer-equipo",
@@ -5075,7 +5075,7 @@ const EQUIPOS = [
    "AMIO S.D.": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0001073035_ESCUDO_RENOVADO_2021.PNG",
    "E.F. LALIN": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000902743_88B6F7FE_29E4_4005_93D3_257302162D5C.jpeg"
   },
-  "descargado": "2026-11-12T18:21"
+  "descargado": "2026-11-14T03:15"
  },
  {
   "id": "cadete-c",
@@ -5527,7 +5527,7 @@ const EQUIPOS = [
    "C.F. NOIA \"B\"": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0001349346_escudo_noia1.png",
    "CIDADE DE RIBEIRA C.F. \"B\"": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000932504_Escudo_Cidade_de_Ribeira_bis.jpg"
   },
-  "descargado": "2026-11-13T00:24"
+  "descargado": "2026-11-14T03:16"
  },
  {
   "id": "infantil-a",
@@ -6030,7 +6030,7 @@ const EQUIPOS = [
    "E.F.M CONCELLO DE BOIRO": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000934497_escudo.jpg",
    "E. F. C. CARNOTA": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0001019951_efc_carnota.png"
   },
-  "descargado": "2026-11-13T00:24"
+  "descargado": "2026-11-14T03:16"
  },
  {
   "id": "infantil-b",
@@ -6530,7 +6530,7 @@ const EQUIPOS = [
    "A.D. NICRARIENSE": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000668205_logo_JPEG.jpg",
    "A.D. MANUEL PELETEIRO": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000659357_LOGO_ADM.png"
   },
-  "descargado": "2026-11-13T00:24"
+  "descargado": "2026-11-14T03:16"
  },
  {
   "id": "infantil-c",
@@ -6970,7 +6970,7 @@ const EQUIPOS = [
    "S.D. VILLESTRO \"B\"": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0001041063_CEE6374B_41AB_4193_9B06_BF6B0D94B4B1.jpeg",
    "BASTAVALES U.D.": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000001294_Bastavales.jpg"
   },
-  "descargado": "2026-11-13T00:25"
+  "descargado": "2026-11-14T03:17"
  },
  {
   "id": "infantil-d",
