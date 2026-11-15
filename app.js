@@ -111,46 +111,40 @@ function cabecera(titulo, sub = "", migas = "") {
 }
 
 // --- Inicio ---------------------------------------------------------------
+// Cantera en el inicio: solo los partidos de esta semana (hasta el domingo), por día y hora
+const finDeSemana = () => { const d = new Date(); d.setDate(d.getDate() + (7 - d.getDay()) % 7); return d.toLocaleDateString("sv"); }; // "sv" = AAAA-MM-DD
+function partidosCantera() {
+  const dom = finDeSemana();
+  const ps = EQUIPOS_ORDEN.filter((e) => e.categoria !== "senior").map((e) => ({ ...proximo(e), e })).filter((p) => p.rival && p.fecha && p.fecha <= dom)
+    .sort((a, b) => (a.fecha || "9").localeCompare(b.fecha || "9") || (a.hora || "99").localeCompare(b.hora || "99") || EQUIPOS_ORDEN.indexOf(a.e) - EQUIPOS_ORDEN.indexOf(b.e));
+  const dias = Map.groupBy(ps, (p) => p.fecha || "");
+  return [...dias].map(([f, lista]) => `
+    <h3 class="dia">${esc(fechaCorta(f))}</h3>
+    <div class="rejilla">${lista.map((p) => tarjetaEquipo(p.e)).join("")}</div>`).join("") || vacio("La cantera no tiene más partidos esta semana.");
+}
+
 function inicio() {
   const primer = equipo("primer-equipo"), pos = primer && posicion(primer);
   return `
     <section class="portada">
       <div class="contenedor portada-dentro">
-        <img class="portada-escudo" src="img/escudo.png" alt="" width="120" height="145">
-        <div>
-          <h1>C.D. Boiro</h1>
-          <p class="portada-lema">${esc(CLUB.lema)}</p>
-          ${pos ? `<p class="portada-dato"><b>${pos.pos}º</b> en ${esc(primer.competicion.split(" · ")[0])} · ${pos.pts} puntos en ${pos.pj} partidos</p>` : ""}
+        <div class="portada-club">
+          <img class="portada-escudo" src="img/escudo.png" alt="" width="120" height="145">
+          <div>
+            <h1>C.D. Boiro</h1>
+            <p class="portada-lema">${esc(CLUB.lema)}</p>
+          </div>
         </div>
+        ${primer ? `<div class="portada-partido">
+          ${tarjetaEquipo(primer)}
+          ${pos ? `<a class="portada-dato" href="#/primer-equipo/clasificacion"><b>${pos.pos}º</b> en ${esc(primer.competicion.split(" · ")[0])} · ${pos.pts} pts en ${pos.pj} partidos · Ver clasificación ${icono("i-der")}</a>` : ""}
+        </div>` : ""}
       </div>
     </section>
-    <section class="bloque contenedor" aria-labelledby="t-semana">
-      <div class="bloque-cab">
-        <h2 id="t-semana">Partidos de todos los equipos</h2>
-        <div class="flechas">
-          <button type="button" class="redondo" data-carrusel="-1" aria-label="Anteriores">${icono("i-izq")}</button>
-          <button type="button" class="redondo" data-carrusel="1" aria-label="Siguientes">${icono("i-der")}</button>
-        </div>
-      </div>
-      <div class="carrusel" tabindex="0" aria-label="Próximo partido y último resultado de cada equipo">
-        ${EQUIPOS_ORDEN.map(tarjetaEquipo).join("")}
-      </div>
-    </section>
-    <div class="contenedor dos">
-      ${primer?.clasificacion.length ? `
-      <section class="bloque" aria-labelledby="t-clasif">
-        <div class="bloque-cab"><h2 id="t-clasif">Clasificación</h2><a href="#/primer-equipo/clasificacion">Completa</a></div>
-        ${tablaClasificacion(primer, true)}
-      </section>` : ""}
-      <section class="bloque" aria-labelledby="t-not">
-        <div class="bloque-cab"><h2 id="t-not">Noticias</h2><a href="#/noticias">Todas</a></div>
-        ${listaNoticias(NOTICIAS.slice(0, 3))}
-        <a class="banner-socio" href="#/noticias#socios">
-          <span><b>Hazte socio ${esc(SOCIOS.temporada)}</b><small>Desde ${Math.min(...SOCIOS.precios.map((p) => p.precio))} € · O CD Boiro somos todos</small></span>
-          ${icono("i-der")}
-        </a>
-      </section>
-    </div>`;
+    <section class="bloque contenedor" aria-labelledby="t-cantera">
+      <div class="bloque-cab"><h2 id="t-cantera">Próximos partidos de la cantera</h2><a href="#/cantera">Todos los equipos</a></div>
+      ${partidosCantera()}
+    </section>`;
 }
 
 // --- Clasificación y partidos ---------------------------------------------------
@@ -258,30 +252,6 @@ const DEFS_CAMISETA = `
     <linearGradient id="pliegue" x1="0" x2="1"><stop offset="0" stop-color="#000" stop-opacity=".16"/><stop offset=".3" stop-color="#000" stop-opacity="0"/><stop offset=".7" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".16"/></linearGradient>
   </defs></svg>`;
 
-let orden = { col: "dorsal", asc: true };
-const COLUMNAS = [
-  { id: "dorsal", t: "#", titulo: "Dorsal" }, { id: "nombre", t: "Jugador", titulo: "Jugador" },
-  { id: "jugados", t: "PJ", titulo: "Partidos jugados" }, { id: "convocado", t: "Conv.", titulo: "Convocado" },
-  { id: "titular", t: "Tit.", titulo: "Titular" }, { id: "minutos", t: "Min.", titulo: "Minutos" },
-  { id: "goles", t: "Goles", titulo: "Goles" }, { id: "amarillas", t: "TA", titulo: "Tarjetas amarillas" }, { id: "rojas", t: "TR", titulo: "Tarjetas rojas" },
-];
-
-function tablaEstadisticas(e) {
-  const filas = jugadoresDe(e).map((n) => ({ n, nombre: n, dorsal: dorsal(e, n) ?? 99, ...estadisticas(e, n) }));
-  filas.sort((a, b) => (typeof a[orden.col] === "string" ? a[orden.col].localeCompare(b[orden.col]) : a[orden.col] - b[orden.col]) * (orden.asc ? 1 : -1) || a.dorsal - b.dorsal);
-  return `
-    <div class="tabla-marco"><table class="tabla tabla--stats">
-      <thead><tr>${COLUMNAS.map((c) => `<th scope="col"${c.id === "nombre" ? ' class="izq"' : ""} aria-sort="${orden.col === c.id ? (orden.asc ? "ascending" : "descending") : "none"}">
-        <button type="button" data-orden="${c.id}" title="Ordenar por ${c.titulo.toLowerCase()}">${c.t}</button></th>`).join("")}</tr></thead>
-      <tbody>${filas.map((f) => `
-        <tr><td class="tabla-pos">${f.dorsal === 99 ? "–" : f.dorsal}</td>
-          <th scope="row" class="izq"><button type="button" class="enlace" data-jugador="${esc(f.n)}">${esc(f.n)}</button></th>
-          <td>${f.jugados}</td><td>${f.convocado}</td><td>${f.titular}</td><td>${f.minutos}</td><td class="tabla-pts">${f.goles}</td><td>${f.amarillas}</td><td>${f.rojas}</td></tr>`).join("")}
-      </tbody>
-    </table></div>
-    <p class="nota">Datos de las actas de la federación (${Object.keys(e.actas || {}).length} partidos). Minutos calculados con los cambios del acta.</p>`;
-}
-
 function plantilla(e) {
   const jugadores = [...jugadoresDe(e)].sort((a, b) => (dorsal(e, a) ?? 99) - (dorsal(e, b) ?? 99));
   const grupos = [...LINEAS, { id: "otros", nombre: "Jugadores" }].map((l) => ({ ...l, js: jugadores.filter((n) => linea(e, n) === l.id) })).filter((l) => l.js.length);
@@ -298,10 +268,6 @@ function plantilla(e) {
           </button>`).join("")}
         </div>
       </section>`).join("")}
-    <section class="bloque">
-      <div class="bloque-cab"><h2>Estadísticas</h2></div>
-      <div id="stats">${tablaEstadisticas(e)}</div>
-    </section>
     <section class="bloque">
       <div class="bloque-cab"><h2>Cuerpo técnico</h2></div>
       <ul class="tecnicos">${e.entrenadores.map((n) => `<li>${esc(n)}</li>`).join("")}${e.delegados.map((n) => `<li>${esc(n)} <small>Delegado</small></li>`).join("")}</ul>
@@ -371,14 +337,25 @@ function cantera() {
     </div>`;
 }
 
-function vistaEquipo(id) {
+function vistaEquipo(id, sub) {
   const e = equipo(id);
   if (!e || e.categoria === "senior") return e ? primerEquipo() : noEncontrado();
+  if (!["clasificacion", "partidos"].includes(sub)) sub = e.clasificacion.length ? "clasificacion" : "partidos";
   return `
-    ${cabecera(esc(nombreEquipo(e)), esc(e.competicion || e.liga), `<a href="#/cantera">Cantera</a> / <a href="#/cantera#${e.categoria}">${esc(categoria(e.categoria).nombre)}</a>`)}
+    <section class="cabecera cabecera--primer">
+      <div class="contenedor cabecera-primer">
+        <div>
+          <a class="volver" href="#/cantera#${e.categoria}">${icono("i-izq")} Cantera</a>
+          <h1>${esc(nombreEquipo(e))}</h1>
+          <p class="cabecera-sub">${esc(e.competicion || e.liga)}</p>
+        </div>
+      </div>
+      <nav class="contenedor pestanas" aria-label="${esc(nombreEquipo(e))}">
+        ${PESTANAS.slice(1).map(([p, t]) => `<a href="#/equipo/${e.id}/${p}"${p === sub ? ' aria-current="page"' : ""}>${t}</a>`).join("")}
+      </nav>
+    </section>
     <div class="contenedor">
-      ${e.clasificacion.length ? `<section class="bloque"><div class="bloque-cab"><h2>Clasificación</h2></div>${tablaClasificacion(e)}</section>` : ""}
-      ${listaPartidos(e)}
+      ${sub === "clasificacion" ? `<section class="bloque">${e.clasificacion.length ? tablaClasificacion(e) : vacio("La federación aún no ha publicado la clasificación.")}</section>` : listaPartidos(e)}
       ${e.entrenadores.length ? `<section class="bloque"><div class="bloque-cab"><h2>Entrenadores</h2></div>
         <ul class="tecnicos">${e.entrenadores.map((n) => `<li>${esc(n)}</li>`).join("")}</ul></section>` : ""}
       <a class="enlace-ext" href="${esc(e.urlFederacion)}" target="_blank" rel="noopener">Ficha del equipo en futgal.es ${icono("i-externo")}</a>
@@ -420,11 +397,11 @@ const noEncontrado = () => `${cabecera("Página no encontrada")}<div class="cont
 // --- Navegación ------------------------------------------------------------------
 function render() {
   const [ruta, ancla] = location.hash.replace(/^#\/?/, "").split("#");
-  const [seccion, sub] = ruta.split("/");
+  const [seccion, sub, sub2] = ruta.split("/");
   app.innerHTML = seccion === "" ? inicio()
     : seccion === "primer-equipo" ? primerEquipo(sub)
     : seccion === "cantera" ? cantera()
-    : seccion === "equipo" ? vistaEquipo(sub)
+    : seccion === "equipo" ? vistaEquipo(sub, sub2)
     : seccion === "noticias" ? noticias()
     : noEncontrado();
   const actual = seccion === "equipo" ? "cantera" : seccion;
@@ -433,7 +410,6 @@ function render() {
   if (ancla) document.getElementById(ancla)?.scrollIntoView();
   else window.scrollTo(0, 0);
   tictac();
-  autoCarrusel();
 }
 
 // Cuenta atrás del próximo partido del primer equipo
@@ -447,37 +423,11 @@ function tictac() {
 }
 setInterval(tictac, 30000);
 
-// El carrusel avanza solo cada 5 s; se para mientras el usuario lo toca o lo mira con el ratón
-let reloj;
-function moverCarrusel(paso) {
-  const c = document.querySelector(".carrusel");
-  if (!c) return;
-  const ancho = c.querySelector(".tarjeta:not(.tarjeta--primer)")?.offsetWidth + 16 || 300;
-  const alFinal = c.scrollLeft + c.clientWidth >= c.scrollWidth - 8;
-  c.scrollBy({ left: paso > 0 && alFinal ? -c.scrollWidth : paso * ancho, behavior: "smooth" });
-}
-function autoCarrusel() {
-  clearInterval(reloj);
-  const c = document.querySelector(".carrusel");
-  if (!c || matchMedia("(prefers-reduced-motion: reduce)").matches) return;
-  let quieto = false;
-  const parar = () => { quieto = true; }, seguir = () => { quieto = false; };
-  c.addEventListener("pointerenter", parar); c.addEventListener("pointerleave", seguir);
-  c.addEventListener("focusin", parar); c.addEventListener("focusout", seguir);
-  c.addEventListener("touchstart", () => { quieto = true; clearTimeout(c._t); c._t = setTimeout(seguir, 8000); }, { passive: true });
-  reloj = setInterval(() => { if (!quieto && !document.hidden) moverCarrusel(1); }, 5000);
-}
-
 app.addEventListener("click", (ev) => {
-  const t = ev.target.closest("[data-carrusel], [data-orden], [data-jugador], [data-cerrar]");
+  const t = ev.target.closest("[data-jugador], [data-cerrar]");
   if (!t) return;
   const e = equipo("primer-equipo");
-  if (t.dataset.carrusel) moverCarrusel(Number(t.dataset.carrusel));
-  else if (t.dataset.orden) {
-    orden = { col: t.dataset.orden, asc: orden.col === t.dataset.orden ? !orden.asc : ["dorsal", "nombre"].includes(t.dataset.orden) };
-    document.getElementById("stats").innerHTML = tablaEstadisticas(e);
-    document.querySelector(`[data-orden="${orden.col}"]`)?.focus();
-  } else if (t.dataset.jugador) {
+  if (t.dataset.jugador) {
     const d = document.getElementById("ficha");
     d.innerHTML = ficha(e, t.dataset.jugador);
     d.showModal();
