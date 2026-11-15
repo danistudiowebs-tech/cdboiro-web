@@ -1,5 +1,5 @@
 // GENERADO por actualizar.py desde futgal.es. No editar a mano.
-const ACTUALIZADO = "2026-11-14T17:09";
+const ACTUALIZADO = "2026-11-15T01:57";
 const EQUIPOS = [
  {
   "id": "primer-equipo",
@@ -1646,13 +1646,24 @@ const EQUIPOS = [
   "clasificacion": [
    {
     "equipo": "R.C. CELTA \"B\"",
-    "pts": 26,
-    "pj": 10,
-    "g": 8,
+    "pts": 29,
+    "pj": 11,
+    "g": 9,
     "e": 2,
     "p": 0,
+    "gf": 33,
+    "gc": 9,
+    "propio": false
+   },
+   {
+    "equipo": "E.D. XUVENTUDE OROSO",
+    "pts": 26,
+    "pj": 11,
+    "g": 8,
+    "e": 2,
+    "p": 1,
     "gf": 31,
-    "gc": 8,
+    "gc": 11,
     "propio": false
    },
    {
@@ -1667,14 +1678,14 @@ const EQUIPOS = [
     "propio": false
    },
    {
-    "equipo": "E.D. XUVENTUDE OROSO",
-    "pts": 23,
-    "pj": 10,
-    "g": 7,
-    "e": 2,
-    "p": 1,
-    "gf": 30,
-    "gc": 11,
+    "equipo": "R.C. DEPORTIVO \"B\"",
+    "pts": 19,
+    "pj": 11,
+    "g": 6,
+    "e": 1,
+    "p": 4,
+    "gf": 25,
+    "gc": 19,
     "propio": false
    },
    {
@@ -1689,36 +1700,25 @@ const EQUIPOS = [
     "propio": false
    },
    {
-    "equipo": "ATL. CORUÑA MONTAÑEROS C.F.",
-    "pts": 16,
-    "pj": 10,
+    "equipo": "C.D. AREOSA",
+    "pts": 17,
+    "pj": 11,
     "g": 5,
-    "e": 1,
+    "e": 2,
     "p": 4,
-    "gf": 22,
+    "gf": 17,
     "gc": 17,
     "propio": false
    },
    {
-    "equipo": "R.C. DEPORTIVO \"B\"",
+    "equipo": "ATL. CORUÑA MONTAÑEROS C.F.",
     "pts": 16,
-    "pj": 10,
+    "pj": 11,
     "g": 5,
     "e": 1,
-    "p": 4,
+    "p": 5,
     "gf": 23,
     "gc": 19,
-    "propio": false
-   },
-   {
-    "equipo": "C.D. AREOSA",
-    "pts": 16,
-    "pj": 10,
-    "g": 5,
-    "e": 1,
-    "p": 4,
-    "gf": 14,
-    "gc": 14,
     "propio": false
    },
    {
@@ -1733,6 +1733,17 @@ const EQUIPOS = [
     "propio": false
    },
    {
+    "equipo": "CORUXO F.C.",
+    "pts": 15,
+    "pj": 11,
+    "g": 3,
+    "e": 6,
+    "p": 2,
+    "gf": 17,
+    "gc": 19,
+    "propio": false
+   },
+   {
     "equipo": "C.D. CHOCO",
     "pts": 14,
     "pj": 10,
@@ -1741,17 +1752,6 @@ const EQUIPOS = [
     "p": 4,
     "gf": 11,
     "gc": 12,
-    "propio": false
-   },
-   {
-    "equipo": "CORUXO F.C.",
-    "pts": 14,
-    "pj": 10,
-    "g": 3,
-    "e": 5,
-    "p": 2,
-    "gf": 14,
-    "gc": 16,
     "propio": false
    },
    {
@@ -1767,13 +1767,13 @@ const EQUIPOS = [
    },
    {
     "equipo": "U.D. OURENSE",
-    "pts": 10,
-    "pj": 10,
+    "pts": 11,
+    "pj": 11,
     "g": 2,
-    "e": 4,
+    "e": 5,
     "p": 4,
-    "gf": 13,
-    "gc": 14,
+    "gf": 14,
+    "gc": 15,
     "propio": false
    },
    {
@@ -1788,25 +1788,25 @@ const EQUIPOS = [
     "propio": false
    },
    {
-    "equipo": "BERGANTIÑOS C.F.",
+    "equipo": "ESCOLA DE FÚTBOL DSF",
     "pts": 8,
-    "pj": 10,
+    "pj": 11,
     "g": 1,
     "e": 5,
-    "p": 4,
-    "gf": 11,
-    "gc": 20,
+    "p": 5,
+    "gf": 10,
+    "gc": 16,
     "propio": false
    },
    {
-    "equipo": "ESCOLA DE FÚTBOL DSF",
-    "pts": 7,
-    "pj": 10,
+    "equipo": "BERGANTIÑOS C.F.",
+    "pts": 8,
+    "pj": 11,
     "g": 1,
-    "e": 4,
+    "e": 5,
     "p": 5,
-    "gf": 9,
-    "gc": 15,
+    "gf": 11,
+    "gc": 22,
     "propio": false
    },
    {
@@ -1823,12 +1823,12 @@ const EQUIPOS = [
    {
     "equipo": "C.D. CONXO SANTIAGO",
     "pts": 6,
-    "pj": 10,
+    "pj": 11,
     "g": 1,
     "e": 3,
-    "p": 6,
+    "p": 7,
     "gf": 5,
-    "gc": 21,
+    "gc": 22,
     "propio": false
    },
    {
@@ -2173,7 +2173,7 @@ const EQUIPOS = [
    "AURIENSE C.A.": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0001824860_AURIENSE_CA.png",
    "C.D. BOIRO": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000001565_Boiro_CD.jpg"
   },
-  "descargado": "2026-11-13T22:38"
+  "descargado": "2026-11-15T01:56"
  },
  {
   "id": "femenino-a",
@@ -3061,7 +3061,7 @@ const EQUIPOS = [
    "MILLADOIRO S.D.": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000914349_escudo_milladoiro.jpg",
    "VICTORIA F.C. \"D\"": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000600738_Victoria_FC.jpg"
   },
-  "descargado": "2026-11-13T16:25"
+  "descargado": "2026-11-15T01:55"
  },
  {
   "id": "juvenil-b",
@@ -3102,178 +3102,178 @@ const EQUIPOS = [
   "clasificacion": [
    {
     "equipo": "ESCOLA ESTRADA FUTBOL BASE",
-    "pts": 24,
-    "pj": 8,
-    "g": 8,
+    "pts": 27,
+    "pj": 9,
+    "g": 9,
     "e": 0,
     "p": 0,
-    "gf": 26,
+    "gf": 30,
     "gc": 5,
     "propio": false
    },
    {
     "equipo": "SOCIEDADE DEPORTIVA O PINO",
-    "pts": 18,
-    "pj": 8,
-    "g": 6,
+    "pts": 21,
+    "pj": 9,
+    "g": 7,
     "e": 0,
     "p": 2,
-    "gf": 21,
-    "gc": 12,
+    "gf": 24,
+    "gc": 13,
+    "propio": false
+   },
+   {
+    "equipo": "E.F. LALIN",
+    "pts": 19,
+    "pj": 9,
+    "g": 6,
+    "e": 1,
+    "p": 2,
+    "gf": 25,
+    "gc": 10,
+    "propio": false
+   },
+   {
+    "equipo": "A.D. NICRARIENSE",
+    "pts": 19,
+    "pj": 9,
+    "g": 6,
+    "e": 1,
+    "p": 2,
+    "gf": 24,
+    "gc": 11,
+    "propio": false
+   },
+   {
+    "equipo": "C.F. NOIA",
+    "pts": 18,
+    "pj": 9,
+    "g": 6,
+    "e": 0,
+    "p": 3,
+    "gf": 26,
+    "gc": 17,
+    "propio": false
+   },
+   {
+    "equipo": "C.D. CONXO SANTIAGO \"B\"",
+    "pts": 18,
+    "pj": 9,
+    "g": 5,
+    "e": 3,
+    "p": 1,
+    "gf": 20,
+    "gc": 11,
     "propio": false
    },
    {
     "equipo": "C.D. ROIS",
     "pts": 17,
-    "pj": 8,
+    "pj": 9,
     "g": 5,
     "e": 2,
-    "p": 1,
+    "p": 2,
     "gf": 15,
-    "gc": 7,
-    "propio": false
-   },
-   {
-    "equipo": "E.F. LALIN",
-    "pts": 16,
-    "pj": 8,
-    "g": 5,
-    "e": 1,
-    "p": 2,
-    "gf": 22,
-    "gc": 8,
-    "propio": false
-   },
-   {
-    "equipo": "A.D. NICRARIENSE",
-    "pts": 16,
-    "pj": 8,
-    "g": 5,
-    "e": 1,
-    "p": 2,
-    "gf": 21,
     "gc": 10,
-    "propio": false
-   },
-   {
-    "equipo": "C.F. NOIA",
-    "pts": 15,
-    "pj": 8,
-    "g": 5,
-    "e": 0,
-    "p": 3,
-    "gf": 22,
-    "gc": 16,
-    "propio": false
-   },
-   {
-    "equipo": "C.D. CONXO SANTIAGO \"B\"",
-    "pts": 15,
-    "pj": 8,
-    "g": 4,
-    "e": 3,
-    "p": 1,
-    "gf": 15,
-    "gc": 9,
     "propio": false
    },
    {
     "equipo": "E.F.M CONCELLO DE BOIRO",
     "pts": 13,
-    "pj": 8,
+    "pj": 9,
     "g": 4,
     "e": 1,
-    "p": 3,
-    "gf": 18,
-    "gc": 20,
+    "p": 4,
+    "gf": 19,
+    "gc": 23,
     "propio": true
    },
    {
     "equipo": "VICTORIA F.C.",
-    "pts": 10,
-    "pj": 8,
-    "g": 3,
+    "pts": 13,
+    "pj": 9,
+    "g": 4,
     "e": 1,
     "p": 4,
-    "gf": 13,
+    "gf": 15,
     "gc": 19,
     "propio": false
    },
    {
     "equipo": "C.F. CIRE DE MELIDE",
-    "pts": 9,
-    "pj": 8,
-    "g": 3,
+    "pts": 12,
+    "pj": 9,
+    "g": 4,
     "e": 0,
     "p": 5,
-    "gf": 17,
+    "gf": 20,
     "gc": 16,
     "propio": false
    },
    {
     "equipo": "ATLETICO FATIMA",
     "pts": 9,
-    "pj": 8,
+    "pj": 9,
     "g": 3,
     "e": 0,
-    "p": 5,
-    "gf": 20,
-    "gc": 20,
+    "p": 6,
+    "gf": 21,
+    "gc": 23,
     "propio": false
    },
    {
     "equipo": "S.D. XUVENTÚ AGUIÑO",
     "pts": 8,
-    "pj": 8,
+    "pj": 9,
     "g": 2,
     "e": 2,
-    "p": 4,
+    "p": 5,
     "gf": 11,
-    "gc": 13,
+    "gc": 15,
     "propio": false
    },
    {
     "equipo": "C.D. SAR - EXTRAMUNDI",
     "pts": 7,
-    "pj": 8,
+    "pj": 9,
     "g": 2,
     "e": 1,
-    "p": 5,
-    "gf": 13,
-    "gc": 24,
+    "p": 6,
+    "gf": 15,
+    "gc": 29,
     "propio": false
    },
    {
     "equipo": "C.D. UNION",
     "pts": 5,
-    "pj": 8,
+    "pj": 9,
     "g": 1,
     "e": 2,
-    "p": 5,
-    "gf": 11,
-    "gc": 31,
+    "p": 6,
+    "gf": 13,
+    "gc": 34,
     "propio": false
    },
    {
     "equipo": "BERTAMIRANS F.C. \"B\"",
     "pts": 2,
-    "pj": 8,
+    "pj": 9,
     "g": 0,
     "e": 2,
-    "p": 6,
-    "gf": 13,
-    "gc": 30,
+    "p": 7,
+    "gf": 14,
+    "gc": 34,
     "propio": false
    },
    {
     "equipo": "C.D. COMPAÑÍA DE MARÍA",
     "pts": 0,
-    "pj": 8,
+    "pj": 9,
     "g": 0,
     "e": 0,
-    "p": 8,
+    "p": 9,
     "gf": 3,
-    "gc": 21,
+    "gc": 25,
     "propio": false
    }
   ],
@@ -3356,8 +3356,8 @@ const EQUIPOS = [
     "hora": "12:00",
     "local": false,
     "rival": "SOCIEDADE DEPORTIVA O PINO",
-    "resultado": "",
-    "campo": "Reboredo- Arca- O Pino"
+    "resultado": "3-1",
+    "campo": ""
    },
    {
     "jornada": 10,
@@ -3366,7 +3366,7 @@ const EQUIPOS = [
     "local": true,
     "rival": "C.D. SAR - EXTRAMUNDI",
     "resultado": "",
-    "campo": ""
+    "campo": "Valiño - Cabo De Cruz"
    },
    {
     "jornada": 11,
@@ -3552,24 +3552,24 @@ const EQUIPOS = [
   "competicion": "Juvenil - Primeira Futgal · Santiago",
   "urlClasificacion": "https://www.futgal.es/pnfg/NPcd/NFG_VisClasificacion?cod_primaria=1000120&codgrupo=26992195&codcompeticion=26992193",
   "escudos": {
-   "SOCIEDADE DEPORTIVA O PINO": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000004743_o_pino.png",
-   "E.F.M CONCELLO DE BOIRO": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000934497_escudo.jpg",
-   "E.F. LALIN": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000902743_88B6F7FE_29E4_4005_93D3_257302162D5C.jpeg",
-   "C.D. UNION": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000932451_escudo_color.png",
-   "A.D. NICRARIENSE": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000668205_logo_JPEG.jpg",
-   "ATLETICO FATIMA": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0011656472_Escudo_Fatima_bo_2026_fondo_transparente.png",
-   "C.D. SAR - EXTRAMUNDI": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0001222302_Screenshot_20230519_110613_Gallery.jpg",
-   "C.D. CONXO SANTIAGO \"B\"": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000727207_ESCUDO_CD_CONXO_SANTIAGO.jpg",
-   "S.D. XUVENTÚ AGUIÑO": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0001697225_ESCUDO_SD_XUVENTU_AGUI__O.png",
-   "VICTORIA F.C.": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000600738_Victoria_FC.jpg",
+   "ESCOLA ESTRADA FUTBOL BASE": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000639247_ESCU_ESCO.jpg",
    "C.D. ROIS": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0001016821_Escudo_25ANIV.jpg",
-   "C.F. CIRE DE MELIDE": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000001634_Escudo_Cire.jpg",
-   "C.F. NOIA": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0001349346_escudo_noia1.png",
    "BERTAMIRANS F.C. \"B\"": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0001606570_escudo_bertamirans__1_.png",
    "C.D. COMPAÑÍA DE MARÍA": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0001661407_ESCUDO.jpg",
-   "ESCOLA ESTRADA FUTBOL BASE": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000639247_ESCU_ESCO.jpg"
+   "VICTORIA F.C.": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000600738_Victoria_FC.jpg",
+   "C.F. NOIA": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0001349346_escudo_noia1.png",
+   "ATLETICO FATIMA": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0011656472_Escudo_Fatima_bo_2026_fondo_transparente.png",
+   "S.D. XUVENTÚ AGUIÑO": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0001697225_ESCUDO_SD_XUVENTU_AGUI__O.png",
+   "C.D. CONXO SANTIAGO \"B\"": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000727207_ESCUDO_CD_CONXO_SANTIAGO.jpg",
+   "A.D. NICRARIENSE": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000668205_logo_JPEG.jpg",
+   "E.F.M CONCELLO DE BOIRO": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000934497_escudo.jpg",
+   "C.D. SAR - EXTRAMUNDI": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0001222302_Screenshot_20230519_110613_Gallery.jpg",
+   "C.D. UNION": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000932451_escudo_color.png",
+   "SOCIEDADE DEPORTIVA O PINO": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000004743_o_pino.png",
+   "C.F. CIRE DE MELIDE": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000001634_Escudo_Cire.jpg",
+   "E.F. LALIN": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000902743_88B6F7FE_29E4_4005_93D3_257302162D5C.jpeg"
   },
-  "descargado": "2026-11-13T22:38"
+  "descargado": "2026-11-15T01:56"
  },
  {
   "id": "juvenil-c",
@@ -3609,101 +3609,101 @@ const EQUIPOS = [
   "clasificacion": [
    {
     "equipo": "ACADEMIA NOVA XERACION V.A.",
+    "pts": 24,
+    "pj": 9,
+    "g": 8,
+    "e": 0,
+    "p": 1,
+    "gf": 42,
+    "gc": 11,
+    "propio": false
+   },
+   {
+    "equipo": "S.D. ESCLAVITUD",
     "pts": 21,
     "pj": 8,
     "g": 7,
     "e": 0,
     "p": 1,
-    "gf": 38,
-    "gc": 11,
+    "gf": 42,
+    "gc": 7,
     "propio": false
    },
    {
     "equipo": "ATLETICO OLEIROS",
-    "pts": 18,
-    "pj": 7,
-    "g": 6,
+    "pts": 21,
+    "pj": 8,
+    "g": 7,
     "e": 0,
     "p": 1,
-    "gf": 38,
-    "gc": 7,
-    "propio": false
-   },
-   {
-    "equipo": "S.D. ESCLAVITUD",
-    "pts": 18,
-    "pj": 7,
-    "g": 6,
-    "e": 0,
-    "p": 1,
-    "gf": 36,
-    "gc": 7,
+    "gf": 41,
+    "gc": 9,
     "propio": false
    },
    {
     "equipo": "SPORTING LAMPON",
-    "pts": 15,
-    "pj": 7,
-    "g": 5,
+    "pts": 18,
+    "pj": 8,
+    "g": 6,
     "e": 0,
     "p": 2,
-    "gf": 35,
-    "gc": 13,
+    "gf": 39,
+    "gc": 15,
     "propio": false
    },
    {
     "equipo": "CORDEIRO C.F. \"B\"",
-    "pts": 15,
-    "pj": 8,
+    "pts": 16,
+    "pj": 9,
     "g": 5,
-    "e": 0,
+    "e": 1,
     "p": 3,
-    "gf": 20,
-    "gc": 23,
+    "gf": 22,
+    "gc": 25,
     "propio": false
    },
    {
     "equipo": "C.F. NOIA \"B\"",
-    "pts": 12,
-    "pj": 8,
-    "g": 4,
+    "pts": 15,
+    "pj": 9,
+    "g": 5,
     "e": 0,
     "p": 4,
-    "gf": 28,
-    "gc": 13,
+    "gf": 35,
+    "gc": 15,
     "propio": false
    },
    {
     "equipo": "AMIO S.D. \"C\"",
-    "pts": 12,
-    "pj": 8,
+    "pts": 13,
+    "pj": 9,
     "g": 3,
-    "e": 3,
+    "e": 4,
     "p": 2,
-    "gf": 27,
-    "gc": 16,
+    "gf": 29,
+    "gc": 18,
     "propio": false
    },
    {
     "equipo": "CROCHA BALOMPE C.F.",
     "pts": 12,
-    "pj": 7,
+    "pj": 8,
     "g": 4,
     "e": 0,
-    "p": 3,
-    "gf": 22,
-    "gc": 14,
+    "p": 4,
+    "gf": 24,
+    "gc": 18,
     "propio": false
    },
    {
-    "equipo": "C.D. DODRO",
-    "pts": 10,
-    "pj": 7,
+    "equipo": "C.C.D. TARAGOÑA",
+    "pts": 11,
+    "pj": 9,
     "g": 3,
-    "e": 1,
-    "p": 3,
-    "gf": 13,
-    "gc": 13,
+    "e": 2,
+    "p": 4,
+    "gf": 28,
+    "gc": 32,
     "propio": false
    },
    {
@@ -3718,58 +3718,58 @@ const EQUIPOS = [
     "propio": false
    },
    {
-    "equipo": "E.F.M CONCELLO DE BOIRO \"B\"",
-    "pts": 8,
-    "pj": 7,
-    "g": 2,
-    "e": 2,
-    "p": 3,
-    "gf": 17,
-    "gc": 14,
-    "propio": true
+    "equipo": "C.D. DODRO",
+    "pts": 10,
+    "pj": 8,
+    "g": 3,
+    "e": 1,
+    "p": 4,
+    "gf": 13,
+    "gc": 17,
+    "propio": false
    },
    {
-    "equipo": "C.C.D. TARAGOÑA",
+    "equipo": "E.F.M CONCELLO DE BOIRO \"B\"",
     "pts": 8,
     "pj": 8,
     "g": 2,
     "e": 2,
     "p": 4,
-    "gf": 21,
-    "gc": 32,
-    "propio": false
+    "gf": 19,
+    "gc": 17,
+    "propio": true
    },
    {
     "equipo": "CARREIRA C.F.",
     "pts": 2,
-    "pj": 8,
+    "pj": 9,
     "g": 0,
     "e": 2,
-    "p": 6,
-    "gf": 7,
-    "gc": 57,
+    "p": 7,
+    "gf": 9,
+    "gc": 64,
     "propio": false
    },
    {
     "equipo": "VISTA ALEGRE S.D.",
     "pts": 1,
-    "pj": 7,
+    "pj": 8,
     "g": 0,
     "e": 1,
-    "p": 6,
+    "p": 7,
     "gf": 10,
-    "gc": 56,
+    "gc": 63,
     "propio": false
    },
    {
     "equipo": "E.D.S. SANTA MARTA",
     "pts": 0,
-    "pj": 7,
+    "pj": 8,
     "g": 0,
     "e": 0,
-    "p": 7,
+    "p": 8,
     "gf": 9,
-    "gc": 41,
+    "gc": 47,
     "propio": false
    }
   ],
@@ -3852,7 +3852,7 @@ const EQUIPOS = [
     "hora": "16:00",
     "local": true,
     "rival": "ATLETICO OLEIROS",
-    "resultado": "",
+    "resultado": "2-3",
     "campo": ""
    },
    {
@@ -4064,7 +4064,7 @@ const EQUIPOS = [
    "AMIO S.D. \"C\"": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0001073035_ESCUDO_RENOVADO_2021.PNG",
    "C.D. DODRO": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000888594_escudo_dodro.jpg"
   },
-  "descargado": "2026-11-13T22:38"
+  "descargado": "2026-11-15T01:56"
  },
  {
   "id": "cadete-a",
@@ -9807,12 +9807,12 @@ const EQUIPOS = [
   "clasificacion": [
    {
     "equipo": "C.D. UNION",
-    "pts": 9,
-    "pj": 3,
-    "g": 3,
+    "pts": 12,
+    "pj": 4,
+    "g": 4,
     "e": 0,
     "p": 0,
-    "gf": 11,
+    "gf": 15,
     "gc": 0,
     "propio": false
    },
@@ -9830,33 +9830,33 @@ const EQUIPOS = [
    {
     "equipo": "PUEBLA F.C.",
     "pts": 9,
-    "pj": 3,
+    "pj": 4,
     "g": 3,
     "e": 0,
-    "p": 0,
-    "gf": 8,
-    "gc": 1,
+    "p": 1,
+    "gf": 9,
+    "gc": 4,
     "propio": false
    },
    {
     "equipo": "ATLETICO OLEIROS",
-    "pts": 6,
-    "pj": 3,
-    "g": 2,
+    "pts": 9,
+    "pj": 4,
+    "g": 3,
     "e": 0,
     "p": 1,
-    "gf": 5,
-    "gc": 3,
+    "gf": 8,
+    "gc": 4,
     "propio": false
    },
    {
     "equipo": "CARREIRA C.F.",
-    "pts": 3,
-    "pj": 3,
-    "g": 1,
+    "pts": 6,
+    "pj": 4,
+    "g": 2,
     "e": 0,
     "p": 2,
-    "gf": 2,
+    "gf": 6,
     "gc": 5,
     "propio": false
    },
@@ -9874,23 +9874,23 @@ const EQUIPOS = [
    {
     "equipo": "C.C.D. TARAGOÑA",
     "pts": 0,
-    "pj": 3,
+    "pj": 4,
     "g": 0,
     "e": 0,
-    "p": 3,
+    "p": 4,
     "gf": 1,
-    "gc": 11,
+    "gc": 15,
     "propio": false
    },
    {
     "equipo": "E.F.M CONCELLO DE BOIRO \"B\"",
     "pts": 0,
-    "pj": 3,
+    "pj": 4,
     "g": 0,
     "e": 0,
-    "p": 3,
+    "p": 4,
     "gf": 0,
-    "gc": 12,
+    "gc": 16,
     "propio": true
    }
   ],
@@ -9928,8 +9928,8 @@ const EQUIPOS = [
     "hora": "11:15",
     "local": false,
     "rival": "CARREIRA C.F.",
-    "resultado": "",
-    "campo": "A Guia (Carreira)"
+    "resultado": "4-0",
+    "campo": ""
    },
    {
     "jornada": 5,
@@ -9938,7 +9938,7 @@ const EQUIPOS = [
     "local": false,
     "rival": "S.D. XUVENTÚ AGUIÑO",
     "resultado": "",
-    "campo": ""
+    "campo": "Campo de Fútbol A Tasca-Aguiño"
    },
    {
     "jornada": 6,
@@ -9962,15 +9962,15 @@ const EQUIPOS = [
   "competicion": "Prebenjamin - Segunda Futgal · Santiago| 1ª Fase - Grupo 1",
   "urlClasificacion": "https://www.futgal.es/pnfg/NPcd/NFG_VisClasificacion?cod_primaria=1000120&codgrupo=26991936&codcompeticion=26991921",
   "escudos": {
+   "CIDADE DE RIBEIRA C.F.": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000932504_Escudo_Cidade_de_Ribeira_bis.jpg",
+   "PUEBLA F.C.": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000808184_FB_IMG_1437832053515.jpg",
+   "ATLETICO OLEIROS": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0001119543_ESC_ATL_TICO_OLEIROS.png",
    "C.D. UNION": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000932451_escudo_color.png",
    "C.C.D. TARAGOÑA": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0001211323_CCD_Logo.jpg",
    "CARREIRA C.F.": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000806424_IMG_20190717_160949.jpg",
-   "E.F.M CONCELLO DE BOIRO \"B\"": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000934497_escudo.jpg",
-   "PUEBLA F.C.": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000808184_FB_IMG_1437832053515.jpg",
-   "ATLETICO OLEIROS": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0001119543_ESC_ATL_TICO_OLEIROS.png",
-   "CIDADE DE RIBEIRA C.F.": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000932504_Escudo_Cidade_de_Ribeira_bis.jpg",
-   "S.D. XUVENTÚ AGUIÑO": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0001697225_ESCUDO_SD_XUVENTU_AGUI__O.png"
+   "S.D. XUVENTÚ AGUIÑO": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0001697225_ESCUDO_SD_XUVENTU_AGUI__O.png",
+   "E.F.M CONCELLO DE BOIRO \"B\"": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000934497_escudo.jpg"
   },
-  "descargado": "2026-11-13T22:38"
+  "descargado": "2026-11-15T01:57"
  }
 ];
