@@ -1,5 +1,5 @@
 // GENERADO por actualizar.py desde futgal.es. No editar a mano.
-const ACTUALIZADO = "2026-11-15T01:57";
+const ACTUALIZADO = "2026-11-15T09:28";
 const EQUIPOS = [
  {
   "id": "primer-equipo",
@@ -4100,13 +4100,13 @@ const EQUIPOS = [
   "clasificacion": [
    {
     "equipo": "A.J. LEREZ",
-    "pts": 27,
-    "pj": 9,
-    "g": 9,
+    "pts": 30,
+    "pj": 10,
+    "g": 10,
     "e": 0,
     "p": 0,
-    "gf": 41,
-    "gc": 10,
+    "gf": 44,
+    "gc": 12,
     "propio": false
    },
    {
@@ -4121,59 +4121,81 @@ const EQUIPOS = [
     "propio": false
    },
    {
-    "equipo": "A.C.D. A SECA",
-    "pts": 19,
-    "pj": 9,
-    "g": 6,
-    "e": 1,
-    "p": 2,
-    "gf": 30,
-    "gc": 15,
-    "propio": false
-   },
-   {
     "equipo": "CIDADE DE RIBEIRA C.F.",
-    "pts": 19,
-    "pj": 9,
-    "g": 6,
+    "pts": 22,
+    "pj": 10,
+    "g": 7,
     "e": 1,
     "p": 2,
-    "gf": 22,
-    "gc": 19,
+    "gf": 25,
+    "gc": 20,
     "propio": false
    },
    {
     "equipo": "BERTAMIRANS F.C.",
-    "pts": 17,
-    "pj": 9,
-    "g": 5,
+    "pts": 20,
+    "pj": 10,
+    "g": 6,
     "e": 2,
     "p": 2,
-    "gf": 21,
-    "gc": 13,
+    "gf": 26,
+    "gc": 17,
+    "propio": false
+   },
+   {
+    "equipo": "A.C.D. A SECA",
+    "pts": 19,
+    "pj": 10,
+    "g": 6,
+    "e": 1,
+    "p": 3,
+    "gf": 34,
+    "gc": 20,
     "propio": false
    },
    {
     "equipo": "AROSA S.C. \"B\"",
-    "pts": 15,
-    "pj": 9,
-    "g": 4,
+    "pts": 18,
+    "pj": 10,
+    "g": 5,
     "e": 3,
     "p": 2,
-    "gf": 22,
-    "gc": 15,
+    "gf": 24,
+    "gc": 16,
+    "propio": false
+   },
+   {
+    "equipo": "UMIA C.F.",
+    "pts": 15,
+    "pj": 10,
+    "g": 4,
+    "e": 3,
+    "p": 3,
+    "gf": 26,
+    "gc": 26,
     "propio": false
    },
    {
     "equipo": "E.F.M CONCELLO DE BOIRO",
     "pts": 14,
-    "pj": 9,
+    "pj": 10,
     "g": 4,
     "e": 2,
-    "p": 3,
-    "gf": 14,
-    "gc": 11,
+    "p": 4,
+    "gf": 15,
+    "gc": 13,
     "propio": true
+   },
+   {
+    "equipo": "E.D. AROUSA S.D.",
+    "pts": 13,
+    "pj": 10,
+    "g": 4,
+    "e": 1,
+    "p": 5,
+    "gf": 25,
+    "gc": 19,
+    "propio": false
    },
    {
     "equipo": "ALONDRAS C.F.",
@@ -4187,91 +4209,69 @@ const EQUIPOS = [
     "propio": false
    },
    {
-    "equipo": "UMIA C.F.",
+    "equipo": "C.F. DUMBRIA",
     "pts": 12,
-    "pj": 9,
+    "pj": 10,
     "g": 3,
     "e": 3,
-    "p": 3,
-    "gf": 23,
-    "gc": 25,
+    "p": 4,
+    "gf": 17,
+    "gc": 26,
     "propio": false
    },
    {
     "equipo": "SALGUEIRIÑOS C.F.",
     "pts": 10,
-    "pj": 9,
+    "pj": 10,
     "g": 3,
     "e": 1,
-    "p": 5,
-    "gf": 23,
-    "gc": 20,
-    "propio": false
-   },
-   {
-    "equipo": "E.D. AROUSA S.D.",
-    "pts": 10,
-    "pj": 9,
-    "g": 3,
-    "e": 1,
-    "p": 5,
-    "gf": 17,
-    "gc": 18,
-    "propio": false
-   },
-   {
-    "equipo": "C.F. DUMBRIA",
-    "pts": 9,
-    "pj": 9,
-    "g": 2,
-    "e": 3,
-    "p": 4,
-    "gf": 14,
-    "gc": 25,
+    "p": 6,
+    "gf": 25,
+    "gc": 23,
     "propio": false
    },
    {
     "equipo": "C.F. NOIA",
     "pts": 8,
-    "pj": 9,
+    "pj": 10,
     "g": 2,
     "e": 2,
-    "p": 5,
-    "gf": 10,
-    "gc": 27,
+    "p": 6,
+    "gf": 11,
+    "gc": 35,
     "propio": false
    },
    {
     "equipo": "ESCOLA ESTRADA FUTBOL BASE",
     "pts": 6,
-    "pj": 9,
+    "pj": 10,
     "g": 2,
     "e": 0,
-    "p": 7,
-    "gf": 7,
-    "gc": 19,
+    "p": 8,
+    "gf": 8,
+    "gc": 22,
     "propio": false
    },
    {
     "equipo": "S.D. MONTEPORREIRO",
     "pts": 3,
-    "pj": 9,
+    "pj": 10,
     "g": 1,
     "e": 0,
-    "p": 8,
-    "gf": 14,
-    "gc": 24,
+    "p": 9,
+    "gf": 15,
+    "gc": 27,
     "propio": false
    },
    {
     "equipo": "OUTES F.C.",
     "pts": 0,
-    "pj": 9,
+    "pj": 10,
     "g": 0,
     "e": 0,
-    "p": 9,
-    "gf": 1,
-    "gc": 49,
+    "p": 10,
+    "gf": 2,
+    "gc": 52,
     "propio": false
    }
   ],
@@ -4363,8 +4363,8 @@ const EQUIPOS = [
     "hora": "18:30",
     "local": false,
     "rival": "AROSA S.C. \"B\"",
-    "resultado": "",
-    "campo": "Manuel Jiménez Abalo (Vilagarcía)"
+    "resultado": "2-1",
+    "campo": ""
    },
    {
     "jornada": 11,
@@ -4373,7 +4373,7 @@ const EQUIPOS = [
     "local": true,
     "rival": "UMIA C.F.",
     "resultado": "",
-    "campo": ""
+    "campo": "Valiño - Cabo De Cruz"
    },
    {
     "jornada": 12,
@@ -4550,24 +4550,24 @@ const EQUIPOS = [
   "competicion": "Cadete - Preferente Futgal · Grupo 2",
   "urlClasificacion": "https://www.futgal.es/pnfg/NPcd/NFG_VisClasificacion?cod_primaria=1000120&codgrupo=26991089&codcompeticion=26991087",
   "escudos": {
-   "C.F. DUMBRIA": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000905915_EscudoFutbolColor.jpg",
-   "S.D. MONTEPORREIRO": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000934344_escudo_monteporreiro_web.png",
-   "A.C.D. A SECA": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000786422_New_Escudo_poco_peso.jpg",
-   "BERTAMIRANS F.C.": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0001606570_escudo_bertamirans__1_.png",
    "E.D. AROUSA S.D.": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000000265_ED_AROUSA_SD.jpg",
-   "C.F. NOIA": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0001349346_escudo_noia1.png",
-   "UMIA C.F.": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000735754_umia_cf.jpg",
-   "OUTES F.C.": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000933254_esc112.png",
-   "CIDADE DE RIBEIRA C.F.": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000932504_Escudo_Cidade_de_Ribeira_bis.jpg",
-   "ESCOLA ESTRADA FUTBOL BASE": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000639247_ESCU_ESCO.jpg",
-   "A.J. LEREZ": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0001793709_Logo_Juve_Imagen__1_.jpg",
-   "SALGUEIRIÑOS C.F.": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0001003381_escudo_salgue.jpg",
    "AROSA S.C. \"B\"": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0011661351_ESCUDO_AROSA_SC.png",
    "E.F.M CONCELLO DE BOIRO": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000934497_escudo.jpg",
+   "UMIA C.F.": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000735754_umia_cf.jpg",
+   "OUTES F.C.": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000933254_esc112.png",
    "ALONDRAS C.F.": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0001008039_logoescalado_yotube.jpg",
-   "PONTEVEDRA C.F.": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0001003273_pontevedra_plano.jpg"
+   "PONTEVEDRA C.F.": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0001003273_pontevedra_plano.jpg",
+   "A.J. LEREZ": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0001793709_Logo_Juve_Imagen__1_.jpg",
+   "BERTAMIRANS F.C.": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0001606570_escudo_bertamirans__1_.png",
+   "C.F. DUMBRIA": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000905915_EscudoFutbolColor.jpg",
+   "S.D. MONTEPORREIRO": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000934344_escudo_monteporreiro_web.png",
+   "CIDADE DE RIBEIRA C.F.": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000932504_Escudo_Cidade_de_Ribeira_bis.jpg",
+   "C.F. NOIA": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0001349346_escudo_noia1.png",
+   "ESCOLA ESTRADA FUTBOL BASE": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000639247_ESCU_ESCO.jpg",
+   "SALGUEIRIÑOS C.F.": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0001003381_escudo_salgue.jpg",
+   "A.C.D. A SECA": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000786422_New_Escudo_poco_peso.jpg"
   },
-  "descargado": "2026-11-13T22:39"
+  "descargado": "2026-11-15T09:26"
  },
  {
   "id": "cadete-b",
@@ -5075,7 +5075,7 @@ const EQUIPOS = [
    "AMIO S.D.": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0001073035_ESCUDO_RENOVADO_2021.PNG",
    "E.F. LALIN": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000902743_88B6F7FE_29E4_4005_93D3_257302162D5C.jpeg"
   },
-  "descargado": "2026-11-14T03:15"
+  "descargado": "2026-11-15T09:27"
  },
  {
   "id": "cadete-c",
@@ -5130,6 +5130,17 @@ const EQUIPOS = [
     "propio": false
    },
    {
+    "equipo": "S.D. ESCLAVITUD",
+    "pts": 14,
+    "pj": 6,
+    "g": 4,
+    "e": 2,
+    "p": 0,
+    "gf": 19,
+    "gc": 9,
+    "propio": false
+   },
+   {
     "equipo": "ATLETICO OLEIROS",
     "pts": 13,
     "pj": 5,
@@ -5143,34 +5154,23 @@ const EQUIPOS = [
    {
     "equipo": "AMIO S.D. \"B\"",
     "pts": 12,
-    "pj": 5,
+    "pj": 6,
     "g": 4,
     "e": 0,
-    "p": 1,
-    "gf": 22,
-    "gc": 6,
-    "propio": false
-   },
-   {
-    "equipo": "S.D. ESCLAVITUD",
-    "pts": 11,
-    "pj": 5,
-    "g": 3,
-    "e": 2,
-    "p": 0,
-    "gf": 16,
-    "gc": 8,
+    "p": 2,
+    "gf": 23,
+    "gc": 9,
     "propio": false
    },
    {
     "equipo": "ATLETICO FATIMA \"B\"",
-    "pts": 9,
-    "pj": 5,
-    "g": 3,
+    "pts": 12,
+    "pj": 6,
+    "g": 4,
     "e": 0,
     "p": 2,
-    "gf": 18,
-    "gc": 12,
+    "gf": 21,
+    "gc": 13,
     "propio": false
    },
    {
@@ -5231,12 +5231,12 @@ const EQUIPOS = [
    {
     "equipo": "PUEBLA F.C.",
     "pts": 4,
-    "pj": 5,
+    "pj": 6,
     "g": 1,
     "e": 1,
-    "p": 3,
-    "gf": 5,
-    "gc": 11,
+    "p": 4,
+    "gf": 6,
+    "gc": 14,
     "propio": false
    },
    {
@@ -5527,7 +5527,7 @@ const EQUIPOS = [
    "C.F. NOIA \"B\"": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0001349346_escudo_noia1.png",
    "CIDADE DE RIBEIRA C.F. \"B\"": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000932504_Escudo_Cidade_de_Ribeira_bis.jpg"
   },
-  "descargado": "2026-11-14T03:16"
+  "descargado": "2026-11-15T09:27"
  },
  {
   "id": "infantil-a",
@@ -5563,34 +5563,34 @@ const EQUIPOS = [
   "clasificacion": [
    {
     "equipo": "AROSA S.C.",
-    "pts": 27,
-    "pj": 9,
-    "g": 9,
+    "pts": 30,
+    "pj": 10,
+    "g": 10,
     "e": 0,
     "p": 0,
-    "gf": 59,
+    "gf": 69,
     "gc": 1,
     "propio": false
    },
    {
     "equipo": "A.C.D. A SECA",
-    "pts": 27,
-    "pj": 9,
-    "g": 9,
+    "pts": 30,
+    "pj": 10,
+    "g": 10,
     "e": 0,
     "p": 0,
-    "gf": 55,
-    "gc": 5,
+    "gf": 58,
+    "gc": 6,
     "propio": false
    },
    {
     "equipo": "BERTAMIRANS F.C.",
-    "pts": 21,
-    "pj": 9,
-    "g": 7,
+    "pts": 24,
+    "pj": 10,
+    "g": 8,
     "e": 0,
     "p": 2,
-    "gf": 53,
+    "gf": 69,
     "gc": 14,
     "propio": false
    },
@@ -5606,6 +5606,17 @@ const EQUIPOS = [
     "propio": false
    },
    {
+    "equipo": "C.D. CONXO SANTIAGO \"B\"",
+    "pts": 21,
+    "pj": 10,
+    "g": 7,
+    "e": 0,
+    "p": 3,
+    "gf": 32,
+    "gc": 12,
+    "propio": false
+   },
+   {
     "equipo": "ESCOLA ESTRADA FUTBOL BASE",
     "pts": 19,
     "pj": 9,
@@ -5617,58 +5628,47 @@ const EQUIPOS = [
     "propio": false
    },
    {
-    "equipo": "C.D. CONXO SANTIAGO \"B\"",
-    "pts": 18,
-    "pj": 9,
-    "g": 6,
-    "e": 0,
-    "p": 3,
-    "gf": 29,
-    "gc": 12,
-    "propio": false
-   },
-   {
     "equipo": "E.F. PORTERO 2000",
     "pts": 16,
-    "pj": 9,
+    "pj": 10,
     "g": 5,
     "e": 1,
-    "p": 3,
-    "gf": 34,
-    "gc": 14,
+    "p": 4,
+    "gf": 35,
+    "gc": 17,
     "propio": false
    },
    {
     "equipo": "A.X. SARAIBA DO MAR",
     "pts": 16,
-    "pj": 9,
+    "pj": 10,
     "g": 5,
     "e": 1,
-    "p": 3,
+    "p": 4,
     "gf": 26,
-    "gc": 14,
+    "gc": 17,
     "propio": false
    },
    {
     "equipo": "S.D. COMPOSTELA",
-    "pts": 11,
-    "pj": 9,
-    "g": 3,
+    "pts": 14,
+    "pj": 10,
+    "g": 4,
     "e": 2,
     "p": 4,
-    "gf": 25,
+    "gf": 28,
     "gc": 14,
     "propio": false
    },
    {
     "equipo": "C.D. MOAÑA",
     "pts": 10,
-    "pj": 9,
+    "pj": 10,
     "g": 3,
     "e": 1,
-    "p": 5,
+    "p": 6,
     "gf": 28,
-    "gc": 20,
+    "gc": 23,
     "propio": false
    },
    {
@@ -5685,12 +5685,12 @@ const EQUIPOS = [
    {
     "equipo": "C.F. NOIA",
     "pts": 5,
-    "pj": 9,
+    "pj": 10,
     "g": 1,
     "e": 2,
-    "p": 6,
+    "p": 7,
     "gf": 15,
-    "gc": 68,
+    "gc": 78,
     "propio": false
    },
    {
@@ -5729,12 +5729,12 @@ const EQUIPOS = [
    {
     "equipo": "JUV. CAMBADOS",
     "pts": 0,
-    "pj": 9,
+    "pj": 10,
     "g": 0,
     "e": 0,
-    "p": 9,
+    "p": 10,
     "gf": 2,
-    "gc": 87,
+    "gc": 103,
     "propio": false
    }
   ],
@@ -6030,7 +6030,7 @@ const EQUIPOS = [
    "E.F.M CONCELLO DE BOIRO": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000934497_escudo.jpg",
    "E. F. C. CARNOTA": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0001019951_efc_carnota.png"
   },
-  "descargado": "2026-11-14T03:16"
+  "descargado": "2026-11-15T09:27"
  },
  {
   "id": "infantil-b",
@@ -6063,10 +6063,10 @@ const EQUIPOS = [
   "clasificacion": [
    {
     "equipo": "ULLA PONTECESURES C.F.",
-    "pts": 24,
-    "pj": 8,
+    "pts": 25,
+    "pj": 9,
     "g": 8,
-    "e": 0,
+    "e": 1,
     "p": 0,
     "gf": 38,
     "gc": 7,
@@ -6074,108 +6074,86 @@ const EQUIPOS = [
    },
    {
     "equipo": "A.D. NICRARIENSE",
-    "pts": 21,
-    "pj": 8,
-    "g": 7,
+    "pts": 24,
+    "pj": 9,
+    "g": 8,
     "e": 0,
     "p": 1,
-    "gf": 36,
-    "gc": 8,
+    "gf": 38,
+    "gc": 9,
     "propio": false
    },
    {
     "equipo": "S.D. COMPOSTELA \"B\"",
-    "pts": 19,
-    "pj": 8,
-    "g": 6,
+    "pts": 22,
+    "pj": 9,
+    "g": 7,
     "e": 1,
     "p": 1,
-    "gf": 31,
-    "gc": 11,
+    "gf": 38,
+    "gc": 13,
     "propio": false
    },
    {
     "equipo": "S.R. CALO",
-    "pts": 18,
-    "pj": 8,
-    "g": 5,
+    "pts": 21,
+    "pj": 9,
+    "g": 6,
     "e": 3,
     "p": 0,
-    "gf": 38,
-    "gc": 10,
+    "gf": 52,
+    "gc": 11,
     "propio": false
    },
    {
     "equipo": "S.D. VILLESTRO",
-    "pts": 15,
-    "pj": 8,
-    "g": 5,
+    "pts": 18,
+    "pj": 9,
+    "g": 6,
     "e": 0,
     "p": 3,
-    "gf": 26,
-    "gc": 16,
+    "gf": 28,
+    "gc": 17,
+    "propio": false
+   },
+   {
+    "equipo": "BERTAMIRANS F.C. \"B\"",
+    "pts": 16,
+    "pj": 9,
+    "g": 5,
+    "e": 1,
+    "p": 3,
+    "gf": 25,
+    "gc": 8,
     "propio": false
    },
    {
     "equipo": "VEDRA-BOQUEIXÓN ESCOLA DEPORTIVA",
-    "pts": 14,
-    "pj": 8,
+    "pts": 15,
+    "pj": 9,
     "g": 4,
-    "e": 2,
+    "e": 3,
     "p": 2,
     "gf": 32,
     "gc": 13,
     "propio": false
    },
    {
-    "equipo": "BERTAMIRANS F.C. \"B\"",
-    "pts": 13,
-    "pj": 8,
+    "equipo": "ESCOLA DEPORTIVA O DOLMEN DE TORDOIA",
+    "pts": 12,
+    "pj": 9,
     "g": 4,
-    "e": 1,
-    "p": 3,
-    "gf": 21,
-    "gc": 7,
+    "e": 0,
+    "p": 5,
+    "gf": 32,
+    "gc": 31,
     "propio": false
    },
    {
     "equipo": "A.D. MANUEL PELETEIRO",
     "pts": 12,
-    "pj": 8,
+    "pj": 9,
     "g": 4,
-    "e": 0,
-    "p": 4,
-    "gf": 27,
-    "gc": 26,
-    "propio": false
-   },
-   {
-    "equipo": "E.F. LALIN \"B\"",
-    "pts": 11,
-    "pj": 8,
-    "g": 3,
-    "e": 2,
-    "p": 3,
-    "gf": 20,
-    "gc": 15,
-    "propio": false
-   },
-   {
-    "equipo": "AMIO S.D.",
-    "pts": 9,
-    "pj": 8,
-    "g": 3,
-    "e": 0,
-    "p": 5,
-    "gf": 23,
-    "gc": 22,
-    "propio": false
-   },
-   {
-    "equipo": "ESCOLA DEPORTIVA O DOLMEN DE TORDOIA",
-    "pts": 9,
-    "pj": 8,
-    "g": 3,
     "e": 0,
     "p": 5,
     "gf": 28,
@@ -6183,58 +6161,80 @@ const EQUIPOS = [
     "propio": false
    },
    {
-    "equipo": "E.D.S. SANTA MARTA",
-    "pts": 7,
-    "pj": 8,
+    "equipo": "E.F. LALIN \"B\"",
+    "pts": 11,
+    "pj": 9,
+    "g": 3,
+    "e": 2,
+    "p": 4,
+    "gf": 23,
+    "gc": 19,
+    "propio": false
+   },
+   {
+    "equipo": "AMIO S.D.",
+    "pts": 9,
+    "pj": 9,
+    "g": 3,
+    "e": 0,
+    "p": 6,
+    "gf": 24,
+    "gc": 26,
+    "propio": false
+   },
+   {
+    "equipo": "VICTORIA F.C. \"B\"",
+    "pts": 8,
+    "pj": 9,
     "g": 2,
-    "e": 1,
+    "e": 2,
     "p": 5,
-    "gf": 10,
-    "gc": 28,
+    "gf": 12,
+    "gc": 31,
     "propio": false
    },
    {
     "equipo": "ATLETICO FATIMA",
     "pts": 7,
-    "pj": 8,
+    "pj": 9,
     "g": 2,
     "e": 1,
-    "p": 5,
-    "gf": 19,
-    "gc": 38,
+    "p": 6,
+    "gf": 20,
+    "gc": 42,
     "propio": false
    },
    {
-    "equipo": "VICTORIA F.C. \"B\"",
-    "pts": 5,
-    "pj": 8,
-    "g": 1,
-    "e": 2,
-    "p": 5,
-    "gf": 8,
-    "gc": 30,
+    "equipo": "E.D.S. SANTA MARTA",
+    "pts": 7,
+    "pj": 9,
+    "g": 2,
+    "e": 1,
+    "p": 6,
+    "gf": 12,
+    "gc": 35,
     "propio": false
    },
    {
     "equipo": "E.F.M CONCELLO DE BOIRO \"B\"",
     "pts": 1,
-    "pj": 8,
+    "pj": 9,
     "g": 0,
     "e": 1,
-    "p": 7,
-    "gf": 7,
-    "gc": 48,
+    "p": 8,
+    "gf": 8,
+    "gc": 50,
     "propio": true
    },
    {
     "equipo": "CIDADE DE RIBEIRA C.F. \"B\"",
     "pts": 0,
-    "pj": 8,
+    "pj": 9,
     "g": 0,
     "e": 0,
-    "p": 8,
-    "gf": 4,
-    "gc": 61,
+    "p": 9,
+    "gf": 5,
+    "gc": 75,
     "propio": false
    }
   ],
@@ -6317,8 +6317,8 @@ const EQUIPOS = [
     "hora": "11:15",
     "local": false,
     "rival": "S.D. VILLESTRO",
-    "resultado": "",
-    "campo": "Suso Conde"
+    "resultado": "2-1",
+    "campo": ""
    },
    {
     "jornada": 10,
@@ -6327,7 +6327,7 @@ const EQUIPOS = [
     "local": true,
     "rival": "AMIO S.D.",
     "resultado": "",
-    "campo": ""
+    "campo": "Vista Alegre - Boiro"
    },
    {
     "jornada": 11,
@@ -6513,24 +6513,24 @@ const EQUIPOS = [
   "competicion": "Infantil - 1ª Futgal · Santiago",
   "urlClasificacion": "https://www.futgal.es/pnfg/NPcd/NFG_VisClasificacion?cod_primaria=1000120&codgrupo=26991288&codcompeticion=26991286",
   "escudos": {
-   "E.D.S. SANTA MARTA": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000932995_Escudo_JPEG.jpg",
-   "S.D. COMPOSTELA \"B\"": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0001010839_logo___copia.jpg",
-   "E.F. LALIN \"B\"": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000902743_88B6F7FE_29E4_4005_93D3_257302162D5C.jpeg",
    "ESCOLA DEPORTIVA O DOLMEN DE TORDOIA": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0001008000_Escudo_O_Dolmen.jpg",
-   "AMIO S.D.": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0001073035_ESCUDO_RENOVADO_2021.PNG",
-   "BERTAMIRANS F.C. \"B\"": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0001606570_escudo_bertamirans__1_.png",
-   "S.D. VILLESTRO": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0001041063_CEE6374B_41AB_4193_9B06_BF6B0D94B4B1.jpeg",
-   "E.F.M CONCELLO DE BOIRO \"B\"": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000934497_escudo.jpg",
-   "CIDADE DE RIBEIRA C.F. \"B\"": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000932504_Escudo_Cidade_de_Ribeira_bis.jpg",
-   "S.R. CALO": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0001666392_escudo_cl__sico.png",
-   "ATLETICO FATIMA": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0011656472_Escudo_Fatima_bo_2026_fondo_transparente.png",
-   "VICTORIA F.C. \"B\"": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000600738_Victoria_FC.jpg",
    "ULLA PONTECESURES C.F.": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000000276_ULLA_CF.jpg",
-   "VEDRA-BOQUEIXÓN ESCOLA DEPORTIVA": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0001218635_Vedra_Boqueixon_ED.png",
+   "A.D. MANUEL PELETEIRO": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000659357_LOGO_ADM.png",
+   "E.F. LALIN \"B\"": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000902743_88B6F7FE_29E4_4005_93D3_257302162D5C.jpeg",
+   "S.R. CALO": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0001666392_escudo_cl__sico.png",
    "A.D. NICRARIENSE": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000668205_logo_JPEG.jpg",
-   "A.D. MANUEL PELETEIRO": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000659357_LOGO_ADM.png"
+   "VICTORIA F.C. \"B\"": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000600738_Victoria_FC.jpg",
+   "CIDADE DE RIBEIRA C.F. \"B\"": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000932504_Escudo_Cidade_de_Ribeira_bis.jpg",
+   "BERTAMIRANS F.C. \"B\"": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0001606570_escudo_bertamirans__1_.png",
+   "ATLETICO FATIMA": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0011656472_Escudo_Fatima_bo_2026_fondo_transparente.png",
+   "E.F.M CONCELLO DE BOIRO \"B\"": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000934497_escudo.jpg",
+   "AMIO S.D.": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0001073035_ESCUDO_RENOVADO_2021.PNG",
+   "S.D. COMPOSTELA \"B\"": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0001010839_logo___copia.jpg",
+   "S.D. VILLESTRO": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0001041063_CEE6374B_41AB_4193_9B06_BF6B0D94B4B1.jpeg",
+   "VEDRA-BOQUEIXÓN ESCOLA DEPORTIVA": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0001218635_Vedra_Boqueixon_ED.png",
+   "E.D.S. SANTA MARTA": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000932995_Escudo_JPEG.jpg"
   },
-  "descargado": "2026-11-14T03:16"
+  "descargado": "2026-11-15T09:28"
  },
  {
   "id": "infantil-c",
