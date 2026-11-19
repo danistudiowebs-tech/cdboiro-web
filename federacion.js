@@ -1,5 +1,5 @@
 // GENERADO por actualizar.py desde futgal.es. No editar a mano.
-const ACTUALIZADO = "2026-11-19T03:29";
+const ACTUALIZADO = "2026-11-19T13:07";
 const EQUIPOS = [
  {
   "id": "primer-equipo",
@@ -5919,7 +5919,7 @@ const EQUIPOS = [
    {
     "jornada": 11,
     "fecha": "2026-11-21",
-    "hora": "",
+    "hora": "12:15",
     "local": false,
     "rival": "E.F. LALIN",
     "resultado": "",
@@ -6100,24 +6100,24 @@ const EQUIPOS = [
   "competicion": "Infantil - Preferente Futgal · Grupo 2",
   "urlClasificacion": "https://www.futgal.es/pnfg/NPcd/NFG_VisClasificacion?cod_primaria=1000120&codgrupo=26991098&codcompeticion=26991096",
   "escudos": {
+   "U.C. CEE": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000002453_UCCEE.jpg",
+   "C.F. NOIA": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0001349346_escudo_noia1.png",
+   "A.X. SARAIBA DO MAR": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0001563699_WhatsApp_Image_2025_02_22_at_20.42.19.jpeg",
+   "E.F. PORTERO 2000": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0001637194_EF_Portero_2000_LOGO_OFICIAL_Vectorizado__2_.png",
+   "A.C.D. A SECA": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000786422_New_Escudo_poco_peso.jpg",
+   "C.D. MOAÑA": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000932908_escudo.jpg",
    "E.F. LALIN": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000902743_88B6F7FE_29E4_4005_93D3_257302162D5C.jpeg",
    "E.F.M CONCELLO DE BOIRO": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000934497_escudo.jpg",
+   "ESCOLA ESTRADA FUTBOL BASE": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000639247_ESCU_ESCO.jpg",
+   "AROSA S.C.": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0011661351_ESCUDO_AROSA_SC.png",
    "E. F. C. CARNOTA": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0001019951_efc_carnota.png",
    "JUV. CAMBADOS": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0001505452_cj_cambados_logo.png",
    "BERTAMIRANS F.C.": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0001606570_escudo_bertamirans__1_.png",
    "S.D. COMPOSTELA": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0001010839_logo___copia.jpg",
-   "A.X. SARAIBA DO MAR": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0001563699_WhatsApp_Image_2025_02_22_at_20.42.19.jpeg",
-   "E.F. PORTERO 2000": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0001637194_EF_Portero_2000_LOGO_OFICIAL_Vectorizado__2_.png",
    "C.D. CONXO SANTIAGO \"B\"": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000727207_ESCUDO_CD_CONXO_SANTIAGO.jpg",
-   "VICTORIA F.C.": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000600738_Victoria_FC.jpg",
-   "ESCOLA ESTRADA FUTBOL BASE": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000639247_ESCU_ESCO.jpg",
-   "AROSA S.C.": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0011661351_ESCUDO_AROSA_SC.png",
-   "U.C. CEE": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000002453_UCCEE.jpg",
-   "C.F. NOIA": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0001349346_escudo_noia1.png",
-   "A.C.D. A SECA": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000786422_New_Escudo_poco_peso.jpg",
-   "C.D. MOAÑA": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000932908_escudo.jpg"
+   "VICTORIA F.C.": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000600738_Victoria_FC.jpg"
   },
-  "descargado": "2026-11-17T03:55"
+  "descargado": "2026-11-19T13:06"
  },
  {
   "id": "infantil-b",
@@ -6617,7 +6617,7 @@ const EQUIPOS = [
    "S.D. COMPOSTELA \"B\"": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0001010839_logo___copia.jpg",
    "S.D. VILLESTRO": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0001041063_CEE6374B_41AB_4193_9B06_BF6B0D94B4B1.jpeg"
   },
-  "descargado": "2026-11-17T22:24"
+  "descargado": "2026-11-19T13:06"
  },
  {
   "id": "infantil-c",
@@ -7057,7 +7057,7 @@ const EQUIPOS = [
    "AMIO S.D. \"B\"": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0001073035_ESCUDO_RENOVADO_2021.PNG",
    "C.D. UNION": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000932451_escudo_color.png"
   },
-  "descargado": "2026-11-17T22:24"
+  "descargado": "2026-11-19T13:07"
  },
  {
   "id": "infantil-d",
@@ -7430,7 +7430,7 @@ const EQUIPOS = [
    "C.F. NOIA \"C\"": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0001349346_escudo_noia1.png",
    "BERTAMIRANS F.C. \"D\"": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0001606570_escudo_bertamirans__1_.png"
   },
-  "descargado": "2026-11-17T22:25"
+  "descargado": "2026-11-19T13:07"
  },
  {
   "id": "alevin-a",
@@ -7867,7 +7867,7 @@ const EQUIPOS = [
    "ESCOLA ESTRADA FUTBOL BASE": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000639247_ESCU_ESCO.jpg",
    "C.D. CONXO SANTIAGO": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000727207_ESCUDO_CD_CONXO_SANTIAGO.jpg"
   },
-  "descargado": "2026-11-17T22:25"
+  "descargado": "2026-11-19T13:07"
  },
  {
   "id": "alevin-b",
