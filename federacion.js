@@ -1,5 +1,5 @@
 // GENERADO por actualizar.py desde futgal.es. No editar a mano.
-const ACTUALIZADO = "2026-11-20T03:16";
+const ACTUALIZADO = "2026-11-20T11:48";
 const EQUIPOS = [
  {
   "id": "primer-equipo",
@@ -2260,7 +2260,7 @@ const EQUIPOS = [
    "C.D. LUGO \"B\"": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000717289_CD_LUGO_logo_color_BAJA.jpg",
    "ESCOLA DE FÚTBOL DSF": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0001813655_logo_EFDS_by_Nortempo.png"
   },
-  "descargado": "2026-11-18T21:58"
+  "descargado": "2026-11-20T11:48"
  },
  {
   "id": "femenino-a",
@@ -2700,7 +2700,7 @@ const EQUIPOS = [
    "VICTORIA C.F. \"B\"": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000004135_victoriacfblanco.jpg",
    "ORZAN S.D.": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000881577_escudo_orzan.png"
   },
-  "descargado": "2026-11-18T21:57"
+  "descargado": "2026-11-20T11:47"
  },
  {
   "id": "femenino-b",
@@ -3148,7 +3148,7 @@ const EQUIPOS = [
    "ANTAS S.D. \"B\"": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0011585762_SD_ANTAS.png",
    "C.D. DODRO": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000888594_escudo_dodro.jpg"
   },
-  "descargado": "2026-11-18T21:57"
+  "descargado": "2026-11-20T11:47"
  },
  {
   "id": "juvenil-b",
@@ -9609,7 +9609,7 @@ const EQUIPOS = [
    "S.D. XUVENTÚ AGUIÑO \"B\"": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0001697225_ESCUDO_SD_XUVENTU_AGUI__O.png",
    "PORTO DO SON C.F. \"B\"": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0001701458_porto_do_son.jpg"
   },
-  "descargado": "2026-11-18T13:59"
+  "descargado": "2026-11-20T11:47"
  },
  {
   "id": "prebenjamin-a",
@@ -9855,7 +9855,7 @@ const EQUIPOS = [
    "C.D. CONXO SANTIAGO": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000727207_ESCUDO_CD_CONXO_SANTIAGO.jpg",
    "S.R. CALO": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0001666392_escudo_cl__sico.png"
   },
-  "descargado": "2026-11-18T21:57"
+  "descargado": "2026-11-20T11:48"
  },
  {
   "id": "prebenjamin-b",
