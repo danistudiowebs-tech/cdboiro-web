@@ -1,5 +1,5 @@
 // GENERADO por actualizar.py desde futgal.es. No editar a mano.
-const ACTUALIZADO = "2026-11-20T11:48";
+const ACTUALIZADO = "2026-11-20T20:21";
 const EQUIPOS = [
  {
   "id": "primer-equipo",
@@ -3656,7 +3656,7 @@ const EQUIPOS = [
    "BERTAMIRANS F.C. \"B\"": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0001606570_escudo_bertamirans__1_.png",
    "C.D. COMPAÑÍA DE MARÍA": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0001661407_ESCUDO.jpg"
   },
-  "descargado": "2026-11-18T21:58"
+  "descargado": "2026-11-20T20:19"
  },
  {
   "id": "juvenil-c",
@@ -4151,7 +4151,7 @@ const EQUIPOS = [
    "AMIO S.D. \"C\"": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0001073035_ESCUDO_RENOVADO_2021.PNG",
    "C.D. DODRO": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000888594_escudo_dodro.jpg"
   },
-  "descargado": "2026-11-19T03:28"
+  "descargado": "2026-11-20T20:20"
  },
  {
   "id": "cadete-a",
@@ -4654,7 +4654,7 @@ const EQUIPOS = [
    "OUTES F.C.": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000933254_esc112.png",
    "ALONDRAS C.F.": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0001008039_logoescalado_yotube.jpg"
   },
-  "descargado": "2026-11-19T03:28"
+  "descargado": "2026-11-20T20:20"
  },
  {
   "id": "cadete-b",
@@ -4837,6 +4837,17 @@ const EQUIPOS = [
     "propio": false
    },
    {
+    "equipo": "ESCOLA DEPORTIVA O DOLMEN DE TORDOIA",
+    "pts": 3,
+    "pj": 10,
+    "g": 1,
+    "e": 0,
+    "p": 9,
+    "gf": 17,
+    "gc": 51,
+    "propio": false
+   },
+   {
     "equipo": "SOCIEDADE DEPORTIVA O PINO",
     "pts": 1,
     "pj": 9,
@@ -4850,23 +4861,12 @@ const EQUIPOS = [
    {
     "equipo": "C.D. SAR EXTRAMUNDI",
     "pts": 1,
-    "pj": 9,
+    "pj": 10,
     "g": 0,
     "e": 1,
-    "p": 8,
-    "gf": 9,
-    "gc": 63,
-    "propio": false
-   },
-   {
-    "equipo": "ESCOLA DEPORTIVA O DOLMEN DE TORDOIA",
-    "pts": 0,
-    "pj": 9,
-    "g": 0,
-    "e": 0,
     "p": 9,
-    "gf": 14,
-    "gc": 51,
+    "gf": 9,
+    "gc": 66,
     "propio": false
    }
   ],
@@ -5162,7 +5162,7 @@ const EQUIPOS = [
    "VICTORIA F.C. \"B\"": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000600738_Victoria_FC.jpg",
    "BERTAMIRANS F.C. \"B\"": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0001606570_escudo_bertamirans__1_.png"
   },
-  "descargado": "2026-11-19T03:29"
+  "descargado": "2026-11-20T20:21"
  },
  {
   "id": "cadete-c",
@@ -10058,6 +10058,6 @@ const EQUIPOS = [
    "S.D. XUVENTÚ AGUIÑO": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0001697225_ESCUDO_SD_XUVENTU_AGUI__O.png",
    "E.F.M CONCELLO DE BOIRO \"B\"": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000934497_escudo.jpg"
   },
-  "descargado": "2026-11-19T03:28"
+  "descargado": "2026-11-20T20:20"
  }
 ];
