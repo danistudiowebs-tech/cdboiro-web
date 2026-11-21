@@ -1,5 +1,5 @@
 // GENERADO por actualizar.py desde futgal.es. No editar a mano.
-const ACTUALIZADO = "2026-11-20T20:21";
+const ACTUALIZADO = "2026-11-21T02:16";
 const EQUIPOS = [
  {
   "id": "primer-equipo",
@@ -5614,7 +5614,7 @@ const EQUIPOS = [
    "S.D. VILLESTRO": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0001041063_CEE6374B_41AB_4193_9B06_BF6B0D94B4B1.jpeg",
    "S.D. ESCLAVITUD": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000001303_Esclavitud.jpg"
   },
-  "descargado": "2026-11-19T03:29"
+  "descargado": "2026-11-21T02:14"
  },
  {
   "id": "infantil-a",
@@ -6117,7 +6117,7 @@ const EQUIPOS = [
    "C.D. CONXO SANTIAGO \"B\"": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000727207_ESCUDO_CD_CONXO_SANTIAGO.jpg",
    "VICTORIA F.C.": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000600738_Victoria_FC.jpg"
   },
-  "descargado": "2026-11-19T13:06"
+  "descargado": "2026-11-21T02:15"
  },
  {
   "id": "infantil-b",
@@ -6617,7 +6617,7 @@ const EQUIPOS = [
    "S.D. COMPOSTELA \"B\"": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0001010839_logo___copia.jpg",
    "S.D. VILLESTRO": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0001041063_CEE6374B_41AB_4193_9B06_BF6B0D94B4B1.jpeg"
   },
-  "descargado": "2026-11-19T13:06"
+  "descargado": "2026-11-21T02:15"
  },
  {
   "id": "infantil-c",
@@ -7057,7 +7057,7 @@ const EQUIPOS = [
    "AMIO S.D. \"B\"": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0001073035_ESCUDO_RENOVADO_2021.PNG",
    "C.D. UNION": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000932451_escudo_color.png"
   },
-  "descargado": "2026-11-19T13:07"
+  "descargado": "2026-11-21T02:15"
  },
  {
   "id": "infantil-d",
@@ -7430,7 +7430,7 @@ const EQUIPOS = [
    "C.F. NOIA \"C\"": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0001349346_escudo_noia1.png",
    "BERTAMIRANS F.C. \"D\"": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0001606570_escudo_bertamirans__1_.png"
   },
-  "descargado": "2026-11-19T13:07"
+  "descargado": "2026-11-21T02:16"
  },
  {
   "id": "alevin-a",
