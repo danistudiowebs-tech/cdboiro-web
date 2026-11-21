@@ -1,5 +1,5 @@
 // GENERADO por actualizar.py desde futgal.es. No editar a mano.
-const ACTUALIZADO = "2026-11-21T09:54";
+const ACTUALIZADO = "2026-11-21T17:33";
 const EQUIPOS = [
  {
   "id": "primer-equipo",
@@ -1733,12 +1733,12 @@ const EQUIPOS = [
   "clasificacion": [
    {
     "equipo": "R.C. CELTA \"B\"",
-    "pts": 29,
-    "pj": 11,
-    "g": 9,
+    "pts": 32,
+    "pj": 12,
+    "g": 10,
     "e": 2,
     "p": 0,
-    "gf": 33,
+    "gf": 36,
     "gc": 9,
     "propio": false
    },
@@ -1755,24 +1755,35 @@ const EQUIPOS = [
    },
    {
     "equipo": "E.D. XUVENTUDE OROSO",
-    "pts": 26,
-    "pj": 11,
+    "pts": 27,
+    "pj": 12,
     "g": 8,
-    "e": 2,
+    "e": 3,
     "p": 1,
     "gf": 31,
     "gc": 11,
     "propio": false
    },
    {
+    "equipo": "RACING CLUB FERROL",
+    "pts": 21,
+    "pj": 12,
+    "g": 6,
+    "e": 3,
+    "p": 3,
+    "gf": 20,
+    "gc": 16,
+    "propio": false
+   },
+   {
     "equipo": "R.C. DEPORTIVO \"B\"",
     "pts": 19,
-    "pj": 11,
+    "pj": 12,
     "g": 6,
     "e": 1,
-    "p": 4,
+    "p": 5,
     "gf": 25,
-    "gc": 19,
+    "gc": 20,
     "propio": false
    },
    {
@@ -1787,22 +1798,11 @@ const EQUIPOS = [
     "propio": false
    },
    {
-    "equipo": "RACING CLUB FERROL",
+    "equipo": "C.D. CHOCO",
     "pts": 18,
-    "pj": 11,
+    "pj": 12,
     "g": 5,
     "e": 3,
-    "p": 3,
-    "gf": 19,
-    "gc": 16,
-    "propio": false
-   },
-   {
-    "equipo": "C.D. CHOCO",
-    "pts": 17,
-    "pj": 11,
-    "g": 5,
-    "e": 2,
     "p": 4,
     "gf": 15,
     "gc": 13,
@@ -1842,6 +1842,17 @@ const EQUIPOS = [
     "propio": false
    },
    {
+    "equipo": "U.D. OURENSE",
+    "pts": 14,
+    "pj": 12,
+    "g": 3,
+    "e": 5,
+    "p": 4,
+    "gf": 15,
+    "gc": 15,
+    "propio": false
+   },
+   {
     "equipo": "PONTEVEDRA C.F.",
     "pts": 12,
     "pj": 11,
@@ -1850,17 +1861,6 @@ const EQUIPOS = [
     "p": 5,
     "gf": 21,
     "gc": 18,
-    "propio": false
-   },
-   {
-    "equipo": "U.D. OURENSE",
-    "pts": 11,
-    "pj": 11,
-    "g": 2,
-    "e": 5,
-    "p": 4,
-    "gf": 14,
-    "gc": 15,
     "propio": false
    },
    {
@@ -1888,12 +1888,12 @@ const EQUIPOS = [
    {
     "equipo": "BERGANTIÑOS C.F.",
     "pts": 8,
-    "pj": 11,
+    "pj": 12,
     "g": 1,
     "e": 5,
-    "p": 5,
+    "p": 6,
     "gf": 11,
-    "gc": 22,
+    "gc": 23,
     "propio": false
    },
    {
@@ -1921,12 +1921,12 @@ const EQUIPOS = [
    {
     "equipo": "C.D. BOIRO",
     "pts": 5,
-    "pj": 11,
+    "pj": 12,
     "g": 1,
     "e": 2,
-    "p": 8,
+    "p": 9,
     "gf": 6,
-    "gc": 29,
+    "gc": 32,
     "propio": true
    }
   ],
@@ -2033,11 +2033,11 @@ const EQUIPOS = [
    {
     "jornada": 12,
     "fecha": "2026-11-21",
-    "hora": "16:00",
+    "hora": "16:05",
     "local": true,
     "rival": "R.C. CELTA \"B\"",
-    "resultado": "",
-    "campo": "Valiño - Cabo De Cruz"
+    "resultado": "0-3",
+    "campo": ""
    },
    {
     "jornada": 13,
@@ -2046,7 +2046,7 @@ const EQUIPOS = [
     "local": false,
     "rival": "C.D. CONXO SANTIAGO",
     "resultado": "",
-    "campo": ""
+    "campo": "Santa Isabel"
    },
    {
     "jornada": 14,
@@ -2242,25 +2242,25 @@ const EQUIPOS = [
   "urlClasificacion": "https://www.futgal.es/pnfg/NPcd/NFG_VisClasificacion?cod_primaria=1000120&codgrupo=26991075&codcompeticion=26991074",
   "escudos": {
    "U.D. OURENSE": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000029838_Escudo_Union_Deportiva_Ourense.jpg",
-   "R.C. DEPORTIVO \"B\"": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0001196017_ESCUDO_DEPOR.png",
-   "C.D. BOIRO": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000001565_Boiro_CD.jpg",
-   "R.C. CELTA \"B\"": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000628703_RC_Celta.jpg",
-   "BERGANTIÑOS C.F.": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0011658042_IMG_0489.png",
-   "RACING CLUB FERROL": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0001624274_ESCUDO.jpg",
+   "C.D. LUGO \"B\"": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000717289_CD_LUGO_logo_color_BAJA.jpg",
+   "ESCOLA DE FÚTBOL DSF": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0001813655_logo_EFDS_by_Nortempo.png",
    "E.D. XUVENTUDE OROSO": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0012023275_ESCUDOS_EDXO_2.png",
    "C.D. CHOCO": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0001007492_Logo_CD_Choco_sin_fondo__2_.jpg",
    "ATL. CORUÑA MONTAÑEROS C.F.": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000889647_AtleticoCorunaMonta.png",
    "C.D. CONXO SANTIAGO": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000727207_ESCUDO_CD_CONXO_SANTIAGO.jpg",
+   "C.D. BOIRO": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000001565_Boiro_CD.jpg",
+   "R.C. CELTA \"B\"": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000628703_RC_Celta.jpg",
+   "E.D. VAL MIÑOR NIGRÁN \"B\"": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0001624693_Escudo_con_M__rgenes.jpg",
+   "AURIENSE C.A.": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0001824860_AURIENSE_CA.png",
    "CORUXO F.C.": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000001059_CORUXO.jpg",
    "AROSA S.C.": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0011661351_ESCUDO_AROSA_SC.png",
    "PONTEVEDRA C.F.": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0001003273_pontevedra_plano.jpg",
    "C.D. AREOSA": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000000124_AREOSA.png",
-   "E.D. VAL MIÑOR NIGRÁN \"B\"": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0001624693_Escudo_con_M__rgenes.jpg",
-   "AURIENSE C.A.": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0001824860_AURIENSE_CA.png",
-   "C.D. LUGO \"B\"": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000717289_CD_LUGO_logo_color_BAJA.jpg",
-   "ESCOLA DE FÚTBOL DSF": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0001813655_logo_EFDS_by_Nortempo.png"
+   "BERGANTIÑOS C.F.": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0011658042_IMG_0489.png",
+   "R.C. DEPORTIVO \"B\"": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0001196017_ESCUDO_DEPOR.png",
+   "RACING CLUB FERROL": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0001624274_ESCUDO.jpg"
   },
-  "descargado": "2026-11-20T11:48"
+  "descargado": "2026-11-21T17:33"
  },
  {
   "id": "femenino-a",
@@ -2293,23 +2293,23 @@ const EQUIPOS = [
   "clasificacion": [
    {
     "equipo": "P.M. FRIOL",
-    "pts": 29,
-    "pj": 11,
-    "g": 9,
+    "pts": 32,
+    "pj": 12,
+    "g": 10,
     "e": 2,
     "p": 0,
-    "gf": 19,
+    "gf": 20,
     "gc": 8,
     "propio": false
    },
    {
     "equipo": "R.C. CELTA AS CELTAS \"B\"",
-    "pts": 28,
-    "pj": 11,
-    "g": 9,
+    "pts": 31,
+    "pj": 12,
+    "g": 10,
     "e": 1,
     "p": 1,
-    "gf": 27,
+    "gf": 28,
     "gc": 5,
     "propio": false
    },
@@ -2336,17 +2336,6 @@ const EQUIPOS = [
     "propio": false
    },
    {
-    "equipo": "VICTORIA F.C.",
-    "pts": 23,
-    "pj": 11,
-    "g": 7,
-    "e": 2,
-    "p": 2,
-    "gf": 26,
-    "gc": 10,
-    "propio": false
-   },
-   {
     "equipo": "ORZAN S.D.",
     "pts": 22,
     "pj": 11,
@@ -2355,6 +2344,17 @@ const EQUIPOS = [
     "p": 3,
     "gf": 14,
     "gc": 12,
+    "propio": false
+   },
+   {
+    "equipo": "VICTORIA F.C.",
+    "pts": 23,
+    "pj": 12,
+    "g": 7,
+    "e": 2,
+    "p": 3,
+    "gf": 26,
+    "gc": 11,
     "propio": false
    },
    {
@@ -2391,17 +2391,6 @@ const EQUIPOS = [
     "propio": true
    },
    {
-    "equipo": "S.D. O VAL",
-    "pts": 13,
-    "pj": 11,
-    "g": 4,
-    "e": 1,
-    "p": 6,
-    "gf": 14,
-    "gc": 28,
-    "propio": false
-   },
-   {
     "equipo": "BERGANTIÑOS C.F.",
     "pts": 14,
     "pj": 12,
@@ -2410,6 +2399,17 @@ const EQUIPOS = [
     "p": 6,
     "gf": 13,
     "gc": 27,
+    "propio": false
+   },
+   {
+    "equipo": "S.D. O VAL",
+    "pts": 13,
+    "pj": 12,
+    "g": 4,
+    "e": 1,
+    "p": 7,
+    "gf": 14,
+    "gc": 29,
     "propio": false
    },
    {
@@ -2700,7 +2700,7 @@ const EQUIPOS = [
    "VICTORIA C.F. \"B\"": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000004135_victoriacfblanco.jpg",
    "ORZAN S.D.": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000881577_escudo_orzan.png"
   },
-  "descargado": "2026-11-20T11:47"
+  "descargado": "2026-11-21T17:32"
  },
  {
   "id": "femenino-b",
@@ -3148,7 +3148,7 @@ const EQUIPOS = [
    "ANTAS S.D. \"B\"": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0011585762_SD_ANTAS.png",
    "C.D. DODRO": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000888594_escudo_dodro.jpg"
   },
-  "descargado": "2026-11-20T11:47"
+  "descargado": "2026-11-21T17:32"
  },
  {
   "id": "juvenil-b",
@@ -9076,17 +9076,6 @@ const EQUIPOS = [
     "propio": false
    },
    {
-    "equipo": "S.D. XUVENTÚ AGUIÑO",
-    "pts": 6,
-    "pj": 4,
-    "g": 2,
-    "e": 0,
-    "p": 2,
-    "gf": 15,
-    "gc": 16,
-    "propio": false
-   },
-   {
     "equipo": "BERTAMIRANS F.C. \"B\"",
     "pts": 7,
     "pj": 5,
@@ -9098,6 +9087,17 @@ const EQUIPOS = [
     "propio": false
    },
    {
+    "equipo": "S.D. XUVENTÚ AGUIÑO",
+    "pts": 6,
+    "pj": 5,
+    "g": 2,
+    "e": 0,
+    "p": 3,
+    "gf": 16,
+    "gc": 20,
+    "propio": false
+   },
+   {
     "equipo": "S.D. ESCLAVITUD",
     "pts": 5,
     "pj": 5,
@@ -9106,6 +9106,17 @@ const EQUIPOS = [
     "p": 2,
     "gf": 9,
     "gc": 12,
+    "propio": false
+   },
+   {
+    "equipo": "C.C.D. TARAGOÑA",
+    "pts": 5,
+    "pj": 5,
+    "g": 1,
+    "e": 2,
+    "p": 2,
+    "gf": 14,
+    "gc": 19,
     "propio": false
    },
    {
@@ -9128,17 +9139,6 @@ const EQUIPOS = [
     "p": 2,
     "gf": 9,
     "gc": 21,
-    "propio": false
-   },
-   {
-    "equipo": "C.C.D. TARAGOÑA",
-    "pts": 2,
-    "pj": 4,
-    "g": 0,
-    "e": 2,
-    "p": 2,
-    "gf": 10,
-    "gc": 18,
     "propio": false
    },
    {
@@ -9369,7 +9369,7 @@ const EQUIPOS = [
    "CROCHA BALOMPE C.F. - LEVANTE": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000028681_ESCUDO_CROCHA.jpg",
    "BERTAMIRANS F.C. \"B\"": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0001606570_escudo_bertamirans__1_.png"
   },
-  "descargado": "2026-11-20T03:16"
+  "descargado": "2026-11-21T17:32"
  },
  {
   "id": "benjamin-c",
@@ -9402,36 +9402,25 @@ const EQUIPOS = [
   ],
   "clasificacion": [
    {
-    "equipo": "C.C.D. TARAGOÑA \"B\"",
-    "pts": 15,
-    "pj": 5,
-    "g": 5,
-    "e": 0,
-    "p": 0,
-    "gf": 47,
-    "gc": 6,
-    "propio": false
-   },
-   {
     "equipo": "PUEBLA F.C.",
-    "pts": 15,
-    "pj": 5,
-    "g": 5,
+    "pts": 18,
+    "pj": 6,
+    "g": 6,
     "e": 0,
     "p": 0,
-    "gf": 43,
+    "gf": 50,
     "gc": 7,
     "propio": false
    },
    {
-    "equipo": "CARREIRA C.F.",
-    "pts": 12,
-    "pj": 5,
-    "g": 4,
+    "equipo": "C.C.D. TARAGOÑA \"B\"",
+    "pts": 18,
+    "pj": 6,
+    "g": 6,
     "e": 0,
-    "p": 1,
-    "gf": 46,
-    "gc": 12,
+    "p": 0,
+    "gf": 57,
+    "gc": 10,
     "propio": false
    },
    {
@@ -9446,36 +9435,36 @@ const EQUIPOS = [
     "propio": false
    },
    {
+    "equipo": "CARREIRA C.F.",
+    "pts": 12,
+    "pj": 6,
+    "g": 4,
+    "e": 0,
+    "p": 2,
+    "gf": 50,
+    "gc": 22,
+    "propio": false
+   },
+   {
     "equipo": "C.D. UNION",
-    "pts": 6,
-    "pj": 5,
-    "g": 2,
+    "pts": 9,
+    "pj": 6,
+    "g": 3,
     "e": 0,
     "p": 3,
-    "gf": 28,
+    "gf": 32,
     "gc": 27,
     "propio": false
    },
    {
     "equipo": "C.D. ROIS \"C\"",
     "pts": 6,
-    "pj": 5,
+    "pj": 6,
     "g": 2,
     "e": 0,
-    "p": 3,
+    "p": 4,
     "gf": 21,
-    "gc": 22,
-    "propio": false
-   },
-   {
-    "equipo": "CIDADE DE RIBEIRA C.F. \"B\"",
-    "pts": 4,
-    "pj": 5,
-    "g": 1,
-    "e": 1,
-    "p": 3,
-    "gf": 11,
-    "gc": 21,
+    "gc": 26,
     "propio": false
    },
    {
@@ -9488,6 +9477,17 @@ const EQUIPOS = [
     "gf": 7,
     "gc": 45,
     "propio": true
+   },
+   {
+    "equipo": "CIDADE DE RIBEIRA C.F. \"B\"",
+    "pts": 4,
+    "pj": 6,
+    "g": 1,
+    "e": 1,
+    "p": 4,
+    "gf": 11,
+    "gc": 28,
+    "propio": false
    },
    {
     "equipo": "PORTO DO SON C.F. \"B\"",
@@ -9609,7 +9609,7 @@ const EQUIPOS = [
    "S.D. XUVENTÚ AGUIÑO \"B\"": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0001697225_ESCUDO_SD_XUVENTU_AGUI__O.png",
    "PORTO DO SON C.F. \"B\"": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0001701458_porto_do_son.jpg"
   },
-  "descargado": "2026-11-20T11:47"
+  "descargado": "2026-11-21T17:33"
  },
  {
   "id": "prebenjamin-a",
