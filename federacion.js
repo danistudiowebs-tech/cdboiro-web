@@ -1,5 +1,5 @@
 // GENERADO por actualizar.py desde futgal.es. No editar a mano.
-const ACTUALIZADO = "2026-11-21T02:16";
+const ACTUALIZADO = "2026-11-21T09:54";
 const EQUIPOS = [
  {
   "id": "primer-equipo",
@@ -1697,7 +1697,7 @@ const EQUIPOS = [
     }
    }
   },
-  "descargado": "2026-11-20T03:16"
+  "descargado": "2026-11-21T09:54"
  },
  {
   "id": "juvenil-a",
@@ -7867,7 +7867,7 @@ const EQUIPOS = [
    "ESCOLA ESTRADA FUTBOL BASE": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000639247_ESCU_ESCO.jpg",
    "C.D. CONXO SANTIAGO": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000727207_ESCUDO_CD_CONXO_SANTIAGO.jpg"
   },
-  "descargado": "2026-11-19T13:07"
+  "descargado": "2026-11-21T09:53"
  },
  {
   "id": "alevin-b",
@@ -8308,7 +8308,7 @@ const EQUIPOS = [
    "PORTO DO SON C.F.": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0001701458_porto_do_son.jpg",
    "A.D. NICRARIENSE": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000668205_logo_JPEG.jpg"
   },
-  "descargado": "2026-11-20T03:15"
+  "descargado": "2026-11-21T09:53"
  },
  {
   "id": "alevin-c",
@@ -8550,7 +8550,7 @@ const EQUIPOS = [
    "CIDADE DE RIBEIRA C.F. \"C\"": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000932504_Escudo_Cidade_de_Ribeira_bis.jpg",
    "ATLETICO OLEIROS \"B\"": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0001119543_ESC_ATL_TICO_OLEIROS.png"
   },
-  "descargado": "2026-11-20T03:15"
+  "descargado": "2026-11-21T09:53"
  },
  {
   "id": "benjamin-a",
@@ -8987,7 +8987,7 @@ const EQUIPOS = [
    "ATLETICO FATIMA": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0011656472_Escudo_Fatima_bo_2026_fondo_transparente.png",
    "S.D. COMPOSTELA": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0001010839_logo___copia.jpg"
   },
-  "descargado": "2026-11-20T03:15"
+  "descargado": "2026-11-21T09:54"
  },
  {
   "id": "benjamin-b",
