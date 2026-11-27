@@ -1,5 +1,5 @@
 // GENERADO por actualizar.py desde futgal.es. No editar a mano.
-const ACTUALIZADO = "2026-11-26T23:55";
+const ACTUALIZADO = "2026-11-27T19:00";
 const EQUIPOS = [
  {
   "id": "primer-equipo",
@@ -4749,7 +4749,7 @@ const EQUIPOS = [
    "UMIA C.F.": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000735754_umia_cf.jpg",
    "E.D. AROUSA S.D.": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000000265_ED_AROUSA_SD.jpg"
   },
-  "descargado": "2026-11-25T22:32"
+  "descargado": "2026-11-27T18:59"
  },
  {
   "id": "cadete-b",
@@ -5257,7 +5257,7 @@ const EQUIPOS = [
    "AMIO S.D.": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0001073035_ESCUDO_RENOVADO_2021.PNG",
    "E.D. XUVENTUDE OROSO": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0012023275_ESCUDOS_EDXO_2.png"
   },
-  "descargado": "2026-11-25T22:33"
+  "descargado": "2026-11-27T18:59"
  },
  {
   "id": "cadete-c",
@@ -5709,7 +5709,7 @@ const EQUIPOS = [
    "C.F. NOIA \"B\"": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0001349346_escudo_noia1.png",
    "S.D. VILLESTRO": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0001041063_CEE6374B_41AB_4193_9B06_BF6B0D94B4B1.jpeg"
   },
-  "descargado": "2026-11-25T22:33"
+  "descargado": "2026-11-27T19:00"
  },
  {
   "id": "infantil-a",
@@ -6212,7 +6212,7 @@ const EQUIPOS = [
    "E.F.M CONCELLO DE BOIRO": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000934497_escudo.jpg",
    "U.C. CEE": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000002453_UCCEE.jpg"
   },
-  "descargado": "2026-11-25T22:33"
+  "descargado": "2026-11-27T19:00"
  },
  {
   "id": "infantil-b",
@@ -9950,7 +9950,7 @@ const EQUIPOS = [
    "C.D. CONXO SANTIAGO": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000727207_ESCUDO_CD_CONXO_SANTIAGO.jpg",
    "S.R. CALO": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0001666392_escudo_cl__sico.png"
   },
-  "descargado": "2026-11-25T02:30"
+  "descargado": "2026-11-27T18:59"
  },
  {
   "id": "prebenjamin-b",
