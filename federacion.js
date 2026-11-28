@@ -1,5 +1,5 @@
 // GENERADO por actualizar.py desde futgal.es. No editar a mano.
-const ACTUALIZADO = "2026-11-27T19:00";
+const ACTUALIZADO = "2026-11-28T02:01";
 const EQUIPOS = [
  {
   "id": "primer-equipo",
@@ -6712,7 +6712,7 @@ const EQUIPOS = [
    "S.D. VILLESTRO": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0001041063_CEE6374B_41AB_4193_9B06_BF6B0D94B4B1.jpeg",
    "VEDRA-BOQUEIXÓN ESCOLA DEPORTIVA": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0001218635_Vedra_Boqueixon_ED.png"
   },
-  "descargado": "2026-11-26T05:04"
+  "descargado": "2026-11-28T02:00"
  },
  {
   "id": "infantil-c",
@@ -7152,7 +7152,7 @@ const EQUIPOS = [
    "RACING SAN LORENZO": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000003293_Racing_San_Lorenzo.JPG",
    "C.F. NOIA \"B\"": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0001349346_escudo_noia1.png"
   },
-  "descargado": "2026-11-26T05:04"
+  "descargado": "2026-11-28T02:00"
  },
  {
   "id": "infantil-d",
@@ -7525,7 +7525,7 @@ const EQUIPOS = [
    "C.F. NOIA \"C\"": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0001349346_escudo_noia1.png",
    "BERTAMIRANS F.C. \"D\"": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0001606570_escudo_bertamirans__1_.png"
   },
-  "descargado": "2026-11-26T05:05"
+  "descargado": "2026-11-28T02:00"
  },
  {
   "id": "alevin-a",
@@ -7962,7 +7962,7 @@ const EQUIPOS = [
    "E.F. LALIN": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000902743_88B6F7FE_29E4_4005_93D3_257302162D5C.jpeg",
    "CIDADE DE RIBEIRA C.F.": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000932504_Escudo_Cidade_de_Ribeira_bis.jpg"
   },
-  "descargado": "2026-11-26T05:05"
+  "descargado": "2026-11-28T02:01"
  },
  {
   "id": "alevin-b",
@@ -10153,6 +10153,6 @@ const EQUIPOS = [
    "S.D. XUVENTÚ AGUIÑO": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0001697225_ESCUDO_SD_XUVENTU_AGUI__O.png",
    "E.F.M CONCELLO DE BOIRO \"B\"": "https://rfgf.filesnovanet.es/pnfg/pimg/Clubes/00100_0000934497_escudo.jpg"
   },
-  "descargado": "2026-11-25T22:33"
+  "descargado": "2026-11-28T01:59"
  }
 ];
